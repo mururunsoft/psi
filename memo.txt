@@ -1,0 +1,7 @@
+アップ先
+https://github.com/mururunsoft/psi.git
+
+このフォルダ自体がローカルリポジトリになっている。
+gitbashを開き、cd このフォルダに移動 した後、
+git add -A
+などのコマンドでフォルダ内の全ファイルを同期
