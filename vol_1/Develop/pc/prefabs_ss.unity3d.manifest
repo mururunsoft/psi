@@ -1,12 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3570524781
+CRC: 2557741453
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8e1ffef8a45e6322cbe8131118970b4
+    Hash: aa6b22a36b0dab591e855d8566550007
   TypeTreeHash:
     serializedVersion: 2
-    Hash: db9041a7f3f100783538a91a9d60ad29
+    Hash: ce50718d23ae164a2938ee3b5ad02773
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aa6b22a36b0dab591e855d8566550007
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,6 +48,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
@@ -118,8 +123,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: Script_SpriteStudio6_Root/InformationPlay
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
-- AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
 Assets:
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_1/fairy_4_1/fairy_4_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_2/fairy_4_2/PrefabAnimation/fairy_4_2.prefab

@@ -1,0 +1,299 @@
+ManifestFileVersion: 0
+CRC: 1622228093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bab41b8530ec3cfc4742fd34c35d4a33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28b9dd648d77a525312b7fc88df6beb5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bab41b8530ec3cfc4742fd34c35d4a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6379835e446767444b98eb288010fcce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c7529314aa313948beb3850fb023713, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c833280cafe9e44bd8cbd711fd0e38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Control/Animation/Parts
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/Cell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/Status
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/UserData
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/CPE_Flyweight/Dictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/CodeValueContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerCell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerDeform
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerEffect
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInstance
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInt
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerPartsColor
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerStatus
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerUserData
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVector2
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVector3
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVertexCorrection
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Parts
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap/Cell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap/Cell/DataMesh
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh/Vertex
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh/Vertex/Bone
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/Catalog
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/ColorLabel
+- AssemblyName: Assembly-CSharp
+  ClassName: Script_SpriteStudio6_DataAnimation/DataSetup
+- AssemblyName: Assembly-CSharp
+  ClassName: Script_SpriteStudio6_Root/InformationPlay
+Assets:
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/adult_woman_2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/PrefabAnimation/child_woman_2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/adult_man_2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/adult_man_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/child_woman_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/DataCellMap/dc_adult_woman_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/DataAnimation/da_child_woman_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/DataCellMap/dc_child_woman_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/DataCellMap/dc_adult_man_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/PrefabAnimation/child_woman_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/DataAnimation/da_adult_woman_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/PrefabAnimation/adult_woman_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Texture/child_woman_2.png
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Texture/child_man_1.png
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/child_man_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/DataCellMap/dc_adult_woman_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/DataCellMap/dc_adult_man_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/DataCellMap/dc_child_woman_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/adult_woman_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Texture/child_man_2.png
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/child_woman_2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/DataAnimation/da_child_woman_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/DataCellMap/dc_child_man_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Texture/adult_woman_2.png
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Texture/adult_man_1.png
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Texture/adult_woman_1.png
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/PrefabAnimation/adult_woman_2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/PrefabAnimation/child_man_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/DataCellMap/dc_child_man_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/PrefabAnimation/adult_man_2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/DataAnimation/da_adult_woman_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_1/adult_woman_1/Material/ma_adult_woman_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Texture/adult_man_2.png
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/PrefabAnimation/child_man_2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/child_man_2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/Material/ma_adult_man_2_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_2/child_woman_2/Material/ma_child_woman_2_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_woman_2/adult_woman_2/Material/ma_adult_woman_2_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Texture/child_woman_1.png
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/DataAnimation/da_child_man_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_1/child_man_1/Material/ma_child_man_1_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/Material/ma_child_man_2_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/adult_man_2/adult_man_2/DataAnimation/da_adult_man_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Title/child_woman_1/child_woman_1/Material/ma_child_woman_1_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Title/child_man_2/child_man_2/DataAnimation/da_child_man_2.asset
+Dependencies: []

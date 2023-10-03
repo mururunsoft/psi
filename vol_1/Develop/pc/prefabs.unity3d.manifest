@@ -1,12 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2509033066
+CRC: 3188419438
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 258079ce26ad383bd20f7016c15ab6c7
+    Hash: 332e069af63a16be2e4c9be08009deb2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: efdd3b775425c6179fd6698e8b56a4b2
+    Hash: 55521c17dc6b0fdaf5e3233a20973c2b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 332e069af63a16be2e4c9be08009deb2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -121,6 +124,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 702f05e81266375468e2b47006338cf9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6d990a34ccba8ac4990eef1978aaffd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ecdc789281de6e4b85f775346442be9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 110d40e42b7d099428b343d2687ee3c4, type: 3}
 - Class: 114
@@ -337,6 +342,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -410,6 +417,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.prefab
+- Assets/assetbundle_resources/Prefab/Widgets/wid_coins.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_damage.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_migawari_circle.prefab
