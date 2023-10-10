@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 420128822
+CRC: 3111300931
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -66,4 +66,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_18:
       Name: textures_cha_cw_2.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: prefabs_ss_players.unity3d
       Dependencies: {}

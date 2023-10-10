@@ -1,0 +1,141 @@
+ManifestFileVersion: 0
+CRC: 2152300748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 806d9cc31cd03e4581e7e2e3cdd28782
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28b9dd648d77a525312b7fc88df6beb5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 806d9cc31cd03e4581e7e2e3cdd28782
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6379835e446767444b98eb288010fcce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c7529314aa313948beb3850fb023713, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c833280cafe9e44bd8cbd711fd0e38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Control/Animation/Parts
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/Cell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/PartsColor
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/Status
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Attribute/UserData
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/CPE_Flyweight/Dictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/CodeValueContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerCell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerDeform
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerEffect
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInstance
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInt
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerPartsColor
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerStatus
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerUserData
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVector2
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVector3
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerVertexCorrection
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/Parts
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap/Cell
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/CellMap/Cell/DataMesh
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh/Vertex
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/BindMesh/Vertex/Bone
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/Catalog
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Parts/Animation/ColorLabel
+- AssemblyName: Assembly-CSharp
+  ClassName: Script_SpriteStudio6_DataAnimation/DataSetup
+- AssemblyName: Assembly-CSharp
+  ClassName: Script_SpriteStudio6_Root/InformationPlay
+Assets:
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_4.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MASK.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_3.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_5_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_3_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataCellMap/dc_adult_man_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_4_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_4.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_5.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_MUL_NA.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Texture/adult_man_1.png
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/PrefabAnimation/adult_man_1_6.prefab
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_6.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_3.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/DataAnimation/da_adult_man_1_5.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/Material/ma_adult_man_1_T_INV.mat
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_1/adult_man_1/adult_man_1_6_Control.prefab
+Dependencies: []

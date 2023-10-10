@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1622228093
+CRC: 2312146568
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bab41b8530ec3cfc4742fd34c35d4a33
+    Hash: 97dae4ca959592751b6eb3ec83227166
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 28b9dd648d77a525312b7fc88df6beb5
+    Hash: 3fdbb0d0ce39438e34cc8204bfd156b9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bab41b8530ec3cfc4742fd34c35d4a33
+    Hash: 97dae4ca959592751b6eb3ec83227166
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -61,6 +61,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInt
 - AssemblyName: Assembly-CSharp
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerPartsColor
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerShader
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerSignal
 - AssemblyName: Assembly-CSharp
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerStatus
 - AssemblyName: Assembly-CSharp

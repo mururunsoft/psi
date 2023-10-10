@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1628114104
+CRC: 3388927813
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96b9de0298d74cae951c608d37325706
+    Hash: 94f749dd7d43492ea4a7a0c7196cf5b3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0ab912214dfcb895fc82dad0f82c4f67
+    Hash: 446be5465e85762c5aa3bb2e95cb5f99
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 96b9de0298d74cae951c608d37325706
+    Hash: 94f749dd7d43492ea4a7a0c7196cf5b3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -50,6 +50,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4c03dbc8b639bb43a17f439f5ba4592, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1e551922b81ce40b6579726b70c93f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
@@ -87,6 +91,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerInt
 - AssemblyName: Assembly-CSharp
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerPartsColor
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerShader
+- AssemblyName: Assembly-CSharp
+  ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerSignal
 - AssemblyName: Assembly-CSharp
   ClassName: Library_SpriteStudio6/Data/Animation/PackAttribute/ContainerStatus
 - AssemblyName: Assembly-CSharp
@@ -159,6 +167,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/child_woman_1_1/child_woman_1_1/child_woman_1_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_1/adult_man_1_1/Material/ma_adult_man_1_1_T_MASK.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_1/child_man_1_1/Material/ma_child_man_1_1_M_SUB.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/angel_3/angel_3_1/angel_3_1/DataProject/dp_angel_3_1.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_2/adult_man_2_2/Material/ma_adult_man_2_2_T_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_2/child_man_1_2/Material/ma_child_man_1_2_T_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/angel_1/angel_1_1/angel_1_1/Material/ma_angel_1_1_T_MUL.mat
@@ -254,6 +263,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_1/child_man_1_1/DataAnimation/da_child_man_1_1.asset
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_1/child_man_2_1/Material/ma_child_man_2_1_M_MUL_NA.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_1/adult_man_2_1/Material/ma_adult_man_2_1_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_2/fairy_3_2/DataProject/dp_fairy_3_2.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_2/fairy_4_2/Material/ma_fairy_4_2_T_MIX.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_1/child_man_2_1/Material/ma_child_man_2_1_T_SCR.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_2/adult_woman_2_2/Material/ma_adult_woman_2_2_M_MIX.mat
@@ -266,6 +276,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_1/adult_woman_2_1/Material/ma_adult_woman_2_1_M_MUL.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_2/fairy_4_2/Material/ma_fairy_4_2_M_MIX.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/Material/ma_devil_2_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_1/devil_3_1/DataProject/dp_devil_3_1.asset
 - Assets/assetbundle_resources/Prefab_SS/child_woman_1_1/child_woman_1_1/PrefabAnimation/child_woman_1_1.prefab
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_1/adult_man_1_1/Material/ma_adult_man_1_1_M_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_2/child_man_1_2/Material/ma_child_man_1_2_M_MIX.mat
@@ -303,6 +314,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_2/devil_3_2/Texture/devil_3_2.png
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_1/adult_man_1_1/Material/ma_adult_man_1_1_T_SUB.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_2/child_man_1_2/Material/ma_child_man_1_2_T_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/DataProject/dp_devil_2_1.asset
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_2/child_man_2_2/PrefabAnimation/child_man_2_2.prefab
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_1/adult_woman_1_1/PrefabAnimation/adult_woman_1_1.prefab
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_1/adult_woman_1_1/Material/ma_adult_woman_1_1_T_SUB.mat
@@ -360,11 +372,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/monsters/angel_3/angel_3_1/angel_3_1/Material/ma_angel_3_1_M_SCR.mat
 - Assets/assetbundle_resources/Prefab_SS/child_woman_2_1/child_woman_2_1/Material/ma_child_woman_2_1_T_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_1/devil_3_1/Material/ma_devil_3_1_M_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_1/fairy_3_1/DataProject/dp_fairy_3_1.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_2/adult_man_1_2/Material/ma_adult_man_1_2_M_MUL_NA.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_2/fairy_1_2/Material/ma_fairy_1_2_M_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_2/devil_3_2/Material/ma_devil_3_2_M_INV.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_1/fairy_3_1/Material/ma_fairy_3_1_T_EXC.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_1/adult_man_2_1/PrefabAnimation/adult_man_2_1.prefab
+- Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_2/devil_3_2/DataProject/dp_devil_3_2.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_1/adult_woman_1_1/Texture/adult_woman_1_1.png
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_2/child_man_2_2/DataCellMap/dc_child_man_2_2.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_1/adult_man_2_1/DataCellMap/dc_adult_man_2_1.asset
@@ -398,6 +412,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_1/child_man_1_1/Material/ma_child_man_1_1_T_INV.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/Material/ma_devil_2_1_T_MUL_NA.mat
 - Assets/assetbundle_resources/Prefab_SS/child_woman_2_1/child_woman_2_1/Material/ma_child_woman_2_1_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/angel_1/angel_1_1/angel_1_1/DataProject/dp_angel_1_1.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_2/fairy_1_2/Material/ma_fairy_1_2_M_INITIATOR.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_1/adult_woman_2_1/Material/ma_adult_woman_2_1_M_MIX.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_2/adult_man_1_2/Material/ma_adult_man_1_2_M_MIX.mat
@@ -473,6 +488,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_2/child_man_2_2/Material/ma_child_man_2_2_T_SUB.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_2/child_man_1_2/Material/ma_child_man_1_2_M_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_2/child_man_2_2/Material/ma_child_man_2_2_M_MUL.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/angel_3/angel_3_2/angel_3_2/DataProject/dp_angel_3_2.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_1/fairy_3_1/DataCellMap/dc_fairy_3_1.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/angel_1/angel_1_2/angel_1_2/Material/ma_angel_1_2_T_MUL.mat
 - Assets/assetbundle_resources/Prefab_SS/child_woman_2_2/child_woman_2_2/Material/ma_child_woman_2_2_T_MIX.mat
@@ -631,6 +647,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_2/adult_woman_2_2/Material/ma_adult_woman_2_2_T_SCR.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_2/adult_woman_1_2/adult_woman_1_2_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS/child_woman_1_2/child_woman_1_2/Material/ma_child_woman_1_2_M_MIX.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_2/devil_2_2/DataProject/dp_devil_2_2.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_2/devil_2_2/Material/ma_devil_2_2_M_MUL_NA.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_2/fairy_4_2/Material/ma_fairy_4_2_M_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/Material/ma_devil_2_1_M_INITIATOR.mat
@@ -651,6 +668,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_2/adult_man_2_2/Material/ma_adult_man_2_2_M_EXC.mat
 - Assets/assetbundle_resources/Prefab_SS/child_woman_1_2/child_woman_1_2/Material/ma_child_woman_1_2_M_INITIATOR.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_1/devil_3_1/Material/ma_devil_3_1_M_INITIATOR.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_1/fairy_4_1/DataProject/dp_fairy_4_1.asset
 - Assets/assetbundle_resources/Prefab_SS/child_man_1_1/child_man_1_1/Material/ma_child_man_1_1_M_INV.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_1/fairy_3_1/fairy_3_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_1/devil_3_1/DataAnimation/da_devil_3_1.asset
@@ -738,6 +756,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_2/devil_3_2/Material/ma_devil_3_2_M_MIX.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_2/adult_woman_1_2/Material/ma_adult_woman_1_2_T_INITIATOR.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_2/adult_man_2_2/Material/ma_adult_man_2_2_M_SCR.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/angel_1/angel_1_2/angel_1_2/DataProject/dp_angel_1_2.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_3/devil_3_1/devil_3_1/Material/ma_devil_3_1_M_SCR.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_2/fairy_1_2/Material/ma_fairy_1_2_T_INV.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_3/fairy_3_1/fairy_3_1/PrefabAnimation/fairy_3_1.prefab
@@ -807,6 +826,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_2/adult_woman_1_2/Material/ma_adult_woman_1_2_T_SCR.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/angel_3/angel_3_1/angel_3_1/Material/ma_angel_3_1_T_ADD.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/angel_1/angel_1_2/angel_1_2/Material/ma_angel_1_2_M_ADD.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_2/fairy_1_2/DataProject/dp_fairy_1_2.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_2/adult_man_1_2/Material/ma_adult_man_1_2_T_MUL_NA.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_1/adult_woman_2_1/Material/ma_adult_woman_2_1_T_INV.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/Material/ma_devil_2_1_T_INV.mat
@@ -847,6 +867,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/child_man_2_2/child_man_2_2/Material/ma_child_man_2_2_M_EXC.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_2_1/adult_woman_2_1/Material/ma_adult_woman_2_1_T_EXC.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_2/fairy_1_2/DataAnimation/da_fairy_1_2.asset
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_4/fairy_4_2/fairy_4_2/DataProject/dp_fairy_4_2.asset
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_2/adult_woman_1_2/Material/ma_adult_woman_1_2_T_SUB.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_2_2/adult_man_2_2/Material/ma_adult_man_2_2_T_MUL.mat
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_1/devil_2_1/Material/ma_devil_2_1_M_SCR.mat
@@ -867,6 +888,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS/players_ss_parent_sample.prefab
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_2/devil_2_2/Material/ma_devil_2_2_M_INITIATOR.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_man_1_1/adult_man_1_1/Material/ma_adult_man_1_1_T_EXC.mat
+- Assets/assetbundle_resources/Prefab_SS/monsters/fairy_1/fairy_1_1/fairy_1_1/DataProject/dp_fairy_1_1.asset
 - Assets/assetbundle_resources/Prefab_SS/monsters/devil_2/devil_2_2/devil_2_2/Material/ma_devil_2_2_T_SUB.mat
 - Assets/assetbundle_resources/Prefab_SS/adult_woman_1_1/adult_woman_1_1/adult_woman_1_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS/child_woman_1_1/child_woman_1_1/Material/ma_child_woman_1_1_M_ADD.mat
