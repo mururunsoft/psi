@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2756854940
+CRC: 353246701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 28683c8f83ad158b477475d4a6499bf8
+    Hash: 35d54acecce008a40ca9fe5771f7362a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aee6bcf7f5bbfebef5cbffac2d3e7fd2
+    Hash: fae29c4971d09fe4dab0ab63a9e99d20
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 28683c8f83ad158b477475d4a6499bf8
+    Hash: 35d54acecce008a40ca9fe5771f7362a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -205,8 +205,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5c7529314aa313948beb3850fb023713, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5888685200242984fb4a038bf31034a3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 473d5f22fbfa0dd429ba70599fd6d186, type: 3}
@@ -342,6 +340,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b21306dfaf80e9447bf79b8799d25978, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4c03dbc8b639bb43a17f439f5ba4592, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
 - Class: 115
@@ -669,6 +669,4 @@ Assets:
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss_from_3.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss_title.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/textures.unity3d

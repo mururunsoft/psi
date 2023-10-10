@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3111300931
+CRC: 2650532992
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,63 +10,51 @@ AssetBundleManifest:
       Name: voices.unity3d
       Dependencies: {}
     Info_2:
-      Name: prefabs_ss_from_3.unity3d
-      Dependencies: {}
-    Info_3:
       Name: textures.unity3d
       Dependencies: {}
-    Info_4:
+    Info_3:
       Name: textures_cha_aw_1.unity3d
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: prefabs_ss.unity3d
       Dependencies:
         Dependency_0: textures.unity3d
-        Dependency_1: textures_cha_am_1.unity3d
-    Info_6:
+    Info_5:
       Name: textures_cha_aw_2.unity3d
       Dependencies: {}
-    Info_7:
+    Info_6:
       Name: textures_cha_am_2.unity3d
       Dependencies: {}
-    Info_8:
+    Info_7:
       Name: textures_cha_cw_1.unity3d
       Dependencies: {}
-    Info_9:
+    Info_8:
       Name: prefabs.unity3d
       Dependencies:
         Dependency_0: materials.unity3d
-        Dependency_1: prefabs_ss_from_3.unity3d
-        Dependency_2: textures.unity3d
-        Dependency_3: prefabs_ss.unity3d
-        Dependency_4: prefabs_ss_title.unity3d
-    Info_10:
-      Name: prefabs_ss_title.unity3d
-      Dependencies: {}
-    Info_11:
+        Dependency_1: textures.unity3d
+        Dependency_2: prefabs_ss.unity3d
+    Info_9:
       Name: models.unity3d
       Dependencies: {}
-    Info_12:
+    Info_10:
       Name: texts.unity3d
       Dependencies: {}
-    Info_13:
+    Info_11:
       Name: musics.unity3d
       Dependencies: {}
-    Info_14:
+    Info_12:
       Name: textures_cha_cm_2.unity3d
       Dependencies: {}
-    Info_15:
+    Info_13:
       Name: textures_cha_cm_1.unity3d
       Dependencies: {}
-    Info_16:
+    Info_14:
       Name: sounds.unity3d
       Dependencies: {}
-    Info_17:
+    Info_15:
       Name: textures_cha_am_1.unity3d
       Dependencies: {}
-    Info_18:
+    Info_16:
       Name: textures_cha_cw_2.unity3d
-      Dependencies: {}
-    Info_19:
-      Name: prefabs_ss_players.unity3d
       Dependencies: {}
