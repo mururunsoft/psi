@@ -1,4 +1,5 @@
 ManifestFileVersion: 0
+<<<<<<< HEAD
 CRC: 692976911
 Hashes:
   AssetFileHash:
@@ -10,6 +11,19 @@ Hashes:
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 7af5697903e3d0fb4f483c30eb58790f
+=======
+CRC: 3470896238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35d54acecce008a40ca9fe5771f7362a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fae29c4971d09fe4dab0ab63a9e99d20
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35d54acecce008a40ca9fe5771f7362a
+>>>>>>> fcb7f227ccf8467026064ae8d65d2fd2ec8d8632
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -341,6 +355,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d4c03dbc8b639bb43a17f439f5ba4592, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
 - Class: 115
   Script: {instanceID: 0}
@@ -666,4 +682,8 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_2.prefab
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/materials.unity3d
+<<<<<<< HEAD
+=======
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss.unity3d
+>>>>>>> fcb7f227ccf8467026064ae8d65d2fd2ec8d8632
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/textures.unity3d
