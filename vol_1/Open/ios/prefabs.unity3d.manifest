@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2756854940
+CRC: 692976911
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 28683c8f83ad158b477475d4a6499bf8
+    Hash: 7af5697903e3d0fb4f483c30eb58790f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aee6bcf7f5bbfebef5cbffac2d3e7fd2
+    Hash: f8ff6ea945bc36f5fb5b1b3d2e757d8b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 28683c8f83ad158b477475d4a6499bf8
+    Hash: 7af5697903e3d0fb4f483c30eb58790f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -167,8 +167,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1c99111bd38495942a759ceac966fc8e, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6379835e446767444b98eb288010fcce, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 64230b91aaf415d49aaca7df46299595, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8f1ee1adc36a8a04a8d7c42ac5d6bc27, type: 3}
@@ -201,11 +199,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e8ac72161e3f42e4ca2df43249c315a6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 31cd1f0bd08554245aa0c4740794f1ef, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: b3251242ad3627a4c8aa0ee5687477b9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5c7529314aa313948beb3850fb023713, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5888685200242984fb4a038bf31034a3, type: 3}
 - Class: 114
@@ -224,8 +222,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8ff431cde9d322f4fbdbea9c12ef5fb3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a92b5d748695fd44aac9feef17ba415, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c1c5b7f06ff29d743b309cb5d27cf48e, type: 3}
 - Class: 114
@@ -261,13 +257,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9ec71b54664eb5e42b611df61adbf18b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: c9c833280cafe9e44bd8cbd711fd0e38, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e2a0163effd1fe6409f8a74569a9c7a3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c86dbda7b2bdbf6498e8e4c58fad52e4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ff9d1dd804e13e44c9fd5fef77fa4591, type: 3}
 - Class: 114
@@ -316,6 +312,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b7106950a06563f4a893b4e239e2e1ac, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2b56f57144898c343a817fb2aa7edb05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 45388c82570b82e4e917d08a76337daf, type: 3}
 - Class: 114
@@ -378,13 +376,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: Item_Params/Item_Param_Save_Struct
 - AssemblyName: Assembly-CSharp
-  ClassName: Library_SpriteStudio6/Control/Animation/Parts
-- AssemblyName: Assembly-CSharp
   ClassName: MyPlayfabManager/NewsData_Write_Struct
 - AssemblyName: Assembly-CSharp
   ClassName: Page_Animation
-- AssemblyName: Assembly-CSharp
-  ClassName: Script_SpriteStudio6_Root/InformationPlay
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
 - AssemblyName: Assembly-CSharp
@@ -471,6 +465,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mori_1_blocks_tate_top.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_friend.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_clock_set.prefab
+- Assets/assetbundle_resources/Prefab/Player_Sample.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_A_veryslow.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_crystal_light_1.prefab
@@ -570,6 +565,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_observer_1.prefab
 - Assets/assetbundle_resources/Prefab/Result/wid_cell_result.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_shild.prefab
+- Assets/assetbundle_resources/Prefab/players_ss_parent_sample_face.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_selectbox.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/sairy_1_\u306F\u3070\u305F\u304D1.motion3.json"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/anime_fairy_1.controller
@@ -643,6 +639,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.4096/child_woman_1_texture_00.png
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
+- Assets/assetbundle_resources/Prefab/players_ss_parent_sample.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Effects/effect_gun_yakkyo.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.controller
@@ -654,8 +651,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Widgets/cell_ranking.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
-- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
+- Assets/assetbundle_resources/Prefab/players_ss_parent.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/Live2D_Models.fadeMotionList.asset
+- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.prefab
@@ -668,7 +666,4 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_2.prefab
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/materials.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss_from_3.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/prefabs_ss_title.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/ios/textures.unity3d
