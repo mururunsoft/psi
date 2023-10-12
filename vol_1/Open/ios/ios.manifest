@@ -1,9 +1,5 @@
 ManifestFileVersion: 0
-<<<<<<< HEAD
 CRC: 319423352
-=======
-CRC: 2662027499
->>>>>>> fcb7f227ccf8467026064ae8d65d2fd2ec8d8632
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,18 +13,10 @@ AssetBundleManifest:
       Name: textures.unity3d
       Dependencies: {}
     Info_3:
-<<<<<<< HEAD
-=======
-      Name: prefabs_ss.unity3d
-      Dependencies:
-        Dependency_0: textures.unity3d
-    Info_4:
->>>>>>> fcb7f227ccf8467026064ae8d65d2fd2ec8d8632
       Name: prefabs.unity3d
       Dependencies:
         Dependency_0: materials.unity3d
         Dependency_1: textures.unity3d
-<<<<<<< HEAD
     Info_4:
       Name: models.unity3d
       Dependencies: {}
@@ -71,18 +59,3 @@ AssetBundleManifest:
     Info_17:
       Name: prefab_ss_cw_2.unity3d
       Dependencies: {}
-=======
-        Dependency_2: prefabs_ss.unity3d
-    Info_5:
-      Name: models.unity3d
-      Dependencies: {}
-    Info_6:
-      Name: texts.unity3d
-      Dependencies: {}
-    Info_7:
-      Name: musics.unity3d
-      Dependencies: {}
-    Info_8:
-      Name: sounds.unity3d
-      Dependencies: {}
->>>>>>> fcb7f227ccf8467026064ae8d65d2fd2ec8d8632
