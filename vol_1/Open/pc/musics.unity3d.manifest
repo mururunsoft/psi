@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4280521598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35b23ebda3a730e3f2e743b55cc20e79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35b23ebda3a730e3f2e743b55cc20e79
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/assetbundle_resources/Music/mu_title.wav
+- Assets/assetbundle_resources/Music/mu_entrance.wav
+- Assets/assetbundle_resources/Music/mu_sanka.wav
+- Assets/assetbundle_resources/Music/mu_wind_1.wav
+- Assets/assetbundle_resources/Music/mu_result.wav
+- Assets/assetbundle_resources/Music/mu_battle_2.wav
+- Assets/assetbundle_resources/Music/mu_psi.wav
+- Assets/assetbundle_resources/Music/mu_battle_1.wav
+- Assets/assetbundle_resources/Music/mu_battle_3.wav
+- Assets/assetbundle_resources/Music/mu_labo_1.wav
+Dependencies: []
