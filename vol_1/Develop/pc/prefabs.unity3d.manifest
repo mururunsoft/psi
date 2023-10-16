@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3116458645
+CRC: 3522614545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e0151dfd6b42ed68c13331ad5156938
+    Hash: 3f7a41dd9ab8afe7fd5a158ed5413d52
   TypeTreeHash:
     serializedVersion: 2
     Hash: f8ff6ea945bc36f5fb5b1b3d2e757d8b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7e0151dfd6b42ed68c13331ad5156938
+    Hash: 3f7a41dd9ab8afe7fd5a158ed5413d52
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -652,7 +652,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
 - Assets/assetbundle_resources/Prefab/players_ss_parent.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/Live2D_Models.fadeMotionList.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/Live2D_Models.fadeMotionList.asset
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller
