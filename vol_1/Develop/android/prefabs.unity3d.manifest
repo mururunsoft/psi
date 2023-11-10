@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1808160234
+CRC: 549722614
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89ec62b3690ac15048a7e041f671054b
+    Hash: a182057ab07ea23a42eaf7e192b4239f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f8ff6ea945bc36f5fb5b1b3d2e757d8b
+    Hash: 985d8d4cabab528d690991ea9f894e69
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 89ec62b3690ac15048a7e041f671054b
+    Hash: a182057ab07ea23a42eaf7e192b4239f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -90,6 +90,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 95a82c828847d1c4199f9dc50b088d47, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 484e1639b3df8d949aa4fefdfa892063, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0e5b0efe357f75544a12405a55454262, type: 3}
 - Class: 114
@@ -299,6 +301,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d8ff9b7219f8a8d4b8a3d3748c60e39e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1586a5941c6477e49994b6b858c7b2c2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7a616a9cc5d736642b583f0f9ac2a90d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6f4adbb68873874f8ea675c6a9adca3, type: 3}
@@ -310,6 +314,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b11891e813d16ab4eac55d3886517ec8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b7106950a06563f4a893b4e239e2e1ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e47d214c4e730514e89a79ab6398124c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2b56f57144898c343a817fb2aa7edb05, type: 3}
 - Class: 114
@@ -652,7 +658,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
 - Assets/assetbundle_resources/Prefab/players_ss_parent.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/Live2D_Models.fadeMotionList.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/Live2D_Models.fadeMotionList.asset
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller

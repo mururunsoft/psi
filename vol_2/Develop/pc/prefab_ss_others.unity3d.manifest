@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 734858320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bfd65e661f24f4765fa1ba4abc2a5db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf6eaf10611d388d367e92b884ca21ae
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8bfd65e661f24f4765fa1ba4abc2a5db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9246f9d100ccf4469e929f1be958f2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9645c568f7cc784db7bebff268bb03e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f03ecf1d0aed1a4983444a04a4a1134, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/PrefabSprite/ps_weapons_psi_1.prefab
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_kusuri_hp_1_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/Texture/ss_logo_vol2.png
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_attack_3.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/PrefabSprite/ps_ss_logo_vol2.prefab
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/ps_ss_logo_vol2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/DataAnimationClip/ac_ss_logo_vol2_anime_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_speaker_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/ps_weapons_psi_1_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_attack_3.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_shild_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_attack_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/DataAnimationClip/ac_ss_logo_vol2_in_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_attack_3.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/Texture/weapons_psi_1.png
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_shild_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_kusuri_poison_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_anime_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_attack_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_attack_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_kusuri_pp_1_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_speaker_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_smork_normal.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/DataAnimationClip/ac_ss_logo_vol2_in_1.asset
+Dependencies: []
