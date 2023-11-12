@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 522328494
+CRC: 2408178934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: edb7d4419f9ef292b960da7685d9d8d9
+    Hash: 05244a5b9dfc63fe50d02492be589a65
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0cc7d96b02978e15b03e4ccaa20ac14b
+    Hash: 985d8d4cabab528d690991ea9f894e69
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: edb7d4419f9ef292b960da7685d9d8d9
+    Hash: 05244a5b9dfc63fe50d02492be589a65
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -90,6 +90,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 95a82c828847d1c4199f9dc50b088d47, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 484e1639b3df8d949aa4fefdfa892063, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0e5b0efe357f75544a12405a55454262, type: 3}
 - Class: 114
@@ -299,6 +301,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d8ff9b7219f8a8d4b8a3d3748c60e39e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1586a5941c6477e49994b6b858c7b2c2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7a616a9cc5d736642b583f0f9ac2a90d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6f4adbb68873874f8ea675c6a9adca3, type: 3}
@@ -310,6 +314,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b11891e813d16ab4eac55d3886517ec8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b7106950a06563f4a893b4e239e2e1ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e47d214c4e730514e89a79ab6398124c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2b56f57144898c343a817fb2aa7edb05, type: 3}
 - Class: 114
@@ -342,8 +348,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 484e1639b3df8d949aa4fefdfa892063, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128

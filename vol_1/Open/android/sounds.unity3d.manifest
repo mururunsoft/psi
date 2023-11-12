@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 767232194
+CRC: 2466474762
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4bbf3793a6891a7cf71e4a8f594f1424
+    Hash: 70842802726f363db4066c7640da6b65
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4bbf3793a6891a7cf71e4a8f594f1424
+    Hash: 70842802726f363db4066c7640da6b65
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -57,9 +57,11 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_firstperson_jump.wav
 - Assets/assetbundle_resources/Sound/so_psi_start_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_katana_1.wav
+- Assets/assetbundle_resources/Sound/so_ashioto_nawa_jump.wav
 - Assets/assetbundle_resources/Sound/so_window_open.wav
 - Assets/assetbundle_resources/Sound/so_menu_unlock.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_1.wav
+- Assets/assetbundle_resources/Sound/so_ashioto_nawa_2.wav
 - Assets/assetbundle_resources/Sound/so_box_dageki_2.mp3
 - Assets/assetbundle_resources/Sound/so_box_dageki_3.mp3
 - Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
@@ -77,6 +79,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_strike.mp3
 - Assets/assetbundle_resources/Sound/so_announce_error.wav
 - Assets/assetbundle_resources/Sound/so_suteru_1.wav
+- Assets/assetbundle_resources/Sound/so_ashioto_nawa_1.wav
 - Assets/assetbundle_resources/Sound/so_damage_noroi.wav
 - Assets/assetbundle_resources/Sound/so_jump_2.wav
 - Assets/assetbundle_resources/Sound/so_switch_1.mp3
