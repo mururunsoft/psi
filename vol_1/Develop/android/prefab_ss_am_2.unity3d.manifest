@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4224323720
+CRC: 3212471448
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c359014058a2284e5665f1e862f5e1e
+    Hash: b0324857ea75e45346257c6217afbdee
   TypeTreeHash:
     serializedVersion: 2
     Hash: 39f21701276371f1ed45d08cf6a614e8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6c359014058a2284e5665f1e862f5e1e
+    Hash: b0324857ea75e45346257c6217afbdee
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -68,6 +68,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_5/adult_man_2_5/DataMesh/sm_adult_man_2_5_5_dou_A_ude_A_back_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_4/adult_man_2_4/DataMesh/sm_adult_man_2_4_opt_v1_hip_neko.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_4/adult_man_2_4/DataMesh/sm_adult_man_2_4_4_ashi_top_front_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_5/adult_man_2_5/DataMesh/sm_adult_man_2_5_5_dou_A_ude_B_back_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_5/adult_man_2_5/Texture/adult_man_2_5.png
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_6/adult_man_2_6/DataMesh/sm_adult_man_2_6_opt_v1_hip_neko.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_6/adult_man_2_6/DataMesh/sm_adult_man_2_6_6_ashi_top_L_fuku_1.asset
@@ -147,6 +148,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_3/adult_man_2_3/Texture/adult_man_2_3.png
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_3/adult_man_2_3/DataMesh/sm_adult_man_2_3_3_ashi_A_saki_L_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_2/adult_man_2_2/DataMesh/sm_adult_man_2_2_2_dou_A_ude_G_front_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_5/adult_man_2_5/DataMesh/sm_adult_man_2_5_5_dou_A_ude_B_back_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_6/adult_man_2_6/DataMesh/sm_adult_man_2_6_opt_v1_hip_akuma.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_1/adult_man_2_1/DataAnimationClip/ac_adult_man_2_1_katana_1_air.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_man_2/adult_man_2_2/adult_man_2_2/DataMesh/sm_adult_man_2_2_2_ashi_A_front_fuku_2.asset

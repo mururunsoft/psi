@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4254335651
+CRC: 1577195012
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 59e1aa5a240b4d291f4a850cff5bfef8
+    Hash: 049676e4a4fc3ab9ca5af08422857069
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 59e1aa5a240b4d291f4a850cff5bfef8
+    Hash: 049676e4a4fc3ab9ca5af08422857069
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -20,6 +20,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_1.wav
 - Assets/assetbundle_resources/Sound/so_shot_hikari_1.wav
 - Assets/assetbundle_resources/Sound/so_box_yabure_1.wav
+- Assets/assetbundle_resources/Sound/so_angel_6_shild_kick.mp3
 - Assets/assetbundle_resources/Sound/so_fuku_kick.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ishi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_kanaami_1.wav
@@ -34,6 +35,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_glass_wareru_1.mp3
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_1.wav
 - Assets/assetbundle_resources/Sound/so_room_added.wav
+- Assets/assetbundle_resources/Sound/so_guard_sword.mp3
 - Assets/assetbundle_resources/Sound/so_announce_click_1.wav
 - Assets/assetbundle_resources/Sound/so_fire_2.wav
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_3.wav
@@ -51,21 +53,24 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_area_ban_silen.wav
 - Assets/assetbundle_resources/Sound/so_gun_shot.wav
 - Assets/assetbundle_resources/Sound/so_menu_click.wav
+- Assets/assetbundle_resources/Sound/so_hikari_tame_1.wav
 - Assets/assetbundle_resources/Sound/so_menu_send.wav
 - Assets/assetbundle_resources/Sound/so_souko_1.mp3
 - Assets/assetbundle_resources/Sound/so_announce_checkbox_on.wav
 - Assets/assetbundle_resources/Sound/so_firstperson_jump.wav
 - Assets/assetbundle_resources/Sound/so_psi_start_1_fast.wav
+- Assets/assetbundle_resources/Sound/so_wind_shot_enemy_1.mp3
 - Assets/assetbundle_resources/Sound/so_katana_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_nawa_jump.wav
 - Assets/assetbundle_resources/Sound/so_window_open.wav
 - Assets/assetbundle_resources/Sound/so_menu_unlock.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_nawa_2.wav
+- Assets/assetbundle_resources/Sound/so_fire_1.wav
 - Assets/assetbundle_resources/Sound/so_box_dageki_2.mp3
 - Assets/assetbundle_resources/Sound/so_box_dageki_3.mp3
-- Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_announce_get.wav
+- Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_door_end_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_1.wav
 - Assets/assetbundle_resources/Sound/so_psi_time_2.wav
@@ -90,7 +95,9 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_2.wav
 - Assets/assetbundle_resources/Sound/so_dokugiri_1.wav
 - Assets/assetbundle_resources/Sound/so_heart.wav
+- Assets/assetbundle_resources/Sound/so_shot_mogura.mp3
 - Assets/assetbundle_resources/Sound/so_kubiwa_2.mp3
+- Assets/assetbundle_resources/Sound/so_hikari_tame_2.wav
 - Assets/assetbundle_resources/Sound/so_announce_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_2.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_kanaami_2.wav
@@ -107,8 +114,9 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_box_dageki_1.mp3
 - Assets/assetbundle_resources/Sound/so_announce_invited.wav
 - Assets/assetbundle_resources/Sound/so_shild_break.wav
+- Assets/assetbundle_resources/Sound/so_angel_6_shild_guarded.mp3
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_2.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_1.wav
-- Assets/assetbundle_resources/Sound/so_fire_1.mp3
 - Assets/assetbundle_resources/Sound/so_gun_empty.wav
+- Assets/assetbundle_resources/Sound/so_angel_6_shild.wav
 Dependencies: []

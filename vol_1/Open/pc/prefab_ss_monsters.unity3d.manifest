@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 931921822
+CRC: 3491814353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 20d04202313de01b60e42873c783721e
+    Hash: 766945ea5ff27dd752f6c648c9e6b9df
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1655d985e62eca06a5a3b6bfaf8b79f7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 20d04202313de01b60e42873c783721e
+    Hash: 766945ea5ff27dd752f6c648c9e6b9df
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -567,6 +567,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_3/devil_4_3/DataMesh/sm_devil_4_3_ashiL_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2/fairy_7_2/DataAnimationClip/ac_fairy_7_2_jump_junbi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_1/devil_4_1/DataMesh/sm_devil_4_1_udeR_B_btm.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/angel_6/angel_6_1/angel_6_1/DataAnimationClip/ac_angel_6_1_guard_kick.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2/devil_6_2/DataMesh/sm_devil_6_2_udeA_bk_te.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2/fairy_3_2/DataMesh/sm_fairy_3_2_skirt_bk_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_8/fairy_8_2/fairy_8_2/DataAnimationClip/ac_fairy_8_2_jump_up.asset

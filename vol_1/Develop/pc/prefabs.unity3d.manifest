@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2408178934
+CRC: 3784142568
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 05244a5b9dfc63fe50d02492be589a65
+    Hash: 5d52184e4efe8e0ff9bac5b439ef3c61
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 985d8d4cabab528d690991ea9f894e69
+    Hash: f8cb0398b955f8a469c035e2ab01cc1f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 05244a5b9dfc63fe50d02492be589a65
+    Hash: 5d52184e4efe8e0ff9bac5b439ef3c61
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -116,6 +116,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 08125452df42e0543a54dce470801e06, type: 3}
 - Class: 114
@@ -486,6 +488,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_top.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.motion3.json"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.prefab
+- Assets/assetbundle_resources/Prefab/Effects/effect_kyuketsu_blood.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_replay.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.prefab
@@ -504,6 +507,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_katana_slash_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.cdi3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.fade.asset"
+- Assets/assetbundle_resources/Prefab/Effects/effect_PSI_kyuketsu_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_woman_2.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect_back.Platform
@@ -555,6 +559,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_katana_slash_2.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
+- Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_accessory_gear.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_tablet_bomb.prefab
@@ -638,14 +643,15 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.2048/fairy_cat_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_slow.prefab
-- Assets/assetbundle_resources/Prefab/Effects/effect_succubus_return.prefab
+- Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.4096/adult_man_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Stage/cell_search_comment.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
+- Assets/assetbundle_resources/Prefab/Effects/effect_succubus_return.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.4096/child_woman_1_texture_00.png
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/players_ss_parent_sample.prefab
+- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Effects/effect_gun_yakkyo.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.controller
