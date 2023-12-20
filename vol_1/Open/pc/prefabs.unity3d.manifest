@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1959945809
+CRC: 51533079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d52184e4efe8e0ff9bac5b439ef3c61
+    Hash: 145f54238f2708b2f757321f1189fc67
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f8cb0398b955f8a469c035e2ab01cc1f
+    Hash: cf72e0096a98df87c199f2127d979d02
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d52184e4efe8e0ff9bac5b439ef3c61
+    Hash: 145f54238f2708b2f757321f1189fc67
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -410,12 +410,11 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
 - Assets/assetbundle_resources/Prefab/NPC/character_npc.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.controller
+- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.4096/adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.model3.json
-- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.prefab
@@ -496,7 +495,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.cdi3.json
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u306F\u3070\u305F\u304D1.fade.asset"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.controller
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.controller
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.cdi3.json
@@ -509,10 +507,9 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.fade.asset"
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_kyuketsu_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_woman_2.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
+- Assets/assetbundle_resources/Prefab/Widgets/cell_present.prefab
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect_back.Platform
   (1)-Mesh.asset
-- Assets/assetbundle_resources/Prefab/Widgets/cell_present.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.model3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.motion3.json"
 - Assets/assetbundle_resources/Prefab/Widgets/wid_use_coins.prefab
@@ -521,7 +518,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_reflection_tobi.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.model3.json
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u306F\u3070\u305F\u304D1.motion3.json"
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform (1)-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.cdi3.json
@@ -535,10 +531,11 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_4_shop/fairy_4_shop.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_dungeon_selectbox.prefab
-- Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_fairy_4_shop.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/fairy_cat_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.asset
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.controller
+- Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_fairy_4_shop.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_search_comment_comment.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_1.prefab
@@ -546,7 +543,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Widgets/wid_pager.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_matching_friend.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_speaker.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u306F\u3070\u305F\u304D1.motion3.json"
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.asset
@@ -557,11 +553,10 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_gousei_item.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_katana_slash_2.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_accessory_gear.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.asset
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_accessory_gear.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_tablet_bomb.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_psi_teni_set_number.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_nusumu_spotlight.prefab
@@ -594,6 +589,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/cell_select_dungeon_item.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_colors.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/Live2D_Models.fadeMotionList.asset
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.asset
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_options.prefab
@@ -641,7 +637,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door.prefab
 - Assets/assetbundle_resources/Prefab/TapCursor.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.2048/fairy_cat_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_slow.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.4096/adult_man_1_texture_00.png
@@ -664,7 +659,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
 - Assets/assetbundle_resources/Prefab/players_ss_parent.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/Live2D_Models.fadeMotionList.asset
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller
