@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2429214972
+CRC: 3615795061
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c6628d9c7cb93cbfeee76595dddedcd2
+    Hash: 5c35e0a6c7444a3201bb4c1c11d76fd1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e1c951af4a5be9263451b9644ca7eba1
+    Hash: 730c06b08e34288d079831559f7ed86c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c6628d9c7cb93cbfeee76595dddedcd2
+    Hash: 5c35e0a6c7444a3201bb4c1c11d76fd1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -281,6 +281,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 2ea15324f8bf54c4cad0a7fc3617e229, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 30c888cf365843748b1758e47f3c810e, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0539bf985968ec147ba8547dec45dbb2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 64bd04a196287a3448f338b0f116c33b, type: 3}
@@ -486,6 +488,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Widgets/wid_waiting_indicator.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_top.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.motion3.json"
+- Assets/assetbundle_resources/Prefab/Shots/shot_enemy_fairy_5_root.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_kyuketsu_blood.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_replay.prefab
