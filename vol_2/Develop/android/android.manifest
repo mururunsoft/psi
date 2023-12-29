@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 2386414386
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materials.unity3d
+      Dependencies:
+        Dependency_0: textures.unity3d
+    Info_1:
+      Name: voices.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: textures.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: prefabs.unity3d
+      Dependencies:
+        Dependency_0: materials.unity3d
+        Dependency_1: textures.unity3d
+    Info_4:
+      Name: models.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: texts.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: musics.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: sounds.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: prefab_ss_monsters.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: prefab_ss_others.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: prefab_ss_am_1.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: prefab_ss_am_2.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: prefab_ss_aw_1.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: prefab_ss_aw_2.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: prefab_ss_cm_1.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: prefab_ss_cm_2.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: prefab_ss_cw_1.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: prefab_ss_cw_2.unity3d
+      Dependencies: {}
