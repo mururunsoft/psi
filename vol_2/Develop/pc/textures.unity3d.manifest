@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1177235029
+CRC: 733894273
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f1b95a76e768da81ddbf634202c39879
+    Hash: 6f1bfed45a7525faa4e1d03f7eddc231
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38c20260663f20d03cebaca640289344
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f1b95a76e768da81ddbf634202c39879
+    Hash: 6f1bfed45a7525faa4e1d03f7eddc231
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -65,6 +65,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_1.png
 - Assets/assetbundle_resources/Textures/RAW/mask_aa_4.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/Terrain2D_Labo.asset
+- Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_disable.png
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_2.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_woman_1.png
