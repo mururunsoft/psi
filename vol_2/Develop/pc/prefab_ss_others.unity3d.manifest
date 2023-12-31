@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 912510409
+CRC: 3823970296
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8bfd65e661f24f4765fa1ba4abc2a5db
+    Hash: 1bbd9b359a81f7c5e098a36c5b358072
   TypeTreeHash:
     serializedVersion: 2
     Hash: bf6eaf10611d388d367e92b884ca21ae
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8bfd65e661f24f4765fa1ba4abc2a5db
+    Hash: 1bbd9b359a81f7c5e098a36c5b358072
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,12 +60,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_anime_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_normal.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_gun_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/DataAnimationClip/ac_ss_logo_vol2_hide.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_attack_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_katana_normal.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_attack_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_kusuri_pp_1_normal.asset
-- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_speaker_attack_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_smork_normal.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_knife_attack_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Others/weapons_psi_1/weapons_psi_1/DataAnimationClip/ac_weapons_psi_1_speaker_attack_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Others/ss_logo_vol2/ss_logo_vol2/DataAnimationClip/ac_ss_logo_vol2_in_1.asset
 Dependencies: []

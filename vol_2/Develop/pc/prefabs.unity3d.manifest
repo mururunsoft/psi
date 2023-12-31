@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3130727310
+CRC: 3830580066
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9bd9f7994153d1ceaa18123576ce9ff6
+    Hash: 1559690603e8330b55bc1245bf2f14b4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 730c06b08e34288d079831559f7ed86c
+    Hash: 345f661488dde8d0533277432a745650
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9bd9f7994153d1ceaa18123576ce9ff6
+    Hash: 1559690603e8330b55bc1245bf2f14b4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -67,8 +67,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3c8d596c16f05d949922ef16347e4cc9, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 97ea4ff315828444f9c8695882d09d55, type: 3}
@@ -88,8 +86,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2986974e9f21ffd479845ad444fc7c34, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 95a82c828847d1c4199f9dc50b088d47, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 484e1639b3df8d949aa4fefdfa892063, type: 3}
 - Class: 114
@@ -114,8 +110,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 674c50c03801e03408090ff47ce0354a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
 - Class: 114
@@ -351,6 +345,14 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28e5d11781244f449b6c9aa654a03100, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
 - Class: 115
   Script: {instanceID: 0}
@@ -413,10 +415,11 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
 - Assets/assetbundle_resources/Prefab/NPC/character_npc.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.controller
-- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.cdi3.json
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.4096/adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.model3.json
+- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.prefab
@@ -470,8 +473,10 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_dokugiri_time.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_bottom.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_smork.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mori_1_blocks_tate_top.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_friend.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_clock_set.prefab
 - Assets/assetbundle_resources/Prefab/Player_Sample.prefab
@@ -483,6 +488,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.model3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_block.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.controller
 - Assets/assetbundle_resources/Prefab/Stage/prefab_result_face_cell.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_input_field.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_waiting_indicator.prefab
@@ -521,6 +527,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_reflection_tobi.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.model3.json
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.4096/main_texture_00.png
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform (1)-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.cdi3.json
@@ -542,8 +549,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/cell_search_comment_comment.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_1.prefab
-- Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_2.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.model3.json
 - Assets/assetbundle_resources/Prefab/Widgets/wid_pager.prefab
+- Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_matching_friend.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_speaker.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u306F\u3070\u305F\u304D1.motion3.json"
@@ -667,6 +675,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.cdi3.json
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2DMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_bg_door_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.controller
