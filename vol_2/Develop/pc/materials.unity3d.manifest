@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1130590165
+CRC: 2885673254
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b027ef3ee511d36c990b8232c6bbee00
+    Hash: f0e59e4a6be57572e3d0af80370dbaff
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f13158e6dc1f80d216844c7888c0ca9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b027ef3ee511d36c990b8232c6bbee00
+    Hash: f0e59e4a6be57572e3d0af80370dbaff
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -44,6 +44,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/Face/mat_face_circle.mat
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_1.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_back.mat
+- Assets/assetbundle_resources/Materials/white_line/white_line.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_4.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_5.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_2.mat

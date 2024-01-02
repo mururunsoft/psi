@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 437545487
+CRC: 2222004851
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 662352d64fc181f0103facb108db0f87
+    Hash: 79b67de09eea2458fa769335f184eb5c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1655d985e62eca06a5a3b6bfaf8b79f7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 662352d64fc181f0103facb108db0f87
+    Hash: 79b67de09eea2458fa769335f184eb5c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -711,6 +711,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_3/devil_4_3/DataMesh/sm_devil_4_3_shippo.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_3/angel_3_2/angel_3_2/DataAnimationClip/ac_angel_3_2_walk_back.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_1/devil_1_2/devil_1_2/DataAnimationClip/ac_devil_1_2_walk_back.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2/fairy_7_2/DataAnimationClip/ac_fairy_7_2_fly_junbi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_2/angel_2_1/angel_2_1/ps_angel_2_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_4/devil_4_4/ps_devil_4_4_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_1/fairy_7_1/DataMesh/sm_fairy_7_1_kubi.asset
