@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1288607009
+CRC: 2235476382
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 311cd408b9213aab2839b4536d9edb5e
+    Hash: f410785f5ddc927ce2a2a40a4882419f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 31bb370d91d1fccc2b236275b882c2d1
+    Hash: f118066e1f7ce445028c5d67f984fe51
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 311cd408b9213aab2839b4536d9edb5e
+    Hash: f410785f5ddc927ce2a2a40a4882419f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -67,6 +67,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3c8d596c16f05d949922ef16347e4cc9, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 97ea4ff315828444f9c8695882d09d55, type: 3}
@@ -86,6 +88,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2986974e9f21ffd479845ad444fc7c34, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 95a82c828847d1c4199f9dc50b088d47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 484e1639b3df8d949aa4fefdfa892063, type: 3}
 - Class: 114
@@ -110,6 +114,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 674c50c03801e03408090ff47ce0354a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
 - Class: 114
@@ -200,6 +206,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 31cd1f0bd08554245aa0c4740794f1ef, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b3251242ad3627a4c8aa0ee5687477b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28e5d11781244f449b6c9aa654a03100, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
 - Class: 114
@@ -345,15 +353,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: be263e504df72834a869bd92cbbd3d89, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 28e5d11781244f449b6c9aa654a03100, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -623,6 +625,7 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_fukidashi.prefab
+- Assets/assetbundle_resources/Prefab/Stage/cell_menu_v2.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_menu.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_psi_hijin.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.asset
