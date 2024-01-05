@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2235476382
+CRC: 3942718387
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f410785f5ddc927ce2a2a40a4882419f
+    Hash: 129cbe7881e4c0cd10214d304becb0e2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f118066e1f7ce445028c5d67f984fe51
+    Hash: 68b2974db4437d3f2804732ec45f82f9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f410785f5ddc927ce2a2a40a4882419f
+    Hash: 129cbe7881e4c0cd10214d304becb0e2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,6 +150,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b9e4142f9ec409d4e936bd200d310d7d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 477e81dcf5fb35643a454b43ed0b6870, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e134807e933b6d048bda3ed7b4910af0, type: 3}
 - Class: 114
@@ -354,8 +356,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -388,9 +388,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: Instantiate_Manager/prefab_resources
 - AssemblyName: Assembly-CSharp
-  ClassName: Item_Params/Item_Param_Save_Struct
-- AssemblyName: Assembly-CSharp
   ClassName: MyPlayfabManager/NewsData_Write_Struct
+- AssemblyName: Assembly-CSharp
+  ClassName: MyPlayfabManager/UserData_Struct
 - AssemblyName: Assembly-CSharp
   ClassName: Page_Animation
 - AssemblyName: Assembly-CSharp
