@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 397482499
+CRC: 2309420220
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65a7647b3ea3b2eb59ebcfd16415547e
+    Hash: f0377d4058591125b22c667a9337edb0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 65a7647b3ea3b2eb59ebcfd16415547e
+    Hash: f0377d4058591125b22c667a9337edb0
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -36,8 +36,8 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_1.wav
 - Assets/assetbundle_resources/Sound/so_room_added.wav
 - Assets/assetbundle_resources/Sound/so_guard_sword.mp3
-- Assets/assetbundle_resources/Sound/so_fire_2.wav
 - Assets/assetbundle_resources/Sound/so_announce_click_1.wav
+- Assets/assetbundle_resources/Sound/so_fire_2.wav
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_3.wav
 - Assets/assetbundle_resources/Sound/so_menu_alert_1.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_2.wav
@@ -58,10 +58,11 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_send.wav
 - Assets/assetbundle_resources/Sound/so_souko_1.mp3
 - Assets/assetbundle_resources/Sound/so_announce_checkbox_on.wav
+- Assets/assetbundle_resources/Sound/so_door_open_1.mp3
 - Assets/assetbundle_resources/Sound/so_firstperson_jump.wav
 - Assets/assetbundle_resources/Sound/so_psi_start_1_fast.wav
-- Assets/assetbundle_resources/Sound/so_wind_shot_enemy_1.mp3
 - Assets/assetbundle_resources/Sound/so_katana_1.wav
+- Assets/assetbundle_resources/Sound/so_wind_shot_enemy_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_nawa_jump.wav
 - Assets/assetbundle_resources/Sound/so_window_open.wav
 - Assets/assetbundle_resources/Sound/so_menu_unlock.wav
@@ -98,6 +99,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_click_3.wav
 - Assets/assetbundle_resources/Sound/so_gun_kamae.wav
 - Assets/assetbundle_resources/Sound/so_hazumu_dragon_1.wav
+- Assets/assetbundle_resources/Sound/so_door_close_1.wav
 - Assets/assetbundle_resources/Sound/so_shot_hikari_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_2.wav
 - Assets/assetbundle_resources/Sound/so_jinari_out.wav
@@ -112,6 +114,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_angel_5_tsuku.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_2.wav
 - Assets/assetbundle_resources/Sound/so_equip_1.wav
+- Assets/assetbundle_resources/Sound/so_door_kagi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_2.wav
 - Assets/assetbundle_resources/Sound/so_hajimeyou_1.wav
 - Assets/assetbundle_resources/Sound/so_bomb_1.wav

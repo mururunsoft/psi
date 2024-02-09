@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4273683126
+CRC: 2244621499
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11de7ff5154dac84b7da0ab8b0daf6a2
+    Hash: a8621a6bce4c81c6e10d1c9c12748b87
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38c20260663f20d03cebaca640289344
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 11de7ff5154dac84b7da0ab8b0daf6a2
+    Hash: a8621a6bce4c81c6e10d1c9c12748b87
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -111,6 +111,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_green.png
 - Assets/assetbundle_resources/Textures/RAW/1_site_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/Terrain2D_Labo_Edges.mat
+- Assets/assetbundle_resources/Textures/RAW/bg_castle_ai_moto.png
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.asset
 - Assets/assetbundle_resources/Textures/RAW/elf_sample.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_bansei_2.png
@@ -132,11 +133,11 @@ Assets:
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_labo_background_yellow.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cm1.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/normal/Atlas_parts_1.png
-- Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
-- Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.mat
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.mat
+- Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.mat
 - Assets/assetbundle_resources/Textures/Terrain2D/tex_black_background.png
 - Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_edges.mat
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_terrain2d_labo_fill.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
+- Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
 Dependencies: []

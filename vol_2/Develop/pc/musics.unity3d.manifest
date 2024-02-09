@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3416772443
+CRC: 2247150793
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d01d3cfdb205cd68a11b91bec6d6a91
+    Hash: 5c6b425b5f2b305718174857702c5bd3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6d01d3cfdb205cd68a11b91bec6d6a91
+    Hash: 5c6b425b5f2b305718174857702c5bd3
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -23,11 +23,13 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_shop_1.wav
 - Assets/assetbundle_resources/Music/mu_yousei_mura_1.wav
 - Assets/assetbundle_resources/Music/mu_wind_1.wav
-- Assets/assetbundle_resources/Music/mu_result.wav
+- Assets/assetbundle_resources/Music/mu_kennon.wav
 - Assets/assetbundle_resources/Music/mu_battle_2.wav
+- Assets/assetbundle_resources/Music/mu_result.wav
 - Assets/assetbundle_resources/Music/mu_psi.wav
 - Assets/assetbundle_resources/Music/mu_battle_1.wav
 - Assets/assetbundle_resources/Music/mu_yousei_dungeon_1.wav
 - Assets/assetbundle_resources/Music/mu_battle_3.wav
+- Assets/assetbundle_resources/Music/mu_kaisou.wav
 - Assets/assetbundle_resources/Music/mu_labo_1.wav
 Dependencies: []

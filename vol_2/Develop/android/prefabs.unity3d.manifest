@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 903117466
+CRC: 1083735055
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b6ca1b15b2c26b26f286965e7041315
+    Hash: af3c05f9aec6aa3c5cbb7841ca37519d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1dfe56d4527df16ad6bc493cafd63f54
+    Hash: c90b6f3fdbf0a998f21fe00a79e1b674
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6b6ca1b15b2c26b26f286965e7041315
+    Hash: af3c05f9aec6aa3c5cbb7841ca37519d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -114,6 +114,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 674c50c03801e03408090ff47ce0354a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
 - Class: 114
@@ -343,6 +345,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 3fc26ef0f29367b4ea0422e0edf3b488, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: b893d4d32dd60bc4c9a2e447d31c6e88, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 85cb29f0ec0e57c43994eb027bccd4aa, type: 3}
@@ -352,8 +356,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b21306dfaf80e9447bf79b8799d25978, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd9e6647bfff7542acb0200ab74bdd1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84345cfd5992c264a9d70f249bf74987, type: 3}
 - Class: 115
@@ -421,8 +423,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.4096/adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.model3.json
-- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_woman_1.prefab
+- Assets/assetbundle_resources/Prefab/Shots/shot_psi_dokugiri.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_coins.prefab
@@ -490,8 +493,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.model3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_block.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.controller
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/texture_00.png
 - Assets/assetbundle_resources/Prefab/Stage/prefab_result_face_cell.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.controller
 - Assets/assetbundle_resources/Prefab/Widgets/wid_input_field.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_waiting_indicator.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_top.prefab
@@ -562,10 +566,10 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_kusuri_pp_yuka.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kanaami.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_shild_tobi.prefab
-- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u306F\u3070\u305F\u304D1.anim"
-- Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover.prefab
-- Assets/assetbundle_resources/Prefab/Effects/effect_gousei_item.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_katana_slash_2.prefab
+- "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u306F\u3070\u305F\u304D1.anim"
+- Assets/assetbundle_resources/Prefab/Effects/effect_gousei_item.prefab
+- Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_accessory_gear.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_1.prefab
@@ -622,14 +626,15 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.4096/child_man_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.4096/child_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.2048/fairy_2_texture_00.png
+- Assets/assetbundle_resources/Prefab/Effects/effect_event_item_local.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
-- Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_fukidashi.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_menu_v2.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_menu.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_psi_hijin.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.asset
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/sairy_1_\u306F\u3070\u305F\u304D1.fade.asset"
+- Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/calc_wind_pai.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door_map.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_knife_slash_1.prefab

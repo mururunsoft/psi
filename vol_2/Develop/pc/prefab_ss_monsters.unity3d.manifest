@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2353969958
+CRC: 2650736095
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b7f900eba3f398c78410b1864cb1c39
+    Hash: 858001cf6a9cbafa5c993a44481b937e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1655d985e62eca06a5a3b6bfaf8b79f7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7b7f900eba3f398c78410b1864cb1c39
+    Hash: 858001cf6a9cbafa5c993a44481b937e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2082,6 +2082,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_1/devil_3_1/DataMesh/sm_devil_3_1_udeL_5_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_8/fairy_8_2/fairy_8_2/DataMesh/sm_fairy_8_2_ashi_ft_atk_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_1/fairy_4_1/DataMesh/sm_fairy_4_1_ashiR_top.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/jar_rabbit_1/jar_rabbit_1_2/jar_rabbit_1_2/DataAnimationClip/ac_jar_rabbit_1_2_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_2/devil_2_2/DataMesh/sm_devil_2_2_udeD_bk_yubi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_2/devil_3_2/DataMesh/sm_devil_3_2_ashi1_ft_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2/devil_6_2/Texture/devil_6_2.png
