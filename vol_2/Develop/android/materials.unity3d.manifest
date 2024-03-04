@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1949085161
+CRC: 1745626328
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6077375c0d2a7d86e739498e295d9d77
+    Hash: 8706426e58cfd88e2c06ae237205bbad
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f13158e6dc1f80d216844c7888c0ca9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6077375c0d2a7d86e739498e295d9d77
+    Hash: 8706426e58cfd88e2c06ae237205bbad
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -46,6 +46,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/Face/mat_face_back.mat
 - Assets/assetbundle_resources/Materials/white_line/white_line.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_4.mat
+- Assets/assetbundle_resources/Materials/Points/mat_point_item.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_5.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_2.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_5.mat

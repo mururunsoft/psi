@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4132541499
+CRC: 3210859313
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c12e59f3c58c15dba1250935ecdc57e
+    Hash: 5cf6e0202319f2b02915ec7a8a6ad4fb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38c20260663f20d03cebaca640289344
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0c12e59f3c58c15dba1250935ecdc57e
+    Hash: 5cf6e0202319f2b02915ec7a8a6ad4fb
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -139,5 +139,6 @@ Assets:
 - Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_edges.mat
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_terrain2d_labo_fill.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
+- Assets/assetbundle_resources/Textures/RAW/entrance_child_woman_1.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
 Dependencies: []
