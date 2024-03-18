@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3262917284
+CRC: 1039926732
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 254a86a0cc9ca6276266260f2d34c157
+    Hash: 29c24189c88de6a21f819dfda21cc68f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 76bdb65d54addaa9044d665ebafbe3bc
+    Hash: c9512380e6405358e5ee17cb5aeaceaa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 254a86a0cc9ca6276266260f2d34c157
+    Hash: 29c24189c88de6a21f819dfda21cc68f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -488,10 +488,9 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/sairy_1_\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_dokugiri_time.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_bottom.prefab
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_blocks_tate_bottom.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_smork.prefab
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mori_1_blocks_tate_top.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_friend.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_clock_set.prefab
@@ -503,13 +502,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Widgets/cell_list_psi.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.model3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_block.prefab
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_block.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/texture_00.png
 - Assets/assetbundle_resources/Prefab/Stage/prefab_result_face_cell.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.controller
 - Assets/assetbundle_resources/Prefab/Widgets/wid_input_field.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_waiting_indicator.prefab
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_labo_blocks_tate_top.prefab
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_blocks_tate_top.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.motion3.json"
 - Assets/assetbundle_resources/Prefab/Shots/shot_enemy_fairy_5_root.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.prefab
@@ -665,7 +664,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_veryslow.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_kusuri_poison.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.4096/child_woman_2_texture_00.png
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mori_1_block.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door.prefab
 - Assets/assetbundle_resources/Prefab/TapCursor.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.prefab
@@ -685,9 +683,8 @@ Assets:
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect_back.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kanaami_nawa_1.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_fan_psi.prefab
-- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mori_1_blocks_tate_bottom.prefab
-- Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toumei.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_ranking.prefab
+- Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toumei.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
 - Assets/assetbundle_resources/Prefab/players_ss_parent.prefab

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1237925341
+CRC: 3658709690
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c9f537e858806b856062d949df62f3da
+    Hash: 003d31b1b45be20357f46c65b6187ee5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38c20260663f20d03cebaca640289344
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c9f537e858806b856062d949df62f3da
+    Hash: 003d31b1b45be20357f46c65b6187ee5
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -33,6 +33,7 @@ SerializeReferenceClassIdentifiers:
   ClassName: UISpriteData
 Assets:
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.asset
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.asset
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/Terrain2D_Labo_Fill.mat
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_4-5.png
@@ -40,14 +41,13 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/test_yousei.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/store_images/Atlas_store_images.mat
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_Edges.png
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_4-5.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.asset
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/am1.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/am2.png
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_Fill.mat
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_1_moto.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_5.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.png
 - Assets/assetbundle_resources/Textures/RAW/main_child_man_2.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_4.png
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.png
@@ -56,6 +56,9 @@ Assets:
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_4-5.mat
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_sojyuku_2.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/normal/Atlas_parts_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/crystal_1/ngui/Atlas_grounds_crystal_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Edges.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_2.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_labo_background_red.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_1.png
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.mat
@@ -64,49 +67,63 @@ Assets:
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.mat
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_1.png
 - Assets/assetbundle_resources/Textures/RAW/mask_aa_4.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Edges.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/Terrain2D_Labo.asset
-- Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_disable.png
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_2.png
+- Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_woman_1.png
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/tex_mori_1_background.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_labo_background_purple.png
+- Assets/assetbundle_resources/Textures/Grounds/crystal_1/ngui/Atlas_grounds_crystal_1.mat
 - Assets/assetbundle_resources/Textures/RAW/main_adult_man_2.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_front.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_2.asset
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Fill.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_4.png
 - Assets/assetbundle_resources/Textures/RAW/mask_aa_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_5.png
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.mat
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.asset
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_nakadarumi.png
 - Assets/assetbundle_resources/Textures/RAW/jump_curve.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_2.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/aw2.png
-- Assets/assetbundle_resources/Textures/Face/ngui/Atlas_face_1.png
+- Assets/assetbundle_resources/Textures/Grounds/crystal_1/ngui/Atlas_grounds_crystal_1.asset
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_2.png
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_1.asset
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_1-3.asset
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_Fill.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/normal/Atlas_parts_1.asset
+- Assets/assetbundle_resources/Textures/Parts/ngui/store_images/Atlas_store_images.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_bansei_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/terrain/Terrain2D_mori_1_fairy.asset
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_labo_background.png
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_3.png
-- Assets/assetbundle_resources/Textures/Parts/ngui/store_images/Atlas_store_images.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/aw1.png
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cw1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.png
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_terrain2d_labo_edges.png
 - Assets/assetbundle_resources/Textures/RAW/gun_spark_3.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.asset
 - Assets/assetbundle_resources/Textures/RAW/gun_spark_1.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cm2.png
+- Assets/assetbundle_resources/Textures/Face/ngui/Atlas_face_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.mat
+- Assets/assetbundle_resources/Textures/Terrain2D/tex_ocean.png
 - Assets/assetbundle_resources/Textures/Face/ngui/Atlas_face_1.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_purple.png
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.asset
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_edges.mat
 - Assets/assetbundle_resources/Textures/RAW/main_child_woman_2.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_woman_2.png
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1.asset
+- Assets/assetbundle_resources/Textures/Terrain2D/tex_white_background.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_blue.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_green.png
 - Assets/assetbundle_resources/Textures/RAW/1_site_1.png
@@ -115,6 +132,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.asset
 - Assets/assetbundle_resources/Textures/RAW/elf_sample.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_bansei_2.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.asset
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_1.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_back.png
@@ -122,10 +140,14 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/box_white.png
 - Assets/assetbundle_resources/Textures/RAW/main_child_woman_1.png
 - Assets/assetbundle_resources/Textures/Face/ngui/Atlas_face_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Fill.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_1.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_sojyuku_1.png
 - Assets/assetbundle_resources/Textures/RAW/main_child_man_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human.asset
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_1-3.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_edges.mat
 - Assets/assetbundle_resources/Textures/RAW/1_blood_2.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_waku.png
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_1-3.mat
@@ -135,10 +157,9 @@ Assets:
 - Assets/assetbundle_resources/Textures/Parts/ngui/normal/Atlas_parts_1.png
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.mat
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.mat
-- Assets/assetbundle_resources/Textures/Terrain2D/tex_black_background.png
-- Assets/assetbundle_resources/Textures/Terrain2D/mori_1/Terrain2D_mori_1_edges.mat
+- Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/labo/tex_terrain2d_labo_fill.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
 - Assets/assetbundle_resources/Textures/RAW/entrance_child_woman_1.png
-- Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/tex_fairy_mori_1_background.png
 Dependencies: []
