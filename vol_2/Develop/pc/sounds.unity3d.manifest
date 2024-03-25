@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2155721340
+CRC: 1108087494
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e93dab5f54cb3e4bbdf7a892c27c80f4
+    Hash: c4e51473735f8adc4192ce2d4aa869aa
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e93dab5f54cb3e4bbdf7a892c27c80f4
+    Hash: c4e51473735f8adc4192ce2d4aa869aa
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -99,6 +99,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_guard_1.mp3
 - Assets/assetbundle_resources/Sound/so_menu_click_3.wav
 - Assets/assetbundle_resources/Sound/so_gun_kamae.wav
+- Assets/assetbundle_resources/Sound/so_attack_damage_2.mp3
 - Assets/assetbundle_resources/Sound/so_hazumu_dragon_1.wav
 - Assets/assetbundle_resources/Sound/so_door_close_1.wav
 - Assets/assetbundle_resources/Sound/so_shot_hikari_1_fast.wav
