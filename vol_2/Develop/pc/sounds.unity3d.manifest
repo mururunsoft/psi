@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1108087494
+CRC: 1501111494
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4e51473735f8adc4192ce2d4aa869aa
+    Hash: 1185bf42ea65c7aab9779f944eaa05f2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c4e51473735f8adc4192ce2d4aa869aa
+    Hash: 1185bf42ea65c7aab9779f944eaa05f2
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -71,9 +71,10 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_jinari_2.wav
 - Assets/assetbundle_resources/Sound/so_fire_1.wav
 - Assets/assetbundle_resources/Sound/so_box_dageki_2.mp3
+- Assets/assetbundle_resources/Sound/so_attack_damage_4.wav
 - Assets/assetbundle_resources/Sound/so_box_dageki_3.mp3
-- Assets/assetbundle_resources/Sound/so_jinari_3.wav
 - Assets/assetbundle_resources/Sound/so_jinari_1.wav
+- Assets/assetbundle_resources/Sound/so_jinari_3.wav
 - Assets/assetbundle_resources/Sound/so_announce_get.wav
 - Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_breath_dragon_1_sp2.wav
