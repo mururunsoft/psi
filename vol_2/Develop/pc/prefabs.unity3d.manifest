@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1786033199
+CRC: 558437687
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8a4592d69aa8d9dec5d94f7fcc0b169
+    Hash: e278de1f3ba202cba31c0b166f703db0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6a36635474898d02b6921dbb620bcfe7
+    Hash: 1b7d3209c33d5a8bcf147b5f2b91af52
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e8a4592d69aa8d9dec5d94f7fcc0b169
+    Hash: e278de1f3ba202cba31c0b166f703db0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -203,6 +203,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0e2cd340835b1a4419964769e44257b0, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 15a54c0ab96b68e4091ffdc80c3b54fe, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7f1443fa7b5d3d549a978d50a1cca3f0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
@@ -268,6 +270,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 7b6768ab24a327f44a66e2533d9f58b4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8b28290366fc72543b35a90368273498, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7acf6ad1980ee4c4da91be954553834e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9ec71b54664eb5e42b611df61adbf18b, type: 3}
 - Class: 114
@@ -344,6 +348,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8a181149813833243b254d590b4be884, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: eb1846c2c54bd2c47a19e78aee55ceab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c4de318e1ca52a41b74d8a02d008295, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3f24f58a0355af44a8aa55d37483965f, type: 3}
 - Class: 114
@@ -462,6 +468,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_4_shop/fairy_4_shop.controller
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.controller
+- Assets/assetbundle_resources/Prefab/Stage/wid_friend_get.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_glass_kakera.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_weapon_wind.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toushi.prefab
@@ -655,6 +662,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Shots/shot_enemy_fire.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u306F\u3070\u305F\u304D1.fade.asset"
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
+- Assets/assetbundle_resources/Prefab/Stage/wid_sosei.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_dungeon_circle.prefab
 - Assets/assetbundle_resources/Prefab/UI Root_inst.prefab
@@ -667,6 +675,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_veryslow.prefab
 - Assets/assetbundle_resources/Prefab/Shots/shot_kusuri_poison.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.4096/child_woman_2_texture_00.png
+- Assets/assetbundle_resources/Prefab/Widgets/cell_select_friend.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door.prefab
 - Assets/assetbundle_resources/Prefab/TapCursor.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.prefab

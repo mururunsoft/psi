@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3446986092
+CRC: 2923014954
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f77bd2b869849f79ff9628646c782d42
+    Hash: 5be30c6ac1de4a440fce297b671a0b29
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f77bd2b869849f79ff9628646c782d42
+    Hash: 5be30c6ac1de4a440fce297b671a0b29
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -27,6 +27,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_default.wav
 - Assets/assetbundle_resources/Sound/so_menu_checkbox_off.wav
 - Assets/assetbundle_resources/Sound/so_gousei_1.mp3
+- Assets/assetbundle_resources/Sound/so_friend_get.mp3
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_1.wav
 - Assets/assetbundle_resources/Sound/so_knife_1.wav
 - Assets/assetbundle_resources/Sound/so_menu_dialog_open.wav
@@ -40,13 +41,14 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_fire_2.wav
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_3.wav
 - Assets/assetbundle_resources/Sound/so_menu_alert_1.wav
+- Assets/assetbundle_resources/Sound/so_item_seiri.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_2.wav
-- Assets/assetbundle_resources/Sound/so_smork_1.wav
 - Assets/assetbundle_resources/Sound/so_menu_input_field.wav
 - Assets/assetbundle_resources/Sound/so_kubiwa_3.mp3
 - Assets/assetbundle_resources/Sound/so_doui_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_2.wav
 - Assets/assetbundle_resources/Sound/so_attack_damage_1.wav
+- Assets/assetbundle_resources/Sound/so_smork_1.wav
 - Assets/assetbundle_resources/Sound/so_damage_doku.wav
 - Assets/assetbundle_resources/Sound/so_kamitsuki_1.mp3
 - Assets/assetbundle_resources/Sound/so_fuku_panchi_1.wav

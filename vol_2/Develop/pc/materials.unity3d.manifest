@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3826566750
+CRC: 2523780806
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b56ed8eb00de96fd10471c48ab5cd7df
+    Hash: e3b67aeb09cc7102617f2e14271b978a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f13158e6dc1f80d216844c7888c0ca9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b56ed8eb00de96fd10471c48ab5cd7df
+    Hash: e3b67aeb09cc7102617f2e14271b978a
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -35,6 +35,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_3.mat
 - Assets/assetbundle_resources/Materials/Points/mat_point_team.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_1.mat
+- Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle.png
 - Assets/assetbundle_resources/Materials/Points/mat_point_door.mat
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_3.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_front.mat
@@ -46,8 +47,9 @@ Assets:
 - Assets/assetbundle_resources/Materials/Face/mat_face_back.mat
 - Assets/assetbundle_resources/Materials/white_line/white_line.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_4.mat
-- Assets/assetbundle_resources/Materials/Points/mat_point_item.mat
+- Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_5.mat
+- Assets/assetbundle_resources/Materials/Points/mat_point_item.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_2.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_5.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_2.mat

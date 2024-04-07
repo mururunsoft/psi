@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2509027342
+CRC: 1121946974
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dcefee22008dc398fca9db2aa977a6ea
+    Hash: ef1406b1f12009e1caeb49f17309a7a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38c20260663f20d03cebaca640289344
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dcefee22008dc398fca9db2aa977a6ea
+    Hash: ef1406b1f12009e1caeb49f17309a7a6
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -91,6 +91,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/add/Atlas_bk_fairy_castle_add_1.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.asset
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_nakadarumi.png
+- Assets/assetbundle_resources/Textures/RAW/1024px.png
 - Assets/assetbundle_resources/Textures/RAW/jump_curve.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_2.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/aw2.png

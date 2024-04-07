@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1206224489
+CRC: 3276708803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a973bd0e7acacbabd6cf76a74a078f53
+    Hash: bf5a61250c12cc60f0a1473f4ea50b4d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a973bd0e7acacbabd6cf76a74a078f53
+    Hash: bf5a61250c12cc60f0a1473f4ea50b4d
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -22,6 +22,7 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_sanka.wav
 - Assets/assetbundle_resources/Music/mu_shop_1.wav
 - Assets/assetbundle_resources/Music/mu_yousei_mura_1.wav
+- Assets/assetbundle_resources/Music/mu_devil_1.wav
 - Assets/assetbundle_resources/Music/mu_wind_1.wav
 - Assets/assetbundle_resources/Music/mu_kennon.wav
 - Assets/assetbundle_resources/Music/mu_battle_2.wav
@@ -31,5 +32,6 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_yousei_dungeon_1.wav
 - Assets/assetbundle_resources/Music/mu_battle_3.wav
 - Assets/assetbundle_resources/Music/mu_kaisou.wav
+- Assets/assetbundle_resources/Music/mu_devil_2.wav
 - Assets/assetbundle_resources/Music/mu_labo_1.wav
 Dependencies: []
