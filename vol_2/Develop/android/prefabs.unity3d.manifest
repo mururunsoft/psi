@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3548342546
+CRC: 1357693168
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27b5f83c19b4b0295f7e7d83d133446f
+    Hash: ffbbc449dbda8b84bf151a4007be6fcd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1b7d3209c33d5a8bcf147b5f2b91af52
+    Hash: ecb73c98a9303f5ae3b3595d1dfa99ab
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27b5f83c19b4b0295f7e7d83d133446f
+    Hash: ffbbc449dbda8b84bf151a4007be6fcd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -512,6 +512,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.model3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_block.prefab
+- Assets/assetbundle_resources/Prefab/Stage/wid_floor_next.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/texture_00.png
 - Assets/assetbundle_resources/Prefab/Stage/prefab_result_face_cell.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.controller
