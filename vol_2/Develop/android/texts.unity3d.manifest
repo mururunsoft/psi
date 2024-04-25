@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 974273762
+CRC: 412122415
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4eb235ee424248755a66168b5dc97d81
+    Hash: 34f67e5b83841ebfb204c6de116dbc7f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4eb235ee424248755a66168b5dc97d81
+    Hash: 34f67e5b83841ebfb204c6de116dbc7f
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -19,6 +19,7 @@ Assets:
 - Assets/assetbundle_resources/Text_Parts/json_aiueo_en.txt
 - Assets/assetbundle_resources/Texts/message_en.txt
 - Assets/assetbundle_resources/Texts/name_en.txt
+- Assets/assetbundle_resources/Text_Parts/elements_xml.txt
 - Assets/assetbundle_resources/Texts/hint_en.txt
 - Assets/assetbundle_resources/Texts/message_ja.txt
 - Assets/assetbundle_resources/Texts/item_name_en.txt

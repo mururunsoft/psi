@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1229727809
+CRC: 3802563582
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,6 +17,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: materials.unity3d
         Dependency_1: textures.unity3d
+        Dependency_2: prefab_ss_monsters.unity3d
     Info_4:
       Name: models.unity3d
       Dependencies: {}
