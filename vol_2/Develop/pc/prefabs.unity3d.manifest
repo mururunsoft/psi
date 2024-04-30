@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3977632263
+CRC: 3769000220
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 741537f4b13ce214b4bcbb52ccb37436
+    Hash: 889071371892c7cda94818b1e55f5f4a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4cea3c5ab87f4e7ed287f13fa5c1052b
+    Hash: bcee4f54f92b61c1d7b5549c047478f7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 741537f4b13ce214b4bcbb52ccb37436
+    Hash: 889071371892c7cda94818b1e55f5f4a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -531,6 +531,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: Fusion.SerializableDictionary`2[System.Byte,Fusion.NetworkString`1[Fusion._32]]
 - AssemblyName: Fusion.Runtime
   ClassName: Fusion.SerializableDictionary`2[System.Byte,System.Byte]
+- AssemblyName: Fusion.Runtime
+  ClassName: Fusion.SerializableDictionary`2[System.Int32,MyNetworkBytes64]
+- AssemblyName: Fusion.Runtime
+  ClassName: Fusion.SerializableDictionary`2[System.Int32,MyNetworkBytes8]
 - AssemblyName: Fusion.Runtime
   ClassName: Fusion.SerializableDictionary`2[System.Int32,MyTickTimer]
 - AssemblyName: Fusion.Runtime
