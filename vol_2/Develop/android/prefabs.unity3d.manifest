@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2306432503
+CRC: 1208499251
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5ea599117c71c674daa707bfab959603
+    Hash: f4b7a951ce6c0a06e3718db1d746dfb6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6fb5e7151494990ed695c423468a2eb6
+    Hash: 346d46cbc45a689241c04b60f8f7817a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5ea599117c71c674daa707bfab959603
+    Hash: f4b7a951ce6c0a06e3718db1d746dfb6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -231,6 +231,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ac5060295fbd39b4a88d20d0c83d925e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 369130757035a1647a2db1ba12b89444, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: d8ff9b7219f8a8d4b8a3d3748c60e39e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1586a5941c6477e49994b6b858c7b2c2, type: 3}
@@ -287,8 +289,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e505768d7935a6647a3db94005b526d6, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
@@ -306,8 +306,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 110d40e42b7d099428b343d2687ee3c4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d2bd310a9aeb3b344a0da465294fc02a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e1bdfc57e29f8e54999c96dbf2d71eb4, type: 3}
 - Class: 114
@@ -331,11 +329,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: aaa4d5100ab5a6d458d33830ed2c0120, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 684625f5fe6eca143aed5821482ed887, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 8f1ee1adc36a8a04a8d7c42ac5d6bc27, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e3d90f0f973f2f7429c13afb8ca1c96f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 57a7f640e12c21442acc3496280fe708, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2f6f658b039d61f458e8bc3ac6d0ab50, type: 3}
 - Class: 114
@@ -593,7 +591,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv3.prefab
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_man_2.prefab
-- Assets/assetbundle_resources/Prefab/Network/TestSpawnCube.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.controller
 - Assets/assetbundle_resources/Prefab/Stage/wid_friend_get.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_5_lv1.prefab
@@ -607,6 +604,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.2048/fairy_3_texture_00.png
 - Assets/assetbundle_resources/Prefab/Effects/effect_joker.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.cdi3.json
+- Assets/assetbundle_resources/Prefab/Stage/copy_networked.prefab
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_weapon_fire.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Network/RoomProperty.prefab
@@ -907,5 +905,4 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_2.prefab
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/materials.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/prefab_ss_monsters.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures.unity3d
