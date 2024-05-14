@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1762105930
+CRC: 2942412002
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 74e75aa2e3b144dbccfc284f373e2c1e
+    Hash: 093b7d23174e28af1f6d42408c7880ae
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6d29d9760c8a54bd72677d2086b7ee8b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 74e75aa2e3b144dbccfc284f373e2c1e
+    Hash: 093b7d23174e28af1f6d42408c7880ae
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -665,6 +665,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.asset
+- Assets/assetbundle_resources/Prefab/Network/Player 1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_shild.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.model3.json
