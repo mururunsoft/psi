@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2942412002
+CRC: 1159047449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 093b7d23174e28af1f6d42408c7880ae
+    Hash: ced8791d267e8608a5083d2e4835ac17
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d29d9760c8a54bd72677d2086b7ee8b
+    Hash: 5adc3933895265a5778f5cc0d6f91c44
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 093b7d23174e28af1f6d42408c7880ae
+    Hash: ced8791d267e8608a5083d2e4835ac17
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -653,6 +653,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_knife.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
+- Assets/assetbundle_resources/Prefab/Network/Player_Bot.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main/main_live2D.model3.json
 - Assets/assetbundle_resources/Prefab/Widgets/wid_pager.prefab
@@ -665,7 +666,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.asset
-- Assets/assetbundle_resources/Prefab/Network/Player 1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_shild.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.model3.json
