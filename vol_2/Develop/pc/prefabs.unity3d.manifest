@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3249498217
+CRC: 1334200696
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c1bfcccaf98518ee1b78b0cd389539e7
+    Hash: 096c0a79a0737edca839f3efbe59f120
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dcc50e6988df772bd696987c9ee77eb6
+    Hash: dc833bbe9b22cbeb2b5b93711b19fe98
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c1bfcccaf98518ee1b78b0cd389539e7
+    Hash: 096c0a79a0737edca839f3efbe59f120
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -777,6 +777,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Widgets/cell_friend.prefab
 - Assets/assetbundle_resources/Prefab/Network/Observer.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_crystal_light_1.prefab
+- Assets/assetbundle_resources/Prefab/Stage/cell_wid_selectbox.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_floor_next.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/texture_00.png
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_block.prefab
@@ -822,6 +823,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv3.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_dungeon_selectbox.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_touteki.prefab
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kibako.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_1_lv1.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_speaker.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.asset
@@ -876,6 +878,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle.prefab
 - Assets/assetbundle_resources/Prefab/UI Root_inst.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.4096/adult_woman_1_texture_00.png
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_taru.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_room.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
