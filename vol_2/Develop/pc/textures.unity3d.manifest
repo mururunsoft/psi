@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2672707653
+CRC: 246555570
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 56c3f1bd85f347139ab50edb4440d01e
+    Hash: bf0ef7e053b4599b66fcb28ac34cdf44
   TypeTreeHash:
     serializedVersion: 2
     Hash: 92a143540b8cd4eb605316b94bd0f381
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 56c3f1bd85f347139ab50edb4440d01e
+    Hash: bf0ef7e053b4599b66fcb28ac34cdf44
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -192,7 +192,6 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/tex_terrain2d_labo_fill.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
-- Assets/assetbundle_resources/Textures/RAW/entrance_child_woman_1.png
-- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/tex_fairy_mori_1_background.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cm1.png
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/tex_fairy_mori_1_background.png
 Dependencies: []
