@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 246555570
+CRC: 4254952939
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf0ef7e053b4599b66fcb28ac34cdf44
+    Hash: f7d72caf1e20b15231d58152dd176270
   TypeTreeHash:
     serializedVersion: 2
     Hash: 92a143540b8cd4eb605316b94bd0f381
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bf0ef7e053b4599b66fcb28ac34cdf44
+    Hash: f7d72caf1e20b15231d58152dd176270
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -38,6 +38,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_pink/tex_terrain2d_castle_pink_fill.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/Terrain2D_Labo_Fill.mat
+- Assets/assetbundle_resources/Textures/RAW/tex_elf_shop.png
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_4-5.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_1_blue.mat
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_2.asset
@@ -54,6 +55,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/am2.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_1_moto.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_5.png
+- Assets/assetbundle_resources/Textures/Grounds/hanyou/Atlas_gounds_hanyou_1.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.png
 - Assets/assetbundle_resources/Textures/RAW/main_child_man_2.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_4.png
@@ -64,6 +66,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_sojyuku_2.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/normal/Atlas_parts_1.mat
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_blue/tex_terrain2d_castle_blue_fill.png
+- Assets/assetbundle_resources/Textures/Grounds/hanyou/Atlas_gounds_hanyou_1.asset
 - Assets/assetbundle_resources/Textures/Grounds/crystal_1/ngui/Atlas_grounds_crystal_1.png
 - Assets/assetbundle_resources/Textures/RAW/_bg_castle_ai_moto.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Edges.png
@@ -125,6 +128,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/aw1.png
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/hanyou/Atlas_gounds_hanyou_1.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cw1.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_1_c1.png

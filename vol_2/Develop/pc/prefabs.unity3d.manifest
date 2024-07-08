@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3185846098
+CRC: 3041938873
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: abd1ce213ce50b6f0de39403b782cced
+    Hash: 74c9ff0526078c8ecfaf444997eeef10
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dc833bbe9b22cbeb2b5b93711b19fe98
+    Hash: 38c2ffb41e7508384104a415acf1ea97
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: abd1ce213ce50b6f0de39403b782cced
+    Hash: 74c9ff0526078c8ecfaf444997eeef10
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -254,6 +254,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3f24f58a0355af44a8aa55d37483965f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 238a8e6fa49f52b4a9f0351fff35462e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3407b6d133ce00b4590c8b49c46a1ff4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7193ee0cda1085948a9d2f78cb4c4947, type: 3}
 - Class: 114
@@ -573,11 +575,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.model3.json
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_psi_dokugiri.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.model3.json
 - Assets/assetbundle_resources/Prefab/Network/Items/item_kusuri_hp_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.model3.json
 - Assets/assetbundle_resources/Prefab/Widgets/wid_coins.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_migawari_circle.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.cdi3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.anim"
@@ -589,12 +593,14 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_noroi_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_life.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_hp_moving.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.4096/main_adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.controller
 - Assets/assetbundle_resources/Prefab/Stage/wid_friend_get.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.controller
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_5_lv1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_item_icon.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toushi.prefab
@@ -612,6 +618,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_weapon_fire.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Network/RoomProperty.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.model3.json
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_pp.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.cdi3.json
@@ -625,6 +632,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.4096/main_child_woman_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Player_Sample.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_clock_set.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.controller
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_A_veryslow.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.asset
 - Assets/assetbundle_resources/Prefab/Widgets/cell_list_psi.prefab
@@ -650,6 +658,7 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.motion3.json"
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_katana.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.2048/fairy_1_texture_00.png
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angelMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Widgets/wid_use_coins.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.prefab
@@ -739,6 +748,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.model3.json
 - Assets/assetbundle_resources/Prefab/Widgets/cell_select_friend.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.4096/child_woman_2_texture_00.png
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door.prefab
 - Assets/assetbundle_resources/Prefab/TapCursor.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_2.prefab
@@ -759,15 +769,15 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_2_lv1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4_lv2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.cdi3.json
-- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.cdi3.json
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv4.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_bg_door_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.controller
-- Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.controller
 - Assets/assetbundle_resources/Prefab/Network/Items/item_kusuri_pp_1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages_dungeon.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.controller
 - Assets/assetbundle_resources/Prefab/NPC/character_npc.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv4.prefab
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.4096/adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1MaskTexture.asset
@@ -850,15 +860,16 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.fade.asset"
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect_back.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1MaskTexture.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv2.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.cdi3.json
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv2.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_veryveryslow.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_dark_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.model3.json
 - Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_fairy_4_shop.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv3.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Stage/cell_dungeon_selectbox.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.4096/shop_angel_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.4096/main_child_woman_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kibako.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_1_lv1.prefab
@@ -878,10 +889,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_nusumu_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_start_dungeon.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devilMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.controller
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_observer_1.prefab
 - Assets/assetbundle_resources/Prefab/Result/wid_cell_result.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumoMaskTexture.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_kubiwa_bomb.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.model3.json
@@ -895,8 +909,8 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/cell_select_dungeon_item.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.4096/main_adult_man_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.prefab
-- Assets/assetbundle_resources/Prefab/Network/ShopItemParamObject.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/Live2D_Models.fadeMotionList.asset
+- Assets/assetbundle_resources/Prefab/Network/ShopItemParamObject.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_powerful_time.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.asset
@@ -950,19 +964,22 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Network/Player.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_gun_yakkyo.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.controller
-- Assets/assetbundle_resources/Prefab/terrain_test_simple_rect_back.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kanaami_nawa_1.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_fan_psi.prefab
+- Assets/assetbundle_resources/Prefab/terrain_test_simple_rect_back.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toumei.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_objects.prefab
 - Assets/assetbundle_resources/Prefab/terrain_test_simple_rect.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_group.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.controller
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.prefab
+- Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_fairy_shop_kumo.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_2/main_adult_woman_2MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_1/main_adult_woman_1.model3.json
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.4096/shop_devil_texture_00.png
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/textures.unity3d
