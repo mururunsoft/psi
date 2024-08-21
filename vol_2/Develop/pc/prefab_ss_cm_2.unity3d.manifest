@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2711025384
+CRC: 3452289495
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f45f83f5f16f14973887ef1e1fc2f1cc
+    Hash: 2c08daad2fee5890f3d889261b164e40
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 39f21701276371f1ed45d08cf6a614e8
+    Hash: d1783ef727cd638b4c8f697eb4248534
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f45f83f5f16f14973887ef1e1fc2f1cc
+    Hash: 2c08daad2fee5890f3d889261b164e40
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -386,6 +386,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_B_uwagi_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ashi_E_R_top_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_ude_E_L_middle_fuku_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataAnimationClip/ac_child_man_2_1_eat.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_opt_v1_hip_neko.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_kami_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_dou_A_ude_H_back_fuku_2.asset

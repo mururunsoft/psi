@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3130727310
+CRC: 3628111591
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9bd9f7994153d1ceaa18123576ce9ff6
+    Hash: d3fb631a1e1fce42073598543c12e558
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 730c06b08e34288d079831559f7ed86c
+    Hash: 0a6957ec983248bc9c054af4b6c75d5f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9bd9f7994153d1ceaa18123576ce9ff6
+    Hash: d3fb631a1e1fce42073598543c12e558
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,6 +45,22 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6669b9055d4815741b5ecbe7b6eb3d65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ce059a486bba304790ac134ab39cf43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eae676e8ff289c4eb7c252a06f047cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f53a3f2b60e39894e9ecbebb46c0e21d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 1d6c844ddae7ea741b0f01f42f225643, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7e1a8413ad039d7408cc5d00cde529a0, type: 3}
@@ -52,8 +68,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: a1b1a5942986cdc4697252766d551a04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b898c2a16326f834bb17011c81188399, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f53a3f2b60e39894e9ecbebb46c0e21d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e0a44125f5351414c94a2195c976e95c, type: 3}
 - Class: 114
@@ -101,8 +115,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: dd22417d98d6a06478c8a39191d214c4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6669b9055d4815741b5ecbe7b6eb3d65, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3ac77df03122dec4a92cd13dcdf1d1ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f2fc71010fbb9e34e89639bc9d6109d7, type: 3}
@@ -114,10 +126,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 674c50c03801e03408090ff47ce0354a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 08125452df42e0543a54dce470801e06, type: 3}
 - Class: 114
@@ -138,8 +146,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2df377c5758f8974aaed292833ec3ba0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6c8de95bd40c02f4a8927e7aa8749a08, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7eae676e8ff289c4eb7c252a06f047cd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
 - Class: 114
@@ -187,8 +193,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: bf22c2cadc5408b4f97b5226ca891847, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7ce059a486bba304790ac134ab39cf43, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: bcde0e0e06543f4449c1ec6b9bb298b4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 02e60a515d968c1418b85408663b4298, type: 3}
@@ -212,8 +216,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 5888685200242984fb4a038bf31034a3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 473d5f22fbfa0dd429ba70599fd6d186, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: be0df2ffb7c138946919591a6248b09b, type: 3}
 - Class: 114
@@ -322,8 +324,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: e47d214c4e730514e89a79ab6398124c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2b56f57144898c343a817fb2aa7edb05, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 45388c82570b82e4e917d08a76337daf, type: 3}
 - Class: 114
@@ -674,5 +674,5 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages_dungeon.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_2.prefab
 Dependencies:
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/pc/materials.unity3d
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/pc/textures.unity3d
+- E:/MyUnityProject/2DAction_Online/Project/AssetBundles/vol_1/Open/pc/materials.unity3d
+- E:/MyUnityProject/2DAction_Online/Project/AssetBundles/vol_1/Open/pc/textures.unity3d

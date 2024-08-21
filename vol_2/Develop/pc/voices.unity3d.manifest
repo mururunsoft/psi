@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3328779335
+CRC: 429540325
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76582e263651c3f1c316e8873f6b53b3
+    Hash: 0197fc032e928364bf8459cc333e0b65
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 76582e263651c3f1c316e8873f6b53b3
+    Hash: 0197fc032e928364bf8459cc333e0b65
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -18,6 +18,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_number_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_false_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_group_start_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_no_1.wav
@@ -27,15 +28,20 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_psi.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_6.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_hp_less.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_makaseru_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_yes_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_true_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_damage_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_group_start.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_enemy_C.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_damage_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_mp_less.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_escape_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_true_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_4.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_psi.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_number_8.wav
@@ -45,6 +51,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_how_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_group_start.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_wait_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_group_end.wav
@@ -52,12 +59,15 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_group_response.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_stop_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_hear_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_enemy_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_number_8.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_hear_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_damage_5.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_mp_less.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_psi_please_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_barabara_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_how_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_atsumare_1.wav
@@ -70,7 +80,10 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_code_2_true.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_group_end.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_hear_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_enemy_C.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_true_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_damage_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_notsound_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_group_end.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_yes_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_group_no.wav
@@ -78,6 +91,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_yes_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_nashi_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_item_C.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_number_6.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_5.wav
@@ -99,6 +113,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_no_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_damage_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_enemy_C.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_damage_3.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_group_response.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_code_3.wav
@@ -111,6 +126,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_group_response.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_damage_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_group_response.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_atsumare_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_9.wav
@@ -123,8 +139,10 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_number_4.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_escape_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_yes_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_damage_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_no_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_comehear_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_false_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_true_1.wav
@@ -140,9 +158,12 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_nashi_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_makaseru_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_wait_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_damage_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_true_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_atsumare_1.wav
@@ -150,15 +171,20 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_damage_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_0.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_damage_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_yes_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_comehear_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_0.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_number_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_number_7.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_number_7.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_escape_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_comehear_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_3.wav
@@ -168,14 +194,17 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_false_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_group_no.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_issyo_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_group_response.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_no_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_3.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_true_2_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_escape_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_number_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_false_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_group_start.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_damage_3.wav
@@ -183,7 +212,9 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_9.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_enemy_C.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_group_start.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_nashi_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_group_end.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_5.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_nashi_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_stop_2.wav
@@ -204,6 +235,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_how_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_makaseru_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_code_2_true.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_issyo_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_atsumare_1.wav
@@ -213,8 +245,12 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_group_start_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_damage_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_group_response.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_group_end.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_hear_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_stop_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_code_3.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_true_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_enemy_C.wav
@@ -227,8 +263,11 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_9.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_number_0.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_group_no.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_code_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_escape_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_damage_3.wav
@@ -241,9 +280,14 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_group_start.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_code_2_true.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_wait_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_0.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_psi.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_notoverthere_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_group_no.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_code_2_true.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_issyo_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_nashi_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_yes_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_true_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_code_3.wav
@@ -252,6 +296,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_0.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_yes_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_yes_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_psi.wav
@@ -260,6 +305,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_true_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_stop_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_9.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_notoverthere_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_damage_2.wav
@@ -301,11 +347,13 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_true_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_comehear_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_mp_less.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_notoverthere_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_code_2_true.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_group_end.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_enemy_C.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_how_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_code_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_7.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_damage_3.wav
@@ -320,6 +368,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_stop_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_code_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_damage_5.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_comehear_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_makaseru_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_code_3.wav
@@ -327,8 +376,11 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_psi.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_group_end.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_yes_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_item_C.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_code_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_code_2_true.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_code_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_8.wav
@@ -343,15 +395,20 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_notsound_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_how_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_number_6.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_makaseru_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_notsound_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_damage_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_number_5.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_group_end.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_how_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_number_6.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_barabara_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_code_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_chohatsu_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_notoverthere_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_item_C.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_how_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_damage_5.wav
@@ -360,17 +417,21 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_barabara_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_number_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_group_start.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_makaseru_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_notsound_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_number_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_number_7.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_group_start.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_damage_3.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_9.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_hp_less.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_atsumare_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_false_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_atsumare_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_number_4.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_number_2.wav
@@ -380,6 +441,8 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_item_C.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_comehear_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_atsumare_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_yes_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_number_4.wav
 - Assets/assetbundle_resources/Voice/npc/vo_en_event_mura_1_11.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_stop_2.wav
@@ -396,6 +459,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_damage_5.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_yes_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_7.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_7.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_group_end.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_7.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_makaseru_1.wav
@@ -417,6 +481,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_code_3.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_nashi_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_group_end.wav
@@ -428,6 +493,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_code_3.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_escape_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_0.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_stop_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_mp_less.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_group_no.wav
@@ -440,6 +506,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_number_7.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_code_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_4.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_comehear_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_makaseru_2.wav
@@ -453,11 +520,14 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_damage_4.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_group_start.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_makaseru_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_true_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_damage_5.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_4.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_issyo_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_stop_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_wait_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_damage_4.wav
@@ -506,6 +576,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_wait_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_chohatsu_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_false_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_stop_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_number_2.wav
@@ -515,6 +586,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_damage_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_escape_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_atsumare_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_9.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_makaseru_2.wav
@@ -529,6 +601,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_damage_4.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_group_response.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_number_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_6.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_hear_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_number_3.wav
@@ -553,6 +626,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_number_0.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_damage_4.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_makaseru_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_group_response.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_notoverthere_1.wav
@@ -564,11 +638,13 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_true_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_damage_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_mp_less.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_mp_less.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_group_no.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_notsound_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_no_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_atsumare_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_true_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_damage_3.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_5.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_7.wav
@@ -577,9 +653,11 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_damage_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_false_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_true_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_7.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_damage_4.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_true_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_atsumare_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_wait_1.wav
@@ -590,6 +668,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_damage_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_thankyou_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_damage_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_escape_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_issyo_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_hear_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_number_9.wav
@@ -617,6 +696,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_notoverthere_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_thankyou_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_group_end.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_psi.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_comehear_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_code_3.wav
@@ -640,15 +720,20 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_item_C.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_damage_4.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_number_8.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_comehear_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_6.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_0.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_psi.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_stop_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_code_2_true.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_no_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_4.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_true_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_escape_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_number_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_true_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_how_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_group_end.wav
@@ -663,6 +748,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_damage_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_code_3.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_atsumare_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_notoverthere_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_makaseru_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_hp_less.wav
@@ -678,6 +764,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_psi.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_number_3.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_yes_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_hear_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_escape_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_psi.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_chohatsu_2.wav
@@ -685,9 +772,11 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_hear_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_mp_less.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_7.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_damage_4.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_number_4.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_damage_5.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_notsound_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_2.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_hear_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_code_1.wav
@@ -698,6 +787,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_code_3.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_comehear_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_en_child_woman_2_number_8.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_group_response.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_atsumare_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_chohatsu_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_4.wav
@@ -711,6 +801,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_mp_less.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_yes_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_code_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_wait_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_nashi_1.wav
@@ -720,6 +811,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_false_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_enemy_C.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_false_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_9.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_false_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_number_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_3.wav
@@ -731,12 +823,14 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_number_0.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_barabara_1.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_damage_3.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_stop_2.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_2.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_false_1.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_en_adult_man_2_group_end.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_ja_child_man_1_psi_please_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_stop_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_hp_less.wav
 - Assets/assetbundle_resources/Voice/child_woman_2/vo_ja_child_woman_2_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_damage_2.wav
 - Assets/assetbundle_resources/Voice/child_man_1/vo_en_child_man_1_group_start.wav
@@ -749,11 +843,14 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_number_5.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_false_1.wav
 - Assets/assetbundle_resources/Voice/child_man_2/vo_ja_child_man_2_true_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_number_4.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_stop_2.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_false_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_wait_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_number_8.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_number_9.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_en_adult_woman_1_code_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_hear_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_issyo_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_number_9.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_true_1.wav
@@ -777,6 +874,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_barabara_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_en_adult_woman_2_code_2_true.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_en_adult_man_1_true_2.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_ja_child_woman_3_wait_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_psi.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_notsound_1.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_ja_child_woman_1_makaseru_1.wav
@@ -808,6 +906,7 @@ Assets:
 - Assets/assetbundle_resources/Voice/child_man_2/vo_en_child_man_2_damage_5.wav
 - Assets/assetbundle_resources/Voice/adult_man_1/vo_ja_adult_man_1_number_9.wav
 - Assets/assetbundle_resources/Voice/child_woman_1/vo_en_child_woman_1_issyo_1.wav
+- Assets/assetbundle_resources/Voice/child_woman_3/vo_en_child_woman_3_code_1.wav
 - Assets/assetbundle_resources/Voice/adult_woman_2/vo_ja_adult_woman_2_mp_less.wav
 - Assets/assetbundle_resources/Voice/adult_woman_1/vo_ja_adult_woman_1_group_start.wav
 - Assets/assetbundle_resources/Voice/adult_man_2/vo_ja_adult_man_2_number_6.wav

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3264036443
+CRC: 1803134114
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e3a3c8a06106659f94d68e907970ba8
+    Hash: cadb507057196941aa5369b0911aa5e8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 39f21701276371f1ed45d08cf6a614e8
+    Hash: d1783ef727cd638b4c8f697eb4248534
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2e3a3c8a06106659f94d68e907970ba8
+    Hash: cadb507057196941aa5369b0911aa5e8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -254,12 +254,13 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataMesh/sm_child_woman_1_1_1_ashi_B_L_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_3/child_woman_1_3/DataMesh/sm_child_woman_1_3_3_ude_F_L_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_6/child_woman_1_6/DataMesh/sm_child_woman_1_6_6_mune_R_fuku_2.asset
-- Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataMesh/sm_child_woman_1_5_5_ashi_A_saki_front_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataAnimationClip/ac_child_woman_1_1_eat.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataAnimationClip/ac_child_woman_1_1_katana_1_air.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataMesh/sm_child_woman_1_5_5_dou_A_ude_E_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_3/child_woman_1_3/DataMesh/sm_child_woman_1_3_3_ashi_D_kutsu_R_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_3/child_woman_1_3/DataMesh/sm_child_woman_1_3_3_mune_R_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataMesh/sm_child_woman_1_1_1_ashi_D_R_fuku_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataMesh/sm_child_woman_1_5_5_ashi_A_saki_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataAnimationClip/ac_child_woman_1_5_to_down.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataAnimationClip/ac_child_woman_1_5_katana_4.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataMesh/sm_child_woman_1_1_1_ude_E_R_fuku_1.asset
@@ -588,6 +589,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataMesh/sm_child_woman_1_5_5_dou_A_ude_E_back_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_2/child_woman_1_2/DataAnimationClip/ac_child_woman_1_2_gun_4_shild.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_2/child_woman_1_2/DataMesh/sm_child_woman_1_2_2_dou_B_ude_C_back_fuku_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataAnimationClip/ac_child_woman_1_1_eat_shild.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataMesh/sm_child_woman_1_5_5_ashi_A_bottom_back_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_5/child_woman_1_5/DataAnimationClip/ac_child_woman_1_5_knife_3.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_woman_1/child_woman_1_1/child_woman_1_1/DataMesh/sm_child_woman_1_1_1_ashi_B_R_kutsu_fuku_1.asset

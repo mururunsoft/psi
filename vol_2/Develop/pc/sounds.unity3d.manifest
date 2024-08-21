@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3681764518
+CRC: 579315173
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b886fd790b2acf4b576f23b0539c4b67
+    Hash: 3236d47a457c383560e50d3e145dcf77
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b886fd790b2acf4b576f23b0539c4b67
+    Hash: 3236d47a457c383560e50d3e145dcf77
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -52,9 +52,11 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_damage_doku.wav
 - Assets/assetbundle_resources/Sound/so_kamitsuki_1.mp3
 - Assets/assetbundle_resources/Sound/so_fuku_panchi_1.wav
+- Assets/assetbundle_resources/Sound/so_put_food_3.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_3.wav
 - Assets/assetbundle_resources/Sound/so_area_ban_silen.wav
 - Assets/assetbundle_resources/Sound/so_gun_shot.wav
+- Assets/assetbundle_resources/Sound/so_jar_open.wav
 - Assets/assetbundle_resources/Sound/so_menu_click.wav
 - Assets/assetbundle_resources/Sound/so_hikari_tame_1.wav
 - Assets/assetbundle_resources/Sound/so_menu_send.wav
@@ -92,6 +94,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_selectbox.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_1.wav
 - Assets/assetbundle_resources/Sound/so_strike.mp3
+- Assets/assetbundle_resources/Sound/so_put_food_1.wav
 - Assets/assetbundle_resources/Sound/so_announce_error.wav
 - Assets/assetbundle_resources/Sound/so_suteru_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_nawa_1.wav
@@ -112,8 +115,11 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_heart.wav
 - Assets/assetbundle_resources/Sound/so_shot_mogura.mp3
 - Assets/assetbundle_resources/Sound/so_kubiwa_2.mp3
+- Assets/assetbundle_resources/Sound/so_supon_1.mp3
 - Assets/assetbundle_resources/Sound/so_hikari_tame_2.wav
+- Assets/assetbundle_resources/Sound/so_put_food_2.wav
 - Assets/assetbundle_resources/Sound/so_arcana_drop.mp3
+- Assets/assetbundle_resources/Sound/so_jar_close.wav
 - Assets/assetbundle_resources/Sound/so_announce_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_2.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_kanaami_2.wav
@@ -133,6 +139,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_announce_invited.wav
 - Assets/assetbundle_resources/Sound/so_shild_break.wav
 - Assets/assetbundle_resources/Sound/so_angel_6_shild_guarded.mp3
+- Assets/assetbundle_resources/Sound/so_comical_kamu_1.mp3
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_2.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_1.wav
 - Assets/assetbundle_resources/Sound/so_gun_empty.wav

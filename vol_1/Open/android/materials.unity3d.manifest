@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1164454667
+CRC: 1371279014
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fd3c0bfe22497c68922deaae96744d7f
+    Hash: 22b478e1a68381f3c0a6979f967c3e2f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f13158e6dc1f80d216844c7888c0ca9
+    Hash: 5f4d8232365167aa89ae2017a49b8eaa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fd3c0bfe22497c68922deaae96744d7f
+    Hash: 22b478e1a68381f3c0a6979f967c3e2f
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -58,4 +58,4 @@ Assets:
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_2.mat
 - Assets/assetbundle_resources/Materials/search_line/search_line.mat
 Dependencies:
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_1/Open/android/textures.unity3d
+- E:/MyUnityProject/2DAction_Online/Project/AssetBundles/vol_1/Open/android/textures.unity3d

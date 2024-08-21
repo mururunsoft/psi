@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3041938873
+CRC: 543305687
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 74c9ff0526078c8ecfaf444997eeef10
+    Hash: 4281a894137bc2f452bae2e10568d7d3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 38c2ffb41e7508384104a415acf1ea97
+    Hash: 56dc8ce040c0b836fca825a85666f5fb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 74c9ff0526078c8ecfaf444997eeef10
+    Hash: 4281a894137bc2f452bae2e10568d7d3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,13 +45,95 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a416d4e470cf3c14893177b97c4d71e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ca63846a3490f340a6e0db3ea668b4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f4e45e8a7cf2344abae9dbc8aaea757, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0408f291eca4cb42bb97618b4c75210, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f1e3ee33744d246a8a3dc6b0816551, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46673d627117bf341ae709d9311aeef2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b017f0b03828db4d81a1eef8d5d7146, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6e79204d7513b04ca9b034cd4e76ac5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b64fe981584ffb45adffbd422cb7390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ea71cef7a29a774c9680417124395bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a76b9e3cc79ba054d935b2d17ce22179, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 308b8c8551ffccd4686a5cdee302b39d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60419847ed45a674d8565cbe74501fe7, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3610d2debcda2c645acd3a08eb60f298, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 238a8e6fa49f52b4a9f0351fff35462e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d6537dcaef394a4790c9b28da88c167, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1aaaab5bb541a5488e4e9d311901a30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c7a2bd3a5989844f87fb8664841c235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3407b6d133ce00b4590c8b49c46a1ff4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f228e22b1d8c6144e9c5c8b9bd200229, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97ea4ff315828444f9c8695882d09d55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eae676e8ff289c4eb7c252a06f047cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c99111bd38495942a759ceac966fc8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45388c82570b82e4e917d08a76337daf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f4e582de58da6f4f93c5109c196dc36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3d90f0f973f2f7429c13afb8ca1c96f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13b630dcb1ac6774782d7f1595a66705, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c4de318e1ca52a41b74d8a02d008295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37f5888752f076749999d6bdafdeebac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172f9c1ac0b34fa42951560a4dee97b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22a7d6917e4edb244964d41da4fe17d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd22417d98d6a06478c8a39191d214c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c2a275dab530648b687777cc433e8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f53a3f2b60e39894e9ecbebb46c0e21d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 146122c571f6b8943bc596677e615b49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a36489f9b9716a5409dd40c4b2e47eab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ce059a486bba304790ac134ab39cf43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f404990a819cbe4baad395ff28d9537, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1d6c844ddae7ea741b0f01f42f225643, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7e1a8413ad039d7408cc5d00cde529a0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b0408f291eca4cb42bb97618b4c75210, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a1b1a5942986cdc4697252766d551a04, type: 3}
 - Class: 114
@@ -66,8 +148,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 26b5ab020cc649e4f84bae99d84c43a4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3c8d596c16f05d949922ef16347e4cc9, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 97ea4ff315828444f9c8695882d09d55, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7919c33995ae02e47b32f74e2c3201c3, type: 3}
 - Class: 114
@@ -87,10 +167,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fb74fc68cdf8b064081daaf145c59b86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a36489f9b9716a5409dd40c4b2e47eab, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dd22417d98d6a06478c8a39191d214c4, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 6669b9055d4815741b5ecbe7b6eb3d65, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3ac77df03122dec4a92cd13dcdf1d1ab, type: 3}
@@ -104,8 +180,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2019f4f82c33eae4084f1fe204b629c4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2df377c5758f8974aaed292833ec3ba0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7eae676e8ff289c4eb7c252a06f047cd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
 - Class: 114
@@ -121,8 +195,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 43e723d57bf169d41a760d7b405bcb13, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6f4e45e8a7cf2344abae9dbc8aaea757, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 2101f97e0e368014cba8f91aa17db33a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dafbb7ec1700e8147a48dbed2e4e543c, type: 3}
@@ -131,19 +203,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1399e4d17b07d3d4aa215bf1f5934a5c, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1c99111bd38495942a759ceac966fc8e, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 64230b91aaf415d49aaca7df46299595, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3cf7abd72e56a684db8c4ea2321e34b4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5b831677f6f45214aa5d94c2dd895e1b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 8d6537dcaef394a4790c9b28da88c167, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: d5d09b08042c869488e7a5e19e60a373, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7ce059a486bba304790ac134ab39cf43, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bcde0e0e06543f4449c1ec6b9bb298b4, type: 3}
 - Class: 114
@@ -167,10 +233,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 473d5f22fbfa0dd429ba70599fd6d186, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 9b017f0b03828db4d81a1eef8d5d7146, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 64614c0fab243d7419c252e36632b765, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c1c5b7f06ff29d743b309cb5d27cf48e, type: 3}
@@ -179,13 +241,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 103e3cbab13c0fe4e840c703ea124db2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30f1e3ee33744d246a8a3dc6b0816551, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7198ae67c7f9bd14b86134e395d11f86, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a416d4e470cf3c14893177b97c4d71e5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b48e2596306b03a4b85af2e4db3a3be2, type: 3}
 - Class: 114
@@ -197,19 +255,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 158639473, guid: e725a070cec140c4caffb81624c8c787, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 146122c571f6b8943bc596677e615b49, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8b8d2262f87c2c94582f4ad4b933f655, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b033b43dc76e9464b9ce3edbf4842a37, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 46673d627117bf341ae709d9311aeef2, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8b28290366fc72543b35a90368273498, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7acf6ad1980ee4c4da91be954553834e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6ca63846a3490f340a6e0db3ea668b4c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e2a0163effd1fe6409f8a74569a9c7a3, type: 3}
 - Class: 114
@@ -219,11 +271,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c6f66502d17e51d4aae0b1e16d1903a4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2ea71cef7a29a774c9680417124395bd, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0539bf985968ec147ba8547dec45dbb2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8f4e582de58da6f4f93c5109c196dc36, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e23066d7f6cfa354d91d0033239622a8, type: 3}
 - Class: 114
@@ -239,8 +287,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 096038fb2be401645bb42481542ffef7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f404990a819cbe4baad395ff28d9537, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 2b56f57144898c343a817fb2aa7edb05, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a181149813833243b254d590b4be884, type: 3}
@@ -249,13 +295,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 079871651f76cc54e88086ab370751b2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 9c4de318e1ca52a41b74d8a02d008295, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3f24f58a0355af44a8aa55d37483965f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 238a8e6fa49f52b4a9f0351fff35462e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3407b6d133ce00b4590c8b49c46a1ff4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7193ee0cda1085948a9d2f78cb4c4947, type: 3}
 - Class: 114
@@ -265,15 +305,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0880b50c198aae84ea2e551567b141f8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: f53a3f2b60e39894e9ecbebb46c0e21d, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 2dba24b14f945704194cf8679b06694f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 172f9c1ac0b34fa42951560a4dee97b5, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 898cbe89a37accf40926737a0a532e63, type: 3}
 - Class: 114
@@ -287,15 +321,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 13b630dcb1ac6774782d7f1595a66705, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: afc594a7936ec09498cf2517aef30719, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f228e22b1d8c6144e9c5c8b9bd200229, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9e8d3c2dbdf60594682f9008748fc750, type: 3}
 - Class: 114
@@ -317,8 +345,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b9e4142f9ec409d4e936bd200d310d7d, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4ca13e4a94c019d48b4c2519d86ae350, type: 3}
@@ -327,15 +353,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a4a2a72fe2a858b4c9be49a26fcf52e7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 308b8c8551ffccd4686a5cdee302b39d, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: aaa4d5100ab5a6d458d33830ed2c0120, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 684625f5fe6eca143aed5821482ed887, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8f1ee1adc36a8a04a8d7c42ac5d6bc27, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e3d90f0f973f2f7429c13afb8ca1c96f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2f6f658b039d61f458e8bc3ac6d0ab50, type: 3}
 - Class: 114
@@ -347,13 +369,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 15a54c0ab96b68e4091ffdc80c3b54fe, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a1aaaab5bb541a5488e4e9d311901a30, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 28e5d11781244f449b6c9aa654a03100, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 308e904e3f33207489a2c15b9b0b297b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 22a7d6917e4edb244964d41da4fe17d1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8ff431cde9d322f4fbdbea9c12ef5fb3, type: 3}
 - Class: 114
@@ -371,17 +389,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 7415728d35677a447b8f2fa865b3b679, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d5c2a275dab530648b687777cc433e8c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: c26f8fefd36d4754cb7cbd22e2f609de, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5b64fe981584ffb45adffbd422cb7390, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 7b6768ab24a327f44a66e2533d9f58b4, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a76b9e3cc79ba054d935b2d17ce22179, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9ec71b54664eb5e42b611df61adbf18b, type: 3}
 - Class: 114
@@ -403,8 +415,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ee651ea9dedccac42909f207062fc954, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 60419847ed45a674d8565cbe74501fe7, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 64bd04a196287a3448f338b0f116c33b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cead0cb4793ff894b9ed910311368f90, type: 3}
@@ -425,8 +435,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a6f4adbb68873874f8ea675c6a9adca3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0c7a2bd3a5989844f87fb8664841c235, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: a9598cafb50fefb4da743cae3a446f74, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b11891e813d16ab4eac55d3886517ec8, type: 3}
@@ -434,12 +442,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b7106950a06563f4a893b4e239e2e1ac, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e47d214c4e730514e89a79ab6398124c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 45388c82570b82e4e917d08a76337daf, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e6e79204d7513b04ca9b034cd4e76ac5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ea4281ef1f85475419c75a1182635352, type: 3}
 - Class: 114
@@ -487,6 +489,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: Ferr.PointControl
 - AssemblyName: Assembly-CSharp
   ClassName: Ferr2DPath
+- AssemblyName: Assembly-CSharp
+  ClassName: Ferr2DT_SegmentDescription
 - AssemblyName: Assembly-CSharp
   ClassName: Ferr2D_PointData
 - AssemblyName: Assembly-CSharp
@@ -572,7 +576,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.controller
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.model3.json
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_psi_dokugiri.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.model3.json
@@ -593,15 +597,17 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_noroi_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_life.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_hp_moving.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform-Mesh.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.4096/main_adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.controller
 - Assets/assetbundle_resources/Prefab/Stage/wid_friend_get.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.controller
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_5_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.2048/shop_angel_weapon_texture_00.png
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.asset
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_5.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_item_icon.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toushi.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.asset
@@ -623,7 +629,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_pp.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.model3.json
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_2_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_2.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/sairy_1_\u306F\u3070\u305F\u304D1.anim"
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Network/Effects/effect_smork.prefab
@@ -649,9 +655,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_2/main_adult_woman_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.controller
 - Assets/assetbundle_resources/Prefab/Network/Items/item_kusuri_poison.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_kyuketsu_spotlight.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv2.prefab
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect_back.Platform
   (1)-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Network/Items/item_tablet_map.prefab
@@ -669,10 +675,9 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_4_shop/fairy_4_shop.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4_lv3.prefab
+- Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.controller
 - Assets/assetbundle_resources/Prefab/Stage/cell_search_comment_comment.prefab
-- Assets/assetbundle_resources/Prefab/Title/live2d_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_knife.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_1.prefab
@@ -689,6 +694,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_mutation.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.asset
 - Assets/assetbundle_resources/Prefab/Network/Player 1.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_shild.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_mado_1_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.model3.json
@@ -698,7 +704,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_reflection.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.4096/main_child_man_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_1_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_1.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_shild.prefab
 - Assets/assetbundle_resources/Prefab/players_ss_parent_sample_face.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_selectbox.prefab
@@ -713,18 +719,21 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_A_fast.prefab
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_enemy_elf_sword.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_colors.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_boss_lv1.prefab
-- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_options.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_boss.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.controller
 - Assets/assetbundle_resources/Prefab/Stage/wid_search.prefab
 - Assets/assetbundle_resources/Prefab/Stage/Player_Dead.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.model3.json
+- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_options.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.controller
 - Assets/assetbundle_resources/Prefab/Effects/effect_knife_slash_2.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_score.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.controller
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_analize.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.4096/child_man_1_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.2048/fairy_2_texture_00.png
@@ -738,6 +747,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Network/Items/item_speaker.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.4096/shop_succubus_texture_00.png
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_door_map.prefab
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_enemy_fire.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u306F\u3070\u305F\u304D1.fade.asset"
@@ -753,42 +763,40 @@ Assets:
 - Assets/assetbundle_resources/Prefab/TapCursor.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle_angel_2_2.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv4.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_5_lv1.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_1_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_5.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_food.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_gold.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_ranking.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.4096/shop_kumo_texture_00.png
 - Assets/assetbundle_resources/Prefab/players_ss_parent.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u8033\u3074\u304F.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_2_lv1.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4_lv2.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.cdi3.json
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv4.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_bg_door_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2.controller
+- Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.controller
 - Assets/assetbundle_resources/Prefab/Network/Items/item_kusuri_pp_1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_gages_dungeon.prefab
-- Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.controller
 - Assets/assetbundle_resources/Prefab/NPC/character_npc.prefab
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.4096/adult_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2MaskTexture.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_4_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_4.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_damage.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_face.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_message.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_gun.prefab
+- Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_shop_angel.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_news.prefab
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_psi_fire.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.asset
@@ -801,7 +809,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_woman_2.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u306F\u3070\u305F\u304D1.fade.asset"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_3_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.4096/adult_woman_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.cdi3.json
@@ -822,7 +830,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.4096/texture_00.png
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_block.prefab
 - Assets/assetbundle_resources/Prefab/Stage/prefab_result_face_cell.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_4_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_4.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_waiting_indicator.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_blocks_tate_top.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.motion3.json"
@@ -832,6 +840,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_kouki_parent.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubusMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_1/child_man_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Network/Items/item_kusuri_hp_1_false.prefab
@@ -847,7 +856,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_present.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_3_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.model3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_fast.prefab
@@ -862,22 +871,21 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.cdi3.json
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_2_lv2.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B_veryveryslow.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_dark_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.model3.json
 - Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_fairy_4_shop.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_3_lv3.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_dungeon_selectbox.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.4096/shop_angel_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.4096/main_child_woman_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kibako.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_1_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_touteki.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.model3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_speaker.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.asset
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_kanaami.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_8_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_8.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_accessory_gear.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_2/fairy_2_\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Effects/effect_gousei_item.prefab
@@ -898,6 +906,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_kubiwa_bomb.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.model3.json
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.model3.json
 - Assets/assetbundle_resources/Prefab/my_furiko.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_dungeon_arcana.prefab
@@ -914,14 +923,15 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_powerful_time.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_2/adult_man_2.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4_lv4.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.4096/main_child_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1MaskTexture.asset
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weaponMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/_players_ss_parent 1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.controller
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_A.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.cdi3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.fade.asset"
 - Assets/assetbundle_resources/Prefab/Meshes/terrain_test_simple_rect.Platform (1)-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_man_2/child_man_2.4096/child_man_2_texture_00.png
@@ -930,17 +940,17 @@ Assets:
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3_\u30C7\u30D5\u30A9\u30EB\u30C8.motion3.json"
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_man_1.prefab
 - Assets/assetbundle_resources/Prefab/Stage/cell_menu.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_5_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_5.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_katana.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/sairy_1_\u306F\u3070\u305F\u304D1.fade.asset"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_6_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_6.prefab
 - Assets/assetbundle_resources/Prefab/calc_wind_pai.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_1/main_adult_woman_1MaskTexture.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_knife_slash_1.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_1/main_adult_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Items/item_smork.prefab
-- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_7_lv1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_7.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_recover_circle.prefab
 - Assets/assetbundle_resources/Prefab/UI Root_inst.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.model3.json
