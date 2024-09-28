@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1961843150
+CRC: 1622943741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d7e514a5cc4eb879cc7971b1d1d0f66
+    Hash: 4017f70a039897a1edef2a424cd95b04
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 39f21701276371f1ed45d08cf6a614e8
+    Hash: d1783ef727cd638b4c8f697eb4248534
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7d7e514a5cc4eb879cc7971b1d1d0f66
+    Hash: 4017f70a039897a1edef2a424cd95b04
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -155,6 +155,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_4/adult_woman_2_4/DataMesh/sm_adult_woman_2_4_4_mune_back_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_5/adult_woman_2_5/DataAnimationClip/ac_adult_woman_2_5_damage.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_3/adult_woman_2_3/DataMesh/sm_adult_woman_2_3_opt_v1_back_tenshi_A.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_1/adult_woman_2_1/DataAnimationClip/ac_adult_woman_2_1_gun_end.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_6/adult_woman_2_6/DataMesh/sm_adult_woman_2_6_6_ashi_bottom_L_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_6/adult_woman_2_6/DataMesh/sm_adult_woman_2_6_6_ude_bottom_L_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_6/adult_woman_2_6/DataMesh/sm_adult_woman_2_6_6_ude_top_R_fuku_1.asset
@@ -287,6 +288,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_5/adult_woman_2_5/DataMesh/sm_adult_woman_2_5_5_kami_front.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_5/adult_woman_2_5/DataMesh/sm_adult_woman_2_5_5_dou_A_ude_A_back_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_5/adult_woman_2_5/DataMesh/sm_adult_woman_2_5_5_dou_A_ude_C_back_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_1/adult_woman_2_1/DataAnimationClip/ac_adult_woman_2_1_eat.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_2/adult_woman_2_2/DataMesh/sm_adult_woman_2_2_2_kami_back.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_2/adult_woman_2_2/DataMesh/sm_adult_woman_2_2_opt_v1_back_tenshi_A.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/adult_woman_2/adult_woman_2_5/adult_woman_2_5/DataAnimationClip/ac_adult_woman_2_5_normal.asset

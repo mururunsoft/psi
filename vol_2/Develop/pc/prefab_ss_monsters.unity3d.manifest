@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 10420256
+CRC: 1253952880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b89b327be88a4c4387d5ae4008b0562
+    Hash: a69cf03bc9fa183dabb6dfff8fba99e6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a0b4c19714e0605644f2433f654d0c8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8b89b327be88a4c4387d5ae4008b0562
+    Hash: a69cf03bc9fa183dabb6dfff8fba99e6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2175,11 +2175,12 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_1_c4/fairy_4_1_c4/DataMesh/sm_fairy_4_1_c4_udeR_A_te.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_3/angel_3_2/angel_3_2/DataAnimationClip/ac_angel_3_2_walk_back.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_4/angel_4_1_c2/angel_4_1_c2/PrefabSprite/ps_angel_4_1_c2.prefab
-- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2/fairy_7_2/DataAnimationClip/ac_fairy_7_2_fly_junbi.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_1_c2/devil_6_1_c2/DataAnimationClip/ac_devil_6_1_c2_start_pre.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_4_c3/devil_4_4_c3/ps_devil_4_4_c3_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2_c3/fairy_7_2_c3/DataAnimationClip/ac_fairy_7_2_c3_jump_fly_open_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_2/angel_2_1/angel_2_1/ps_angel_2_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_3/angel_3_2_c4/angel_3_2_c4/DataAnimationClip/ac_angel_3_2_c4_death_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2/fairy_7_2/DataAnimationClip/ac_fairy_7_2_fly_junbi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_1_c3/devil_4_1_c3/Texture/devil_4_1_c3.png
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_2_c2/devil_2_2_c2/DataMesh/sm_devil_2_2_c2_eri_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_4/angel_4_2_c3/angel_4_2_c3/DataAnimationClip/ac_angel_4_2_c3_death_1.asset
@@ -2200,6 +2201,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2/fairy_3_2/DataMesh/sm_fairy_3_2_skirt_bk_ft.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2_c2/fairy_7_2_c2/DataAnimationClip/ac_fairy_7_2_c2_kamu_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3/devil_5_3/DataAnimationClip/ac_devil_5_3_jump_slash.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_1/devil_6_1/DataAnimationClip/ac_devil_6_1_start_pre.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_3/devil_4_3/DataMesh/sm_devil_4_3_ashiL_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_1/fairy_1_2/fairy_1_2/DataMesh/sm_fairy_1_2_H_mimi_c3.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_2_c4/devil_5_2_c4/DataMesh/sm_devil_5_2_c4_ashi_bk_A_btm.asset
@@ -3190,6 +3192,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_1/fairy_3_1/DataMesh/sm_fairy_3_1_skirt_L_ura.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c4/fairy_4_2_c4/DataMesh/sm_fairy_4_2_c4_udeE_bk_yubi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_7/fairy_7_2_c3/fairy_7_2_c3/DataAnimationClip/ac_fairy_7_2_c3_kamu_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2/devil_6_2/DataAnimationClip/ac_devil_6_2_walk_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_2/angel_2_1_c4/angel_2_1_c4/DataMesh/sm_angel_2_1_c4_mimi_R.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_2_c4/angel_5_2_c4/DataMesh/sm_angel_5_2_c4_ude_ft_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_2_c4/devil_4_2_c4/DataAnimationClip/ac_devil_4_2_c4_fumu_2.asset
@@ -3285,8 +3288,8 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_1/fairy_3_1/DataMesh/sm_fairy_3_1_manto_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_2/devil_4_2/DataMesh/sm_devil_4_2_ashiA_bk_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2_c2/fairy_3_2_c2/DataMesh/sm_fairy_3_2_c2_ashi_1_ft_btm.asset
-- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_1/fairy_6_1/DataMesh/sm_fairy_6_1_udeR_C_yubi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c2/fairy_4_2_c2/DataMesh/sm_fairy_4_2_c2_ashi_ft_saki.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_1/fairy_6_1/DataMesh/sm_fairy_6_1_udeR_C_yubi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_2/fairy_6_2/DataMesh/sm_fairy_6_2_udeD_ft_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3_c3/devil_5_3_c3/DataMesh/sm_devil_5_3_c3_ude_ft_D_te.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_2/devil_2_2/DataMesh/sm_devil_2_2_udeC_ft_top.asset
@@ -3556,6 +3559,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2_c3/fairy_3_2_c3/ps_fairy_3_2_c3_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_1_c4/devil_4_1_c4/DataMesh/sm_devil_4_1_c4_udeL_C_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_1/devil_1_2_c2/devil_1_2_c2/ps_devil_1_2_c2_Control.prefab
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c3/devil_6_2_c3/DataAnimationClip/ac_devil_6_2_c3_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_1/fairy_1_2/fairy_1_2/DataMesh/sm_fairy_1_2_ude_bk_top_c3.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_1_c4/devil_3_1_c4/PrefabSprite/ps_devil_3_1_c4.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_5/fairy_5_2_c2/fairy_5_2_c2/DataMesh/sm_fairy_5_2_c2_ude_ft_B_top.asset
@@ -3677,6 +3681,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_3/angel_3_2_c3/angel_3_2_c3/DataAnimationClip/ac_angel_3_2_c3_attack_1_2_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_1_c2/fairy_3_1_c2/DataMesh/sm_fairy_3_1_c2_obi.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_4/angel_4_2_c2/angel_4_2_c2/DataMesh/sm_angel_4_2_c2_ude_back_top.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_1_c3/devil_6_1_c3/DataAnimationClip/ac_devil_6_1_c3_start_pre.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c2/devil_6_2_c2/Texture/devil_6_2_c2.png
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_1_c3/devil_2_1_c3/DataMesh/sm_devil_2_1_c3_udeL_A_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_2_c3/angel_5_2_c3/DataAnimationClip/ac_angel_5_2_c3_slash_jyunbi.asset
@@ -3714,6 +3719,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_2_c2/devil_4_2_c2/DataMesh/sm_devil_4_2_c2_udeA_ft_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2_c3/fairy_3_2_c3/DataAnimationClip/ac_fairy_3_2_c3_anime_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3_c4/devil_5_3_c4/DataMesh/sm_devil_5_3_c4_ashi_ft_saki.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c3/devil_6_2_c3/DataAnimationClip/ac_devil_6_2_c3_walk_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_1_c3/fairy_3_1_c3/DataMesh/sm_fairy_3_1_c3_skirt_R_ura.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_8/fairy_8_2_c2/fairy_8_2_c2/DataMesh/sm_fairy_8_2_c2_shippo.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c4/fairy_4_2_c4/DataMesh/sm_fairy_4_2_c4_udeE_ft_oyayubi.asset
@@ -3965,6 +3971,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_5/fairy_5_1_c4/fairy_5_1_c4/DataAnimationClip/ac_fairy_5_1_c4_normal.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c2/devil_6_2_c2/DataAnimationClip/ac_devil_6_2_c2_panchi_ft_mid.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_1_c2/devil_2_1_c2/DataMesh/sm_devil_2_1_c2_ashiL_top.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_1_c4/devil_6_1_c4/DataAnimationClip/ac_devil_6_1_c4_start_pre.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_1/devil_2_1/PrefabSprite/ps_devil_2_1.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_2_c4/devil_3_2_c4/DataMesh/sm_devil_3_2_c4_ashi1_ft_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_boss/angel_boss_1/angel_boss_1/DataMesh/sm_angel_boss_1_kami_bk_L.asset
@@ -4000,6 +4007,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/jar_rabbit_1/jar_rabbit_1_2/jar_rabbit_1_2/DataMesh/sm_jar_rabbit_1_2_ashiA_bk_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_1/fairy_6_1/DataAnimationClip/ac_fairy_6_1_normal_pointa_mid.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c4/fairy_4_2_c4/DataMesh/sm_fairy_4_2_c4_udeC_bk_btm.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2/devil_6_2/DataAnimationClip/ac_devil_6_2_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_1/fairy_1_1/fairy_1_1/DataMesh/sm_fairy_1_1_shippo_4_L_c3.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2_c4/fairy_3_2_c4/DataAnimationClip/ac_fairy_3_2_c4_jump_up.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_4/angel_4_2/angel_4_2/DataAnimationClip/ac_angel_4_2_jump_up.asset
@@ -4806,6 +4814,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_6/angel_6_1_c3/angel_6_1_c3/DataMesh/sm_angel_6_1_c3_hair_ft_L.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_1/fairy_6_1/DataMesh/sm_fairy_6_1_kamiL.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_2/angel_5_2/DataAnimationClip/ac_angel_5_2_fly.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c4/devil_6_2_c4/DataAnimationClip/ac_devil_6_2_c4_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2/fairy_4_2/DataMesh/sm_fairy_4_2_udeB_ft_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c2/fairy_4_2_c2/DataMesh/sm_fairy_4_2_c2_udeE_bk_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_2_c4/fairy_4_2_c4/DataMesh/sm_fairy_4_2_c4_udeD_bk_btm.asset
@@ -5377,6 +5386,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_1/devil_4_1/ps_devil_4_1_Control.prefab
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_2_c3/devil_3_2_c3/DataMesh/sm_devil_3_2_c3_ashi1_ft_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_1_c3/fairy_4_1_c3/DataMesh/sm_fairy_4_1_c3_udeL_C_btm.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c2/devil_6_2_c2/DataAnimationClip/ac_devil_6_2_c2_walk_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_1/fairy_1_2/fairy_1_2/DataMesh/sm_fairy_1_2_shippo_1_c4.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_8/fairy_8_2_c4/fairy_8_2_c4/DataMesh/sm_fairy_8_2_c4_body.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_2/angel_2_2/angel_2_2/DataMesh/sm_angel_2_2_mimi_ft.asset
@@ -5467,6 +5477,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_1/angel_1_1_c4/angel_1_1_c4/DataAnimationClip/ac_angel_1_1_c4_anime_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3/devil_5_3/DataAnimationClip/ac_devil_5_3_fight_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3/devil_5_3/PrefabSprite/ps_devil_5_3.prefab
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c2/devil_6_2_c2/DataAnimationClip/ac_devil_6_2_c2_walk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_1_c2/angel_5_1_c2/DataMesh/sm_angel_5_1_c2_wing_koshi_L.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_4/fairy_4_1_c2/fairy_4_1_c2/DataMesh/sm_fairy_4_1_c2_z_1_slash.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_8/fairy_8_1/fairy_8_1/DataMesh/sm_fairy_8_1_ashi_ft_2_btm.asset
@@ -5490,10 +5501,10 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_2_c3/angel_5_2_c3/DataMesh/sm_angel_5_2_c3_wing_R2.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_2/devil_3_2/DataMesh/sm_devil_3_2_ude1_ft_te.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_5/angel_5_2_c4/angel_5_2_c4/DataMesh/sm_angel_5_2_c4_wing_R1.asset
-- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_2/fairy_6_2/DataAnimationClip/ac_fairy_6_2_death_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3_c4/devil_5_3_c4/DataMesh/sm_devil_5_3_c4_ude_bk_C_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_2/fairy_2_2/fairy_2_2/Texture/fairy_2_2.png
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_2/angel_2_2/angel_2_2/DataMesh/sm_angel_2_2_wing_ft_top.asset
-- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_5/devil_5_3_c4/devil_5_3_c4/DataMesh/sm_devil_5_3_c4_ude_bk_C_top.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_6/fairy_6_2/fairy_6_2/DataAnimationClip/ac_fairy_6_2_death_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_4/devil_4_4/DataMesh/sm_devil_4_4_ashi_bk_saki.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_2/devil_2_2/DataMesh/sm_devil_2_2_ashiA_ft_top.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_slot/angel_slot_1/angel_slot_1/DataMesh/sm_angel_slot_1_hane_TL_bk.asset
@@ -5540,6 +5551,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_2/devil_2_2_c3/devil_2_2_c3/DataMesh/sm_devil_2_2_c3_udeB_ft_btm.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_1_c3/devil_3_1_c3/DataAnimationClip/ac_devil_3_1_c3_eat.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_3/devil_3_2_c2/devil_3_2_c2/DataMesh/sm_devil_3_2_c2_ashi2_bk_top.asset
+- Assets/assetbundle_resources/Prefab_SS_Monsters/devil_6/devil_6_2_c4/devil_6_2_c4/DataAnimationClip/ac_devil_6_2_c4_walk_bk.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/fairy_3/fairy_3_2_c3/fairy_3_2_c3/DataMesh/sm_fairy_3_2_c3_skirt_bk_ft.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/devil_4/devil_4_1_c3/devil_4_1_c3/DataMesh/sm_devil_4_1_c3_ashiL_A_saki.asset
 - Assets/assetbundle_resources/Prefab_SS_Monsters/angel_1/angel_1_2_c3/angel_1_2_c3/DataMesh/sm_angel_1_2_c3_ago.asset

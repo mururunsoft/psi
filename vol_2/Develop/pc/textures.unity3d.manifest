@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 859416911
+CRC: 909299144
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8cc78f3700bd9eb296b347eba496cd5
+    Hash: 1cce25ea3e9ad9aa511ddd3659a9fc00
   TypeTreeHash:
     serializedVersion: 2
     Hash: fc1105625f49536ae5022d5a672ebb1e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b8cc78f3700bd9eb296b347eba496cd5
+    Hash: 1cce25ea3e9ad9aa511ddd3659a9fc00
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -40,15 +40,20 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_2.asset
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_1_blue.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/terrain/Terrain2D_makai_1_Fill.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cw2.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_1.asset
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1_add.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.asset
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1_add.mat
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_3.mat
 - Assets/assetbundle_resources/Textures/RAW/1_blood_5.png
 - Assets/assetbundle_resources/Textures/Grounds/hanyou/Atlas_gounds_hanyou_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/tex_ocean.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_4.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/tex_labo_background_gray.png
+- Assets/assetbundle_resources/Textures/Effects/eff_add_2/Atlas_eff_add_2.mat
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_sojyuku_2.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_blue/tex_terrain2d_castle_blue_fill.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_2.png
@@ -59,7 +64,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_1.mat
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_2.asset
 - Assets/assetbundle_resources/Textures/RAW/main_adult_woman_1.png
-- Assets/assetbundle_resources/Textures/RAW/mask_aa_4.png
+- Assets/assetbundle_resources/Textures/Effects/eff_add_2/Atlas_eff_add_2.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/Terrain2D_Labo.asset
 - Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_4.mat
@@ -67,12 +72,15 @@ Assets:
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_2.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/terrain/Terrain2D_tenkai_2.asset
+- Assets/assetbundle_resources/Textures/RAW/mask_aa_4.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/tex_labo_background_purple.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_blue/tex_terrain2d_castle_blue_edges.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/terrain/Terrain2D_makai_1_Fill.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_2.mat
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_3.png
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_4.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/terrain/Terrain2D_tenkai_2_Fill.mat
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_2.asset
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_5.png
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.mat
@@ -91,6 +99,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_2.mat
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_3.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_2.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/terrain/Terrain2D_makai_1_Edges.png
 - Assets/assetbundle_resources/Textures/Grounds/hanyou/Atlas_gounds_hanyou_1.mat
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.png
 - Assets/assetbundle_resources/Textures/Terrain2D/tex_sky.png
@@ -109,6 +118,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_pink/Terrain2D_Castle_Edges.mat
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/additive/Atlas_castle_addisive_1.mat
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_blue.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1_add.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_green.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_1_1.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean.png
@@ -137,10 +147,12 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_2_2.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1.png
 - Assets/assetbundle_resources/Textures/RAW/tex_elf_shop.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.asset
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_pink/tex_terrain2d_castle_pink_fill.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/terrain/Terrain2D_makai_1_edges.mat
 - Assets/assetbundle_resources/Textures/RAW/test_yousei.png
 - Assets/assetbundle_resources/Textures/Parts/ngui/store_images/Atlas_store_images.mat
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/normal/Atlas_bk_fairy_castle_normal_1.mat
@@ -151,6 +163,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/am1.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/am2.png
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_normal_1_moto.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_2.mat
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.png
 - Assets/assetbundle_resources/Textures/RAW/main_child_man_2.png
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.png
@@ -184,6 +197,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/mask_aa_1.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/face_hatena.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_1_add.png
+- Assets/assetbundle_resources/Textures/Effects/eff_add_2/Atlas_eff_add_2.asset
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/add/Atlas_bk_fairy_castle_add_1.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.asset
 - Assets/assetbundle_resources/Textures/Grow_Status/grow_status_nakadarumi.png
@@ -203,6 +217,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cw1.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_1_c1.png
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1.asset
 - Assets/assetbundle_resources/Textures/Grounds/labo/tex_terrain2d_labo_edges.png
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/add/Atlas_bk_fairy_castle_add_1.mat
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.asset
@@ -221,9 +236,10 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_1.asset
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_1.png
 - Assets/assetbundle_resources/Textures/Terrain2D/tex_white_background.png
-- Assets/assetbundle_resources/Textures/RAW/1_site_1.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_2.png
 - Assets/assetbundle_resources/Textures/Grounds/labo/Terrain2D_Labo_Edges.mat
 - Assets/assetbundle_resources/Textures/RAW/bg_castle_ai_moto.png
+- Assets/assetbundle_resources/Textures/RAW/1_site_1.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/terrain/Terrain2D_tenkai_1_fill.png
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.asset
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_2.asset
@@ -244,6 +260,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_1-3.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_2.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/additive/Atlas_castle_addisive_1.png
+- Assets/assetbundle_resources/Textures/Grounds/makai_1/terrain/Terrain2D_makai_1.asset
 - Assets/assetbundle_resources/Textures/MagicCircles/ngui/Atlas_magiccircles_1-3.mat
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cm1.png
 - Assets/assetbundle_resources/Textures/Grounds/castle/terrain_blue/Terrain2D_Castle_blue.asset

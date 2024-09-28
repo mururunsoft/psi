@@ -1,0 +1,173 @@
+ManifestFileVersion: 0
+CRC: 1443698530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64c79ff202d816554652e96806f6a792
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 428616caee67e1cf27a1d07d708448c4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 64c79ff202d816554652e96806f6a792
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d6c844ddae7ea741b0f01f42f225643, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7919c33995ae02e47b32f74e2c3201c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 674c50c03801e03408090ff47ce0354a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9246f9d100ccf4469e929f1be958f2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f461de52d0f21b64e9581d4efcaabb84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cfe511f5ae84c24e82fbf88db7e24ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43e723d57bf169d41a760d7b405bcb13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7cfbb248470f5e47ba01805ac16a5bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1399e4d17b07d3d4aa215bf1f5934a5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 057bc4ef68e25534bbfca459e2c9cd09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5d09b08042c869488e7a5e19e60a373, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcde0e0e06543f4449c1ec6b9bb298b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10891b2a2ca391f478f7117152dd8fbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e62ffc1644ad694ea91a4541e7d4c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b8d2262f87c2c94582f4ad4b933f655, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d683e3ceda8806847a72e7072270c471, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2d10a9759c23e443a79348233070ecb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f66502d17e51d4aae0b1e16d1903a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b37cbfef47218bc4eb610df3b43663c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8ff9b7219f8a8d4b8a3d3748c60e39e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e72d35b8b03294aaddbca4b44a1fd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ea2e50055552ff43b023a35b5b809b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0880b50c198aae84ea2e551567b141f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b0361e256132914dade1563ef507632, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e470c1f07e4d2514a88b9d33f7055487, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9645c568f7cc784db7bebff268bb03e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36cc14215156a634899d4af63cb3e17d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58c24b9115345bc4da79fe74dc9ee72e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 439ab46324509844286410173bba7ac5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de3954a82162d194e9676556fdae1fb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 961bb49c7079cb3449d249b716156b56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c26f8fefd36d4754cb7cbd22e2f609de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d898b6c904d3d2144a0c86d6ce3bf06f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43b681ee25711047aca02230c69927e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cead0cb4793ff894b9ed910311368f90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a616a9cc5d736642b583f0f9ac2a90d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e47d214c4e730514e89a79ab6398124c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f03ecf1d0aed1a4983444a04a4a1134, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/assetbundle_resources/Rooms/tenkai_2.unity
+- Assets/assetbundle_resources/Rooms/labo.unity
+- Assets/assetbundle_resources/Rooms/fix_fairy_izumi_1.unity
+- Assets/assetbundle_resources/Rooms/fairy_castle_blue.unity
+- Assets/assetbundle_resources/Rooms/cave_1.unity
+- Assets/assetbundle_resources/Rooms/tenkai_1.unity
+- Assets/assetbundle_resources/Rooms/island.unity
+- Assets/assetbundle_resources/Rooms/fairy_mori_1.unity
+- Assets/assetbundle_resources/Rooms/fix_mura.unity
+- Assets/assetbundle_resources/Rooms/fairy_castle_pink.unity
+- Assets/assetbundle_resources/Rooms/fix_makai_mura.unity
+- Assets/assetbundle_resources/Rooms/fix_tenkai_mura.unity
+Dependencies:
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/materials.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/prefab_ss_monsters.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/prefabs.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures.unity3d

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 579315173
+CRC: 4257893648
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3236d47a457c383560e50d3e145dcf77
+    Hash: 2175cedc0cdbe4d8a2ae20f29aedbeb5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3236d47a457c383560e50d3e145dcf77
+    Hash: 2175cedc0cdbe4d8a2ae20f29aedbeb5
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -48,20 +48,25 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_doui_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_2.wav
 - Assets/assetbundle_resources/Sound/so_attack_damage_1.wav
+- Assets/assetbundle_resources/Sound/so_miss_elf.mp3
 - Assets/assetbundle_resources/Sound/so_smork_1.wav
 - Assets/assetbundle_resources/Sound/so_damage_doku.wav
-- Assets/assetbundle_resources/Sound/so_kamitsuki_1.mp3
 - Assets/assetbundle_resources/Sound/so_fuku_panchi_1.wav
+- Assets/assetbundle_resources/Sound/so_kamitsuki_1.mp3
 - Assets/assetbundle_resources/Sound/so_put_food_3.wav
+- Assets/assetbundle_resources/Sound/so_shot_star_1.mp3
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_3.wav
 - Assets/assetbundle_resources/Sound/so_area_ban_silen.wav
 - Assets/assetbundle_resources/Sound/so_gun_shot.wav
+- Assets/assetbundle_resources/Sound/so_shot_star_2.mp3
 - Assets/assetbundle_resources/Sound/so_jar_open.wav
-- Assets/assetbundle_resources/Sound/so_menu_click.wav
+- Assets/assetbundle_resources/Sound/so_damage_succubus_drain.mp3
 - Assets/assetbundle_resources/Sound/so_hikari_tame_1.wav
+- Assets/assetbundle_resources/Sound/so_menu_click.wav
 - Assets/assetbundle_resources/Sound/so_menu_send.wav
 - Assets/assetbundle_resources/Sound/so_souko_1.mp3
 - Assets/assetbundle_resources/Sound/so_announce_checkbox_on.wav
+- Assets/assetbundle_resources/Sound/so_fairy_4_sword.mp3
 - Assets/assetbundle_resources/Sound/so_door_open_1.mp3
 - Assets/assetbundle_resources/Sound/so_firstperson_jump.wav
 - Assets/assetbundle_resources/Sound/so_psi_start_1_fast.wav
@@ -82,6 +87,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_announce_get.wav
 - Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_breath_dragon_1_sp2.wav
+- Assets/assetbundle_resources/Sound/so_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_end_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_1.wav
 - Assets/assetbundle_resources/Sound/so_psi_time_2.wav
@@ -116,23 +122,29 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_shot_mogura.mp3
 - Assets/assetbundle_resources/Sound/so_kubiwa_2.mp3
 - Assets/assetbundle_resources/Sound/so_supon_1.mp3
-- Assets/assetbundle_resources/Sound/so_hikari_tame_2.wav
-- Assets/assetbundle_resources/Sound/so_put_food_2.wav
+- Assets/assetbundle_resources/Sound/so_breath_ice.wav
+- Assets/assetbundle_resources/Sound/so_angel_shot_1.wav
+- Assets/assetbundle_resources/Sound/so_devil_6_start.mp3
 - Assets/assetbundle_resources/Sound/so_arcana_drop.mp3
+- Assets/assetbundle_resources/Sound/so_put_food_2.wav
 - Assets/assetbundle_resources/Sound/so_jar_close.wav
 - Assets/assetbundle_resources/Sound/so_announce_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_2.wav
+- Assets/assetbundle_resources/Sound/so_hikari_tame_2.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_kanaami_2.wav
 - Assets/assetbundle_resources/Sound/so_angel_5_tsuku.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_2.wav
 - Assets/assetbundle_resources/Sound/so_equip_1.wav
+- Assets/assetbundle_resources/Sound/so_succubus_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_kagi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_2.wav
 - Assets/assetbundle_resources/Sound/so_hajimeyou_1.wav
 - Assets/assetbundle_resources/Sound/so_bomb_1.wav
 - Assets/assetbundle_resources/Sound/so_kubiwa_1.mp3
 - Assets/assetbundle_resources/Sound/so_powerful_1_fast.wav
+- Assets/assetbundle_resources/Sound/so_angel_shot_2.mp3
 - Assets/assetbundle_resources/Sound/so_tataku_1.wav
+- Assets/assetbundle_resources/Sound/so_shot_gravity.mp3
 - Assets/assetbundle_resources/Sound/so_menu_enter.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_3.wav
 - Assets/assetbundle_resources/Sound/so_box_dageki_1.mp3

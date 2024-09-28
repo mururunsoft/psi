@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4068830873
+CRC: 2948367029
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6e34c95f5655b806b96eebb2bf3171c2
+    Hash: 0ebfaa0dc3129a83d11d3e8abe3cb461
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6e34c95f5655b806b96eebb2bf3171c2
+    Hash: 0ebfaa0dc3129a83d11d3e8abe3cb461
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -18,6 +18,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/assetbundle_resources/Music/mu_title.wav
 - Assets/assetbundle_resources/Music/mu_devil_mura.wav
+- Assets/assetbundle_resources/Music/mu_safezone.wav
 - Assets/assetbundle_resources/Music/mu_angel_1.wav
 - Assets/assetbundle_resources/Music/mu_entrance.wav
 - Assets/assetbundle_resources/Music/mu_angel_mura.wav
@@ -30,6 +31,7 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_battle_2.wav
 - Assets/assetbundle_resources/Music/mu_fairy_mura.wav
 - Assets/assetbundle_resources/Music/mu_result.wav
+- Assets/assetbundle_resources/Music/mu_angel_boss.wav
 - Assets/assetbundle_resources/Music/mu_shop_elf.wav
 - Assets/assetbundle_resources/Music/mu_fairy_1.wav
 - Assets/assetbundle_resources/Music/mu_psi.wav

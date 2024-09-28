@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3694734884
+CRC: 3529157742
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -62,3 +62,10 @@ AssetBundleManifest:
     Info_18:
       Name: voices.unity3d
       Dependencies: {}
+    Info_19:
+      Name: rooms.unity3d
+      Dependencies:
+        Dependency_0: textures.unity3d
+        Dependency_1: prefabs.unity3d
+        Dependency_2: materials.unity3d
+        Dependency_3: prefab_ss_monsters.unity3d

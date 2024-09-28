@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2453741985
+CRC: 2212746071
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 296a5b369092c8cfaefba2a5d51669ae
+    Hash: 15f68ebb93390ca38ed575b3fb295a50
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 296a5b369092c8cfaefba2a5d51669ae
+    Hash: 15f68ebb93390ca38ed575b3fb295a50
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -31,12 +31,12 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_battle_2.wav
 - Assets/assetbundle_resources/Music/mu_fairy_mura.wav
 - Assets/assetbundle_resources/Music/mu_result.wav
+- Assets/assetbundle_resources/Music/mu_angel_boss.wav
 - Assets/assetbundle_resources/Music/mu_shop_elf.wav
 - Assets/assetbundle_resources/Music/mu_fairy_1.wav
 - Assets/assetbundle_resources/Music/mu_psi.wav
 - Assets/assetbundle_resources/Music/mu_angel_2.wav
 - Assets/assetbundle_resources/Music/mu_battle_1.wav
-- Assets/assetbundle_resources/Music/_mu_shop_elf.wav
 - Assets/assetbundle_resources/Music/mu_yousei_dungeon_1.wav
 - Assets/assetbundle_resources/Music/mu_battle_3.wav
 - Assets/assetbundle_resources/Music/mu_kaisou.wav
