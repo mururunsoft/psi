@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1608004994
+CRC: 3094929208
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 444b3d4b9dc19e77e047714a1d3e4248
+    Hash: 591d5aaa57bfe97c5e0ab098cf6ce8ba
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 428616caee67e1cf27a1d07d708448c4
+    Hash: 5b79213dc9812579d56a3589b123300e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 444b3d4b9dc19e77e047714a1d3e4248
+    Hash: 591d5aaa57bfe97c5e0ab098cf6ce8ba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,8 +150,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-- Class: 258
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/assetbundle_resources/Rooms/tenkai_2.unity
@@ -167,7 +165,6 @@ Assets:
 - Assets/assetbundle_resources/Rooms/fix_makai_mura.unity
 - Assets/assetbundle_resources/Rooms/fix_tenkai_mura.unity
 Dependencies:
-- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/prefab_ss_monsters.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/prefabs.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/textures.unity3d
