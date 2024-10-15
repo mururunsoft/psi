@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1125915015
+CRC: 892626499
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7ae1ab9e38857ba81933a4a0206e5062
+    Hash: 75c5931d584409a83cff4fa7452fc5c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8afec3660358f8884058eaf6bdf6b0d5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7ae1ab9e38857ba81933a4a0206e5062
+    Hash: 75c5931d584409a83cff4fa7452fc5c4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -987,5 +987,6 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.4096/shop_devil_texture_00.png
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/materials.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/terrain2d.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/textures.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/textures_raw.unity3d

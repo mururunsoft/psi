@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 998971689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6d22a1d1011f98678313487cc7b21ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d30839140d388ff68380f05f990bf677
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a6d22a1d1011f98678313487cc7b21ae
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cfe511f5ae84c24e82fbf88db7e24ae, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Ferr2DT_SegmentDescription
+Assets:
+- Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy.asset
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/tex_terrain2d_castle_pink_edges.png
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/tex_terrain2d_castle_pink_fill.png
+- Assets/assetbundle_resources/Terrain2D/labo/terrain/Terrain2D_Labo_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/makai_1/terrain/Terrain2D_makai_1_edges.mat
+- Assets/assetbundle_resources/Terrain2D/makai_1/terrain/Terrain2D_makai_1_Edges.png
+- Assets/assetbundle_resources/Terrain2D/makai_1/terrain/Terrain2D_makai_1_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.png
+- Assets/assetbundle_resources/Terrain2D/labo/terrain/tex_terrain2d_labo_edges.png
+- Assets/assetbundle_resources/Terrain2D/tenkai_1/terrain/Terrain2D_tenkai_1_edges.png
+- Assets/assetbundle_resources/Terrain2D/cave_1/terrain/Terrain2D_cave_1.asset
+- Assets/assetbundle_resources/Terrain2D/cave_1/terrain/Terrain2D_cave_1_Edges.png
+- Assets/assetbundle_resources/Terrain2D/mori_1_human/terrain/Terrain2D_mori_1_human_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/Terrain2D_Castle_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/mori_1_human/terrain/Terrain2D_mori_1_human_edges.mat
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/Terrain2D_Castle_Edges.mat
+- Assets/assetbundle_resources/Terrain2D/cave_1/terrain/Terrain2D_cave_1_edges.mat
+- Assets/assetbundle_resources/Terrain2D/tenkai_1/terrain/Terrain2D_tenkai_1_edges.mat
+- Assets/assetbundle_resources/Terrain2D/tenkai_1/terrain/Terrain2D_tenkai_1_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_blue/tex_terrain2d_castle_blue_fill.png
+- Assets/assetbundle_resources/Terrain2D/labo/terrain/Terrain2D_Labo_Edges.mat
+- Assets/assetbundle_resources/Terrain2D/mori_1_human/terrain/Terrain2D_mori_1_human_Edges.png
+- Assets/assetbundle_resources/Terrain2D/tenkai_1/terrain/Terrain2D_tenkai_1_fill.png
+- Assets/assetbundle_resources/Terrain2D/tenkai_2/terrain/Terrain2D_tenkai_2_Edges.mat
+- Assets/assetbundle_resources/Terrain2D/labo/terrain/Terrain2D_Labo.asset
+- Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Edges.png
+- Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Fill.png
+- Assets/assetbundle_resources/Terrain2D/tenkai_2/terrain/Terrain2D_tenkai_2.asset
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_blue/Terrain2D_Castle_Fill_blue.mat
+- Assets/assetbundle_resources/Terrain2D/tenkai_1/terrain/Terrain2D_tenkai_1.asset
+- Assets/assetbundle_resources/Terrain2D/tenkai_2/terrain/Terrain2D_tenkai_2_edges.png
+- Assets/assetbundle_resources/Terrain2D/mori_1_human/terrain/Terrain2D_mori_1_human.asset
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_blue/tex_terrain2d_castle_blue_edges.png
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/Terrain2D_Castle_pink.asset
+- Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_edges.mat
+- Assets/assetbundle_resources/Terrain2D/cave_1/terrain/Terrain2D_cave_1_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/makai_1/terrain/Terrain2D_makai_1.asset
+- Assets/assetbundle_resources/Terrain2D/makai_1/terrain/Terrain2D_makai_1_Fill.png
+- Assets/assetbundle_resources/Terrain2D/tenkai_2/terrain/Terrain2D_tenkai_2_fill.png
+- Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/tenkai_2/terrain/Terrain2D_tenkai_2_Fill.mat
+- Assets/assetbundle_resources/Terrain2D/cave_1/terrain/Terrain2D_cave_1_Fill.png
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_blue/Terrain2D_Castle_blue.asset
+- Assets/assetbundle_resources/Terrain2D/castle/terrain_blue/Terrain2D_Castle_Edges_blue.mat
+- Assets/assetbundle_resources/Terrain2D/labo/terrain/tex_terrain2d_labo_fill.png
+Dependencies: []
