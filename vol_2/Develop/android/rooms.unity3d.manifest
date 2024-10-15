@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2424127512
+CRC: 4238776353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a7f7da3b049854ba0ce4d63bcc2314ad
+    Hash: b286a8a0489437a9cc00800fcdc004f0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 46a63d6a3bfb08def6cc8d7f576b1222
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a7f7da3b049854ba0ce4d63bcc2314ad
+    Hash: b286a8a0489437a9cc00800fcdc004f0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -303,5 +303,6 @@ Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/prefab_ss_monsters.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/prefabs.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/terrain2d.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures_raw.unity3d

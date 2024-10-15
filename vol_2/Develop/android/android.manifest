@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2115821659
+CRC: 3825581338
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -50,6 +50,7 @@ AssetBundleManifest:
         Dependency_2: prefabs.unity3d
         Dependency_3: prefab_ss_monsters.unity3d
         Dependency_4: textures_raw.unity3d
+        Dependency_5: terrain2d.unity3d
     Info_14:
       Name: models.unity3d
       Dependencies: {}
@@ -59,6 +60,7 @@ AssetBundleManifest:
         Dependency_0: materials.unity3d
         Dependency_1: textures.unity3d
         Dependency_2: textures_raw.unity3d
+        Dependency_3: terrain2d.unity3d
     Info_16:
       Name: prefab_ss_others.unity3d
       Dependencies: {}
@@ -73,4 +75,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_20:
       Name: textures_raw.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: terrain2d.unity3d
       Dependencies: {}
