@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2049734883
+CRC: 2503806509
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,7 +17,7 @@ AssetBundleManifest:
     Info_4:
       Name: materials.unity3d
       Dependencies:
-        Dependency_0: textures.unity3d
+        Dependency_0: textures_raw.unity3d
     Info_5:
       Name: textures.unity3d
       Dependencies: {}
@@ -45,9 +45,11 @@ AssetBundleManifest:
     Info_13:
       Name: rooms.unity3d
       Dependencies:
-        Dependency_0: textures.unity3d
-        Dependency_1: prefabs.unity3d
-        Dependency_2: prefab_ss_monsters.unity3d
+        Dependency_0: materials.unity3d
+        Dependency_1: textures.unity3d
+        Dependency_2: prefabs.unity3d
+        Dependency_3: prefab_ss_monsters.unity3d
+        Dependency_4: textures_raw.unity3d
     Info_14:
       Name: models.unity3d
       Dependencies: {}
@@ -56,6 +58,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: materials.unity3d
         Dependency_1: textures.unity3d
+        Dependency_2: textures_raw.unity3d
     Info_16:
       Name: prefab_ss_others.unity3d
       Dependencies: {}
@@ -67,4 +70,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_19:
       Name: prefab_ss_monsters.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: textures_raw.unity3d
       Dependencies: {}

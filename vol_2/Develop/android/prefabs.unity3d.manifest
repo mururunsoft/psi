@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 954111042
+CRC: 2736594532
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75ebd09ddb00d97d84d37e4f45cf0712
+    Hash: 7f029825bdcdc0b8329752540bf17243
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8afec3660358f8884058eaf6bdf6b0d5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 75ebd09ddb00d97d84d37e4f45cf0712
+    Hash: 7f029825bdcdc0b8329752540bf17243
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -501,8 +501,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: Page_Animation
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
-- AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
 - AssemblyName: Fusion.Addons.Physics
   ClassName: Fusion.Addons.Physics.TRSThresholds
 - AssemblyName: Fusion.Runtime
@@ -990,3 +988,4 @@ Assets:
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures.unity3d
+- E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/android/textures_raw.unity3d

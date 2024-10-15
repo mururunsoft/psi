@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 289603905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e742a401144316fcca5791b308ab2dba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e742a401144316fcca5791b308ab2dba
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_3.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/cw2.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/cw1.png
+- Assets/assetbundle_resources/Textures/RAW/gun_spark_3.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/am1.png
+- Assets/assetbundle_resources/Textures/RAW/gun_spark_1.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/am2.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/cm2.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_normal_1_moto.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_1_2.png
+- Assets/assetbundle_resources/Textures/RAW/1_blood_5.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_2_1.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean_purple.png
+- Assets/assetbundle_resources/Textures/RAW/main_child_woman_2.png
+- Assets/assetbundle_resources/Textures/RAW/main_child_man_2.png
+- Assets/assetbundle_resources/Textures/RAW/1_blood_4.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean_yellow.png
+- Assets/assetbundle_resources/Textures/RAW/main_adult_woman_2.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean_blue.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean_green.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_sojyuku_2.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_bansei_2.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_1_1.png
+- Assets/assetbundle_resources/Textures/RAW/1_blood_1.png
+- Assets/assetbundle_resources/Textures/RAW/box_face_back.png
+- Assets/assetbundle_resources/Textures/RAW/1_blood_3.png
+- Assets/assetbundle_resources/Textures/RAW/box_white.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean.png
+- Assets/assetbundle_resources/Textures/RAW/main_adult_woman_1.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_normal_1.png
+- Assets/assetbundle_resources/Textures/RAW/main_child_woman_1.png
+- Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
+- Assets/assetbundle_resources/Textures/RAW/box_face_disable.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/cw3.png
+- Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_2.png
+- Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_1.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_sojyuku_1.png
+- Assets/assetbundle_resources/Textures/RAW/main_adult_man_2.png
+- Assets/assetbundle_resources/Textures/RAW/main_child_man_1.png
+- Assets/assetbundle_resources/Textures/RAW/1_blood_2.png
+- Assets/assetbundle_resources/Textures/RAW/box_face_waku.png
+- Assets/assetbundle_resources/Textures/RAW/box_face_front.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/face_hatena.png
+- Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_4.png
+- Assets/assetbundle_resources/Textures/RAW/gun_spark_2.png
+- Assets/assetbundle_resources/Textures/RAW/mask_aa_1.png
+- Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_5.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/cm1.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_nakadarumi.png
+- Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_2_2.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/jump_curve.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/aw2.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_normal_2.png
+- Assets/assetbundle_resources/Textures/RAW/RGBA32/aw1.png
+- Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_bansei_1.png
+Dependencies: []
