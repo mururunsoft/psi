@@ -1,15 +1,16 @@
 ManifestFileVersion: 0
-CRC: 998971689
+UnityVersion: 6000.0.23f1
+CRC: 3780508342
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a6d22a1d1011f98678313487cc7b21ae
+    Hash: 8518878db48994a003b5235a221cad00
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d30839140d388ff68380f05f990bf677
+    Hash: 7f43015299438fa14f5fb03d2f6eb7fc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a6d22a1d1011f98678313487cc7b21ae
+    Hash: fa6e475ae34052f82ea060505ddfe102
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -24,7 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: Ferr2DT_SegmentDescription
+  ClassName: .Ferr2DT_SegmentDescription
 Assets:
 - Assets/assetbundle_resources/Terrain2D/mori_1_fairy/terrain/Terrain2D_mori_1_fairy.asset
 - Assets/assetbundle_resources/Terrain2D/castle/terrain_pink/tex_terrain2d_castle_pink_edges.png

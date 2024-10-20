@@ -1,15 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1253152108
+UnityVersion: 6000.0.23f1
+CRC: 2238962742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 948f8febca1750cff319243c49dcba64
+    Hash: 32cef91ea9ef384c626210ca091e3684
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5f4d8232365167aa89ae2017a49b8eaa
+    Hash: 43d12b6061a2c2bab3c95dae01aac406
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 948f8febca1750cff319243c49dcba64
+    Hash: 25068d647d62e6225d0082d125fbae97
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -26,7 +27,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: Ferr2DT_SegmentDescription
+  ClassName: .Ferr2DT_SegmentDescription
 Assets:
 - Assets/assetbundle_resources/Materials/gun_line/gun_line.mat
 - Assets/assetbundle_resources/Materials/Points/mat_point_player.mat

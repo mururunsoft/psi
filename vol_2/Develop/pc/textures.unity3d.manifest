@@ -1,15 +1,16 @@
 ManifestFileVersion: 0
-CRC: 2810168890
+UnityVersion: 6000.0.23f1
+CRC: 1252875276
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 183c17d82d76777d142971977cb7ab1a
+    Hash: 01469c759a5a63d8160e470565ea5a86
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dd5fb27088f75a2720f7b53c13d32b13
+    Hash: 86769d93aaa62bef913eeb38d5e2ad49
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 183c17d82d76777d142971977cb7ab1a
+    Hash: 8ce052778c39338e7bafebc48edf0a75
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -24,7 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
+  ClassName: .UISpriteData
 Assets:
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.asset
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_fairy/ngui/Atlas_mori_1_fairy_1.asset

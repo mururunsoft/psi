@@ -1,81 +1,83 @@
 ManifestFileVersion: 0
-CRC: 2590742617
+UnityVersion: 6000.0.23f1
+CRC: 4202437747
+HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: prefab_ss_cw_2.unity3d
+      Name: textures.unity3d
       Dependencies: {}
     Info_1:
-      Name: prefab_ss_aw_2.unity3d
+      Name: prefab_ss_am_1.unity3d
       Dependencies: {}
     Info_2:
-      Name: prefab_ss_cw_3.unity3d
+      Name: models.unity3d
       Dependencies: {}
     Info_3:
-      Name: texts.unity3d
+      Name: prefab_ss_cw_3.unity3d
       Dependencies: {}
     Info_4:
+      Name: prefab_ss_aw_2.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: prefab_ss_cm_1.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: prefab_ss_am_2.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: prefab_ss_monsters.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: prefab_ss_cw_2.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: sounds.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: textures_raw.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: prefab_ss_others.unity3d
+      Dependencies: {}
+    Info_12:
       Name: materials.unity3d
       Dependencies:
         Dependency_0: textures_raw.unity3d
-    Info_5:
-      Name: textures.unity3d
-      Dependencies: {}
-    Info_6:
-      Name: voices.unity3d
-      Dependencies: {}
-    Info_7:
-      Name: sounds.unity3d
-      Dependencies: {}
-    Info_8:
-      Name: prefab_ss_cm_2.unity3d
-      Dependencies: {}
-    Info_9:
-      Name: prefab_ss_am_2.unity3d
-      Dependencies: {}
-    Info_10:
-      Name: prefab_ss_cm_1.unity3d
-      Dependencies: {}
-    Info_11:
-      Name: prefab_ss_am_1.unity3d
-      Dependencies: {}
-    Info_12:
-      Name: prefab_ss_aw_1.unity3d
-      Dependencies: {}
     Info_13:
-      Name: rooms.unity3d
-      Dependencies:
-        Dependency_0: materials.unity3d
-        Dependency_1: textures.unity3d
-        Dependency_2: prefabs.unity3d
-        Dependency_3: prefab_ss_monsters.unity3d
-        Dependency_4: textures_raw.unity3d
-        Dependency_5: terrain2d.unity3d
+      Name: texts.unity3d
+      Dependencies: {}
     Info_14:
-      Name: models.unity3d
-      Dependencies: {}
-    Info_15:
-      Name: prefabs.unity3d
-      Dependencies:
-        Dependency_0: materials.unity3d
-        Dependency_1: textures.unity3d
-        Dependency_2: textures_raw.unity3d
-        Dependency_3: terrain2d.unity3d
-    Info_16:
-      Name: prefab_ss_others.unity3d
-      Dependencies: {}
-    Info_17:
       Name: musics.unity3d
       Dependencies: {}
-    Info_18:
+    Info_15:
+      Name: terrain2d.unity3d
+      Dependencies: {}
+    Info_16:
       Name: prefab_ss_cw_1.unity3d
       Dependencies: {}
-    Info_19:
-      Name: prefab_ss_monsters.unity3d
+    Info_17:
+      Name: voices.unity3d
       Dependencies: {}
+    Info_18:
+      Name: prefabs.unity3d
+      Dependencies:
+        Dependency_0: textures.unity3d
+        Dependency_1: textures_raw.unity3d
+        Dependency_2: materials.unity3d
+        Dependency_3: terrain2d.unity3d
+    Info_19:
+      Name: rooms.unity3d
+      Dependencies:
+        Dependency_0: textures.unity3d
+        Dependency_1: prefab_ss_monsters.unity3d
+        Dependency_2: textures_raw.unity3d
+        Dependency_3: materials.unity3d
+        Dependency_4: terrain2d.unity3d
+        Dependency_5: prefabs.unity3d
     Info_20:
-      Name: textures_raw.unity3d
+      Name: prefab_ss_cm_2.unity3d
       Dependencies: {}
     Info_21:
-      Name: terrain2d.unity3d
+      Name: prefab_ss_aw_1.unity3d
       Dependencies: {}
