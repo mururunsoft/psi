@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 1496628482
+CRC: 1487650093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5691ed64bedab05154bc6bdf01db0dd3
+    Hash: 7fe9709da84c9fb2f04c8d6cdf43d2a5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a6e8e40c73ac20e3fad7e9b909df76c3
+    Hash: 61f3266de5643988b141f15b91f2e6b9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0e160634d8ba30b8176a25a70d472aac
+    Hash: 5069ad44ddb42c84cdcbfc9dd33ff413
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,8 +45,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 7e1a8413ad039d7408cc5d00cde529a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2145ac11102403245b39c3186df837f5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2dcdf22f2a168ce49b0c324ee0553aac, type: 3}
 - Class: 114
@@ -846,6 +850,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_reflection_tobi.prefab
 - Assets/assetbundle_resources/Prefab/Title/ss_title_child_woman_2.prefab
+- Assets/assetbundle_resources/Prefab/Effects/effect_trail_worth.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform (1)-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_2/child_woman_2.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_gun_sparks.prefab
@@ -909,6 +914,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_man_1/adult_man_1.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.4096/main_child_man_2_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1MaskTexture.asset
+- Assets/assetbundle_resources/Prefab/Effects/effect_trail_exp.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_4.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weaponMaskTexture.asset
 - Assets/assetbundle_resources/Prefab/_players_ss_parent 1.prefab
