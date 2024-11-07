@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 3499505762
+CRC: 232989509
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69574c299248ff1a34e8fc24e7de0ae6
+    Hash: a103b5d64fcfc556afa9a4bcc1671fc3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43d12b6061a2c2bab3c95dae01aac406
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c729e0918580deda9d5caf8696b3af94
+    Hash: 4e27b2422ba2bea249960cd0f06e52dc
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -37,7 +37,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/Points/mat_point_team.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_1.mat
 - Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle.png
-- Assets/assetbundle_resources/Materials/Points/mat_point_door.mat
+- Assets/assetbundle_resources/Materials/Points/mat_point_npc.mat
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_3.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_front.mat
 - Assets/assetbundle_resources/Materials/Feer2D/cart_line.png
@@ -48,6 +48,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/Face/mat_face_back.mat
 - Assets/assetbundle_resources/Materials/white_line/white_line.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_4.mat
+- Assets/assetbundle_resources/Materials/trail_particle/mat_trail_particle.png
 - Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_5.mat
 - Assets/assetbundle_resources/Materials/Points/mat_point_item.mat
@@ -58,6 +59,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/blood/mat_blood_3.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_waku.mat
 - Assets/assetbundle_resources/Materials/Feer2D/My_Feer2D_EdgeMaterial_Cart_Line.mat
+- Assets/assetbundle_resources/Materials/trail_particle/mat_trail_particle.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_disable.mat
 - Assets/assetbundle_resources/Materials/Feer2D/cart_line_fill.png
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_2.mat

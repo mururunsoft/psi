@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 47930236
+CRC: 3451748077
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67f9be42d5161080d0207f3dc5efbe78
+    Hash: fba85b9e54fa6dceb085aa07e7c4573f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c396eed3a884e893c1963796cc5fe751
+    Hash: aee69d93a17c20e7120908a6b17b31d0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a3cd32b799481460f2fe02445e8d5f88
+    Hash: 84a406eb64e3381a5d302e88a817cc33
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,6 +56,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d06466c03d263624786afa88b52928b6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7695ed2eceed1dd478b9c07a5efd6cca, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 15a54c0ab96b68e4091ffdc80c3b54fe, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
@@ -72,9 +74,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: aa39fc445b8673b41868d26940512e82, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 2986974e9f21ffd479845ad444fc7c34, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e9326972cc81a934a93722158c97a14b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46a2f65904db0c4479a6e852945ac35c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c26f8fefd36d4754cb7cbd22e2f609de, type: 3}
 - Class: 114
@@ -151,6 +157,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c6f66502d17e51d4aae0b1e16d1903a4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5c5621588477fc3478e2ba605787040f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a5de654e2e5bb74cbcc3a9a93f790b4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1d6c844ddae7ea741b0f01f42f225643, type: 3}
 - Class: 114
@@ -291,6 +299,8 @@ Assets:
 - Assets/assetbundle_resources/Rooms/fix_fairy_izumi_1.unity
 - Assets/assetbundle_resources/Rooms/fairy_castle_blue.unity
 - Assets/assetbundle_resources/Rooms/cave_1.unity
+- Assets/assetbundle_resources/Rooms/fix_fairy_boss.unity
+- Assets/assetbundle_resources/Rooms/fix_fairy_izumi_3.unity
 - Assets/assetbundle_resources/Rooms/tenkai_1.unity
 - Assets/assetbundle_resources/Rooms/island.unity
 - Assets/assetbundle_resources/Rooms/fairy_mori_1.unity
@@ -298,6 +308,7 @@ Assets:
 - Assets/assetbundle_resources/Rooms/fairy_castle_pink.unity
 - Assets/assetbundle_resources/Rooms/fix_makai_mura.unity
 - Assets/assetbundle_resources/Rooms/fix_tenkai_mura.unity
+- Assets/assetbundle_resources/Rooms/fix_fairy_izumi_2.unity
 Dependencies:
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/materials.unity3d
 - E:/MyUnityProject/2DAction_Online2/Project/AssetBundles/vol_2/Develop/pc/prefab_ss_monsters.unity3d

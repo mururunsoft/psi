@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 3929565439
+CRC: 199715725
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -63,9 +63,10 @@ AssetBundleManifest:
       Name: prefabs.unity3d
       Dependencies:
         Dependency_0: textures.unity3d
-        Dependency_1: textures_raw.unity3d
-        Dependency_2: materials.unity3d
-        Dependency_3: terrain2d.unity3d
+        Dependency_1: prefab_ss_monsters.unity3d
+        Dependency_2: textures_raw.unity3d
+        Dependency_3: materials.unity3d
+        Dependency_4: terrain2d.unity3d
     Info_19:
       Name: rooms.unity3d
       Dependencies:
