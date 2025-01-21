@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 4137051088
+CRC: 3027605935
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5f639d64dbc1d0cf738f71c64be2236
+    Hash: 5b8f76cd2ac34b62b814963a102f38cd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5eb4dddcc050f17f6cf46408d31743d4
+    Hash: 5d367e9a75bbe98b2995f90228ab984b
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -55,11 +55,12 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_2.wav
 - Assets/assetbundle_resources/Sound/so_attack_damage_1.wav
 - Assets/assetbundle_resources/Sound/so_miss_elf.mp3
-- Assets/assetbundle_resources/Sound/so_smork_1.wav
+- Assets/assetbundle_resources/Sound/so_powerdown_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_water_2.wav
 - Assets/assetbundle_resources/Sound/so_damage_doku.wav
 - Assets/assetbundle_resources/Sound/so_fuku_panchi_1.wav
 - Assets/assetbundle_resources/Sound/so_kamitsuki_1.mp3
+- Assets/assetbundle_resources/Sound/so_smork_1.wav
 - Assets/assetbundle_resources/Sound/so_put_food_3.wav
 - Assets/assetbundle_resources/Sound/so_shot_star_1.mp3
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_3.wav
@@ -87,6 +88,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_window_open.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_tsuchi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_nawa_2.wav
+- Assets/assetbundle_resources/Sound/so_powerup_2.mp3
 - Assets/assetbundle_resources/Sound/so_jinari_2.wav
 - Assets/assetbundle_resources/Sound/so_water_out_sub.wav
 - Assets/assetbundle_resources/Sound/so_fire_1.wav
@@ -101,9 +103,10 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_end_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_1.wav
-- Assets/assetbundle_resources/Sound/so_psi_time_2.wav
+- Assets/assetbundle_resources/Sound/so_powerdown_2.mp3
 - Assets/assetbundle_resources/Sound/so_jump_3.wav
 - Assets/assetbundle_resources/Sound/so_psi_time_1.wav
+- Assets/assetbundle_resources/Sound/so_psi_time_2.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ishi_2.wav
 - Assets/assetbundle_resources/Sound/so_fuku_jump_1.wav
 - Assets/assetbundle_resources/Sound/so_jump_2.wav
@@ -121,11 +124,13 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_switch_1.mp3
 - Assets/assetbundle_resources/Sound/so_guard_1.mp3
 - Assets/assetbundle_resources/Sound/so_menu_click_3.wav
+- Assets/assetbundle_resources/Sound/so_powerup_1.mp3
 - Assets/assetbundle_resources/Sound/so_gun_kamae.wav
 - Assets/assetbundle_resources/Sound/so_attack_damage_2.mp3
 - Assets/assetbundle_resources/Sound/so_hazumu_dragon_1.wav
 - Assets/assetbundle_resources/Sound/so_door_close_1.wav
 - Assets/assetbundle_resources/Sound/so_shot_hikari_1_fast.wav
+- Assets/assetbundle_resources/Sound/so_slash_1.mp3
 - Assets/assetbundle_resources/Sound/so_gun_yakkyo_2.wav
 - Assets/assetbundle_resources/Sound/so_jinari_out.wav
 - Assets/assetbundle_resources/Sound/so_dokugiri_1.wav

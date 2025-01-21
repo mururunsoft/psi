@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 241153417
+CRC: 1580772410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd34202f82666d7160b77222e7a766a2
+    Hash: 2b9d25e9f0400d7aa58aa1be06686a29
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f349c36d7a6532f767333f9299b3e74
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 49d44f1239a7b7fa29c0addc63ca6bea
+    Hash: b416915d93bcc833343b883d00fcf9bf
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -40,6 +40,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_blue.png
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean_green.png
 - Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_sojyuku_2.png
+- Assets/assetbundle_resources/Textures/RAW/devil_boss_1.png
 - Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_bansei_2.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/color_palette_1_1.png
 - Assets/assetbundle_resources/Textures/RAW/1_blood_1.png
@@ -49,7 +50,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/blood_ocean.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_woman_1.png
 - Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_normal_1.png
-- Assets/assetbundle_resources/Textures/RAW/main_child_woman_1.png
+- Assets/assetbundle_resources/Textures/RAW/blood_ocean_yellow_2.png
 - Assets/assetbundle_resources/Textures/RAW/main_dw_2048.png
 - Assets/assetbundle_resources/Textures/RAW/box_face_disable.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cw3.png
@@ -66,6 +67,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/RAW/gun_spark_2.png
 - Assets/assetbundle_resources/Textures/RAW/mask_aa_1.png
 - Assets/assetbundle_resources/Textures/RAW/1_item_glass_kakera_5.png
+- Assets/assetbundle_resources/Textures/RAW/main_child_woman_1.png
 - Assets/assetbundle_resources/Textures/RAW/RGBA32/cm1.png
 - Assets/assetbundle_resources/Textures/RAW/Grow_Status/grow_status_nakadarumi.png
 - Assets/assetbundle_resources/Textures/RAW/main_adult_man_1.png

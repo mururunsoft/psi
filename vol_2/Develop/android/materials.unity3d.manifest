@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 33750054
+CRC: 1317411290
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0e5c1b86213efb26a4855fa55ccadcc
+    Hash: d6310d67c42f7b1436ec4033672d89ac
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43d12b6061a2c2bab3c95dae01aac406
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 14e713eb314a5df1358cef1dd7425c5a
+    Hash: 22b802e4116389ef38e535c3b4b47e98
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -33,6 +33,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/Points/mat_point_player.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_4.mat
 - Assets/assetbundle_resources/Materials/Feer2D/My_Feer2D_FillMaterial_Cart_Line.mat
+- Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle_2.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_3.mat
 - Assets/assetbundle_resources/Materials/Points/mat_point_team.mat
 - Assets/assetbundle_resources/Materials/blood/mat_blood_1.mat
@@ -45,6 +46,7 @@ Assets:
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_1.mat
 - Assets/assetbundle_resources/Materials/Face/mat_face_circle.mat
 - Assets/assetbundle_resources/Materials/gun_spark/mat_gun_spark_1.mat
+- Assets/assetbundle_resources/Materials/circle_particle/mat_circle_particle_2.png
 - Assets/assetbundle_resources/Materials/Face/mat_face_back.mat
 - Assets/assetbundle_resources/Materials/white_line/white_line.mat
 - Assets/assetbundle_resources/Materials/glass_piece/mat_glass_piece_4.mat
