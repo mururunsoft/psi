@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 1042404527
+CRC: 1768166838
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f704df5ca9af1ae9921dea2492b4a1b
+    Hash: 7d71e82908c55da8a68a74b272b73955
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1d40f223543e63c2ce27e6be57f46bb0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fc1fb718205697ae50a7ef3bcdea1ece
+    Hash: a610a7975617a7731daa73a80e7d94ef
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -902,6 +902,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Title/ss_title_adult_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Network/Shots/shot_hit_effect.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/cell_present.prefab
+- Assets/assetbundle_resources/Prefab/Widgets/cell_color_parts.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_1/main_child_woman_1.prefab
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_angel_3.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/child_woman_1/child_woman_1.model3.json
