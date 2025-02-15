@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 3028257543
+CRC: 3785580158
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2de46e562f65f7840abf940749515c70
+    Hash: 449effa6e4357a12fb46e6807bd99da5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 31eea8f9903a6029d083d437bfa5e1d8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 764642f6c1ec57043ffe9a099876e569
+    Hash: e700be2005784c528a2bd3f5e6dbd2fd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -221,6 +221,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_dou_A_ude_H_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_4/child_man_2_4/DataMesh/sm_child_man_2_4_4_dou_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_4/child_man_2_4/DataMesh/sm_child_man_2_4_opt_v1_mimi_kitsune_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataAnimationClip/ac_child_man_2_5_nageru_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataAnimationClip/ac_child_man_2_2_anime_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_B_fuku_2_hood.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/DataAnimationClip/ac_child_man_2_6_anime_1.asset
@@ -231,6 +232,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_kami_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/DataMesh/sm_child_man_2_6_6_uwagi_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ude_PSI_A_R_fuku_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_ude_nage_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_B_ude_AB_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/DataMesh/sm_child_man_2_6_6_dou_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/PrefabSprite/ps_child_man_2_3.prefab
@@ -295,6 +297,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataAnimationClip/ac_child_man_2_2_katana_2_air.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_ude_G_L_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_ashi_A_saki_back_fuku_1.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_ude_nage_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_dou_B_ude_A_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_ashi_B_R_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_opt_v1_mimi_kitsune_fuku_1.asset
@@ -443,6 +446,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ude_B_L_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_fuku_2_hood.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/Texture/child_man_2_6.png
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_B_ude_nage_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_rinkaku_A_fuku_2_hood_oku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_ude_A_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_rinkaku_A_fuku_2_hood_front.asset
@@ -497,6 +501,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_ude_D_R_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ude_A_L_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_dou_A_ude_B_front_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_B_ude_nage_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_rinkaku_B_fuku_2_hood_front.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataAnimationClip/ac_child_man_2_3_knife_3_air.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_kami_front_fuku_2.asset
@@ -532,6 +537,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataAnimationClip/ac_child_man_2_2_dash_shild.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/DataMesh/sm_child_man_2_6_6_ashi_bottom_R_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_6/child_man_2_6/DataMesh/sm_child_man_2_6_6_ashi_bottom_L_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataAnimationClip/ac_child_man_2_5_nageru_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_ashi_A_saki_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ashi_E_R_kutsu_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_3/child_man_2_3/DataMesh/sm_child_man_2_3_3_rinkaku_A_fuku_2_hood_front_2.asset
@@ -553,6 +559,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_4/child_man_2_4/DataMesh/sm_child_man_2_4_4_kami_front_fuku_2.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_ashi_A_saki_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_2/child_man_2_2/DataMesh/sm_child_man_2_2_2_dou_B_ude_D_front_fuku_2.asset
+- Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataAnimationClip/ac_child_man_2_5_nageru_3.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_ude_C_front_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_1/child_man_2_1/DataMesh/sm_child_man_2_1_1_ude_C_R_back_fuku_1.asset
 - Assets/assetbundle_resources/Prefab_SS_Players/child_man_2/child_man_2_5/child_man_2_5/DataMesh/sm_child_man_2_5_5_dou_A_fuku_1.asset

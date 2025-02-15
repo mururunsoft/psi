@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 237551997
+CRC: 968665439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dfda0af94c9d824faa91f0cdeed0c722
+    Hash: b1a59a20423f338c7aaea5c391a3acba
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1d40f223543e63c2ce27e6be57f46bb0
+    Hash: 8d2bf8525423b8e149a1d16d68854f9b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e1bbea86f786fdced5e7d6fe4f4a7df3
+    Hash: 1d463c5216cb2ff562d3bfe52368f2d4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -148,6 +148,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: bf7b8511abe310f4fa690c4bf081a908, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 3f03ecf1d0aed1a4983444a04a4a1134, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3fc26ef0f29367b4ea0422e0edf3b488, type: 3}
@@ -155,6 +157,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b898c2a16326f834bb17011c81188399, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 84673c5dc2207df489111fac527f6e02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9246f9d100ccf4469e929f1be958f2b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6ca63846a3490f340a6e0db3ea668b4c, type: 3}
 - Class: 114
@@ -382,6 +386,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b033b43dc76e9464b9ce3edbf4842a37, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7b50488a5da1b684c88f19a0c15a2291, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: e23066d7f6cfa354d91d0033239622a8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3f24f58a0355af44a8aa55d37483965f, type: 3}
@@ -529,11 +535,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 136
   Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 - Class: 143
   Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
@@ -622,7 +634,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_1/adult_woman_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_migawari_circle.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel/shop_angel.asset
-- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.prefab
+- Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_boss.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.cdi3.json
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u306F\u3070\u305F\u304D1.anim"
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.asset
@@ -632,7 +644,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_noroi_spotlight.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_hp_moving.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.model3.json
-- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.asset
+- Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.prefab
 - Assets/assetbundle_resources/Prefab/MyLive2D/mylive2d_shop_succubus.prefab
 - Assets/assetbundle_resources/Prefab/Gimmicks/Meshes/gimmick_hashigo.Platform-Mesh.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_2/main_adult_man_2.4096/main_adult_man_2_texture_00.png
@@ -644,7 +656,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.2048/shop_angel_weapon_texture_00.png
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_angel_weapon/shop_angel_weapon.asset
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_devil_5.prefab
-- Assets/assetbundle_resources/Prefab/Stage/wid_item_icon.prefab
+- Assets/assetbundle_resources/Prefab/Live2D_Models/shop_devil/shop_devil.asset
 - Assets/assetbundle_resources/Prefab/Stage/wid_time_count_toushi.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/adult_woman_2/adult_woman_2.asset
 - Assets/assetbundle_resources/Prefab/Effects/effect_bloods.prefab
@@ -653,6 +665,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_2/main_adult_woman_2.prefab
 - Assets/assetbundle_resources/Prefab/Effects/effect_PSI_B.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_coins.prefab
+- Assets/assetbundle_resources/Prefab/Stage/wid_item_icon.prefab
 - Assets/assetbundle_resources/Prefab/Music.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_kumo/shop_kumo.controller
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_3/fairy_3.2048/fairy_3_texture_00.png

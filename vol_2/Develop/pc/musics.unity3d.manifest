@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 1050404967
+CRC: 2325668602
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 968988791a9d2e601407f1bf1fa504a5
+    Hash: 457b3083d75931592dbddb90b027a4c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f62106ebcd69d3376e7f57728f37ecf8
+    Hash: 36c4601d166a228dad24f23c65d52d35
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -25,7 +25,6 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_safezone.wav
 - Assets/assetbundle_resources/Music/mu_angel_mura.wav
 - Assets/assetbundle_resources/Music/mu_sanka.wav
-- Assets/assetbundle_resources/Music/mu_yousei_boss.wav
 - Assets/assetbundle_resources/Music/mu_shop_1.wav
 - Assets/assetbundle_resources/Music/mu_devil_1.wav
 - Assets/assetbundle_resources/Music/mu_wind_1.wav
@@ -39,6 +38,7 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_psi.wav
 - Assets/assetbundle_resources/Music/mu_angel_2.wav
 - Assets/assetbundle_resources/Music/mu_battle_1.wav
+- Assets/assetbundle_resources/Music/mu_fairy_boss.wav
 - Assets/assetbundle_resources/Music/mu_yousei_dungeon_1.wav
 - Assets/assetbundle_resources/Music/mu_battle_3.wav
 - Assets/assetbundle_resources/Music/mu_devil_3.wav
