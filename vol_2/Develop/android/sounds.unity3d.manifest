@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 2517682868
+CRC: 3166113312
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96914663d5df3e4daa962869203b8009
+    Hash: 933dd6f6d154c854cacffbfa4932b53e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 653633ba9f7d35d952ea4e48f52aecf1
+    Hash: 733b2b086dd2191d744dd28f72b52173
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -36,6 +36,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_dialog_open.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_water_1.wav
 - Assets/assetbundle_resources/Sound/so_menu_back.wav
+- Assets/assetbundle_resources/Sound/_so_worth_lost.wav
 - Assets/assetbundle_resources/Sound/so_menu_checkbox_on.wav
 - Assets/assetbundle_resources/Sound/so_water_in.mp3
 - Assets/assetbundle_resources/Sound/so_glass_wareru_1.mp3
@@ -49,6 +50,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_menu_alert_1.wav
 - Assets/assetbundle_resources/Sound/so_item_seiri.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_2.wav
+- Assets/assetbundle_resources/Sound/so_worth_get.wav
 - Assets/assetbundle_resources/Sound/so_menu_input_field.wav
 - Assets/assetbundle_resources/Sound/so_kubiwa_3.mp3
 - Assets/assetbundle_resources/Sound/so_doui_1.wav
@@ -66,13 +68,14 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_kinzoku_shild_drop_3.wav
 - Assets/assetbundle_resources/Sound/so_area_ban_silen.wav
 - Assets/assetbundle_resources/Sound/so_gun_shot.wav
-- Assets/assetbundle_resources/Sound/so_kago_open.wav
+- Assets/assetbundle_resources/Sound/_so_worth_get.wav
 - Assets/assetbundle_resources/Sound/so_shot_star_2.mp3
 - Assets/assetbundle_resources/Sound/so_jar_open.wav
 - Assets/assetbundle_resources/Sound/so_damage_succubus_drain.mp3
 - Assets/assetbundle_resources/Sound/so_hikari_tame_1.wav
-- Assets/assetbundle_resources/Sound/so_menu_click.wav
+- Assets/assetbundle_resources/Sound/so_kago_open.wav
 - Assets/assetbundle_resources/Sound/so_menu_send.wav
+- Assets/assetbundle_resources/Sound/so_menu_click.wav
 - Assets/assetbundle_resources/Sound/so_souko_1.mp3
 - Assets/assetbundle_resources/Sound/so_announce_checkbox_on.wav
 - Assets/assetbundle_resources/Sound/so_fairy_4_sword.mp3
@@ -99,7 +102,9 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_jinari_3.wav
 - Assets/assetbundle_resources/Sound/so_announce_get.wav
 - Assets/assetbundle_resources/Sound/so_recover_1_fast.wav
+- Assets/assetbundle_resources/Sound/so_slot_reel.wav
 - Assets/assetbundle_resources/Sound/so_breath_dragon_1_sp2.wav
+- Assets/assetbundle_resources/Sound/so_clean.mp3
 - Assets/assetbundle_resources/Sound/so_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_end_1.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_1.wav
@@ -146,11 +151,13 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_jar_close.wav
 - Assets/assetbundle_resources/Sound/so_announce_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ki_2.wav
+- Assets/assetbundle_resources/Sound/so_worth_lost.wav
 - Assets/assetbundle_resources/Sound/so_hikari_tame_2.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_kanaami_2.wav
 - Assets/assetbundle_resources/Sound/so_angel_5_tsuku.mp3
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_2.wav
 - Assets/assetbundle_resources/Sound/so_equip_1.wav
+- Assets/assetbundle_resources/Sound/so_slot_reel_stop.wav
 - Assets/assetbundle_resources/Sound/so_succubus_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_kagi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_2.wav
@@ -160,6 +167,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_powerful_1_fast.wav
 - Assets/assetbundle_resources/Sound/so_angel_shot_2.mp3
 - Assets/assetbundle_resources/Sound/so_tataku_1.wav
+- Assets/assetbundle_resources/Sound/so_announce_checkbox_off.wav
 - Assets/assetbundle_resources/Sound/so_shot_gravity.mp3
 - Assets/assetbundle_resources/Sound/so_menu_enter.wav
 - Assets/assetbundle_resources/Sound/so_kinzoku_drop_3.wav

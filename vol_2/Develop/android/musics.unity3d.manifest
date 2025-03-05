@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 264906209
+CRC: 3520342803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7451b71ef4767989a908ac883482d605
+    Hash: 60d13103acbdb22bc6a9f421ea89cba6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 550322ace76851121acab7b9f2776068
+    Hash: 3b0e05cce2a533d596c59dd77ec16c70
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -36,6 +36,7 @@ Assets:
 - Assets/assetbundle_resources/Music/mu_shop_elf.wav
 - Assets/assetbundle_resources/Music/mu_fairy_1.wav
 - Assets/assetbundle_resources/Music/mu_psi.wav
+- Assets/assetbundle_resources/Music/_mu_result.wav
 - Assets/assetbundle_resources/Music/mu_angel_2.wav
 - Assets/assetbundle_resources/Music/mu_battle_1.wav
 - Assets/assetbundle_resources/Music/mu_fairy_boss.wav
