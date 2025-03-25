@@ -1,18 +1,22 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 4057258071
+CRC: 2232122685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e3af22a6390d033d44fe421b853e8e1
+    Hash: 551bfa16f7f41c370a3dd218969e40f4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 86769d93aaa62bef913eeb38d5e2ad49
+    Hash: 608a5b0a7b18274328cc71ade85e2aef
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 588ae646a11b46b220397133ab66243b
+    Hash: d42d350459e1675980d8dd77633c52ee
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
 - Class: 28
@@ -20,8 +24,18 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
   Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 1839735485
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
@@ -51,6 +65,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Effects/eff_add_2/Atlas_eff_add_2.mat
 - Assets/assetbundle_resources/Textures/Additive/ngui/Atlas_additive_1.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_2.png
+- Assets/assetbundle_resources/Textures/Grounds/cave_1/sprite/palete_cave_1_1_back_wall_tiling.prefab
 - Assets/assetbundle_resources/Textures/Grounds/backgrounds/tex_labo_background_red.png
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_2.png
 - Assets/assetbundle_resources/Textures/Effects/eff_add_1/Atlas_eff_add_1.mat
@@ -71,7 +86,9 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.mat
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.mat
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/normal/Atlas_bk_fairy_castle_normal_1.png
+- Assets/assetbundle_resources/Textures/Grounds/cave_1/sprite/mist_1.asset
 - Assets/assetbundle_resources/Textures/Grounds/makai_4/ngui/Atlas_makai_4_4.png
+- Assets/assetbundle_resources/Textures/Grounds/mist/sprite/palette_mist_1.prefab
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_3.mat
 - Assets/assetbundle_resources/Textures/Grounds/crystal_1/ngui/Atlas_grounds_crystal_1.asset
 - Assets/assetbundle_resources/Textures/Gimmicks/ngui/Atlas_gimmick_1.asset
@@ -114,6 +131,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Parts/ngui/addisive/Atlas_parts_addisive_1.mat
 - Assets/assetbundle_resources/Textures/Grounds/makai_4/ngui/Atlas_makai_4_2.png
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.png
+- Assets/assetbundle_resources/Textures/Grounds/cave_1/sprite/1_back_wall_tiling.png
 - Assets/assetbundle_resources/Textures/Grounds/makai_4/ngui/Atlas_makai_4_2.mat
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_4.png
 - Assets/assetbundle_resources/Textures/Grounds/makai_1/ngui/Atlas_makai_1_1.png
@@ -149,6 +167,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/castle/ngui/normal/Atlas_castle_normal_1_c1.asset
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_3.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_2.asset
+- Assets/assetbundle_resources/Textures/Grounds/mist/sprite/mist_1.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_2/ngui/Atlas_tenkai_2_1_add.png
 - Assets/assetbundle_resources/Textures/Effects/eff_add_2/Atlas_eff_add_2.asset
 - Assets/assetbundle_resources/Textures/Grounds/bk_fairy_castle/ngui/add/Atlas_bk_fairy_castle_add_1.png
@@ -164,10 +183,10 @@ Assets:
 - Assets/assetbundle_resources/Textures/Parts/ngui/store_images/Atlas_store_images.png
 - Assets/assetbundle_resources/Textures/Grounds/makai_4/ngui/Atlas_makai_4_1.png
 - Assets/assetbundle_resources/Textures/Grounds/makai_4/ngui/Atlas_makai_4_5.mat
-- Assets/assetbundle_resources/Textures/Entrance/ngui/Atlas_entrance_1.asset
-- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.png
-- Assets/assetbundle_resources/Textures/Grounds/makai_2/ngui/Atlas_makai_2_1.png
 - Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.mat
+- Assets/assetbundle_resources/Textures/Grounds/mori_1_human/ngui/Atlas_mori_1_human_1.png
+- Assets/assetbundle_resources/Textures/Entrance/ngui/Atlas_entrance_1.asset
+- Assets/assetbundle_resources/Textures/Grounds/makai_2/ngui/Atlas_makai_2_1.png
 - Assets/assetbundle_resources/Textures/ThirdParty/ngui/Atlas_thirdparty.asset
 - Assets/assetbundle_resources/Textures/Effects/eff_1/Atlas_eff_1.mat
 - Assets/assetbundle_resources/Textures/Grounds/cave_tenkai/ngui/Atlas_cave_tenkai_1.asset
@@ -183,6 +202,7 @@ Assets:
 - Assets/assetbundle_resources/Textures/Grounds/makai_3/ngui/Atlas_makai_3_1.mat
 - Assets/assetbundle_resources/Textures/Items/ngui/Atlas_items_1.png
 - Assets/assetbundle_resources/Textures/Effects/eff_2/Atlas_eff_2.png
+- Assets/assetbundle_resources/Textures/Grounds/cave_1/sprite/1_back_wall_tiling.asset
 - Assets/assetbundle_resources/Textures/Grounds/backgrounds/tex_white_background.png
 - Assets/assetbundle_resources/Textures/Grounds/tenkai_1/ngui/Atlas_tenkai_1_1.png
 - Assets/assetbundle_resources/Textures/Grounds/makai_2/ngui/Atlas_makai_2_1.mat

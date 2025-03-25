@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 2363448709
+CRC: 3895495124
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 938fe90aae05c7b41899fc5276fe9557
+    Hash: ec6adfa6228a4c1eac4054e251d97de3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6df8ca1fc58d710a4df926e9363ee49d
+    Hash: 0ca615a52be37b7f8b7e30dfd83d7599
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -19,9 +19,11 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/assetbundle_resources/Sound/so_firstperson_land.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_1.wav
-- Assets/assetbundle_resources/Sound/so_shot_hikari_1.wav
+- Assets/assetbundle_resources/Sound/so_kusari_cut_1.wav
 - Assets/assetbundle_resources/Sound/so_box_yabure_1.wav
 - Assets/assetbundle_resources/Sound/so_water_in_sub.wav
+- Assets/assetbundle_resources/Sound/so_shot_hikari_1.wav
+- Assets/assetbundle_resources/Sound/so_area_start.wav
 - Assets/assetbundle_resources/Sound/so_angel_6_shild_kick.mp3
 - Assets/assetbundle_resources/Sound/so_fuku_kick.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_ishi_1.wav
@@ -126,9 +128,10 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_breath_dragon_1.wav
 - Assets/assetbundle_resources/Sound/so_damage_noroi.wav
 - Assets/assetbundle_resources/Sound/so_arcana_throw.mp3
-- Assets/assetbundle_resources/Sound/so_switch_1.mp3
+- Assets/assetbundle_resources/Sound/so_kusari_cut_2.wav
 - Assets/assetbundle_resources/Sound/so_guard_1.mp3
 - Assets/assetbundle_resources/Sound/so_menu_click_3.wav
+- Assets/assetbundle_resources/Sound/so_switch_1.mp3
 - Assets/assetbundle_resources/Sound/so_powerup_1.mp3
 - Assets/assetbundle_resources/Sound/so_gun_kamae.wav
 - Assets/assetbundle_resources/Sound/so_attack_damage_2.mp3
@@ -158,6 +161,7 @@ Assets:
 - Assets/assetbundle_resources/Sound/so_ashioto_kusa_2.wav
 - Assets/assetbundle_resources/Sound/so_equip_1.wav
 - Assets/assetbundle_resources/Sound/so_slot_reel_stop.wav
+- Assets/assetbundle_resources/Sound/so_kusari_cut_last.mp3
 - Assets/assetbundle_resources/Sound/so_succubus_levelup.mp3
 - Assets/assetbundle_resources/Sound/so_door_kagi_1.wav
 - Assets/assetbundle_resources/Sound/so_ashioto_kinzoku_2.wav

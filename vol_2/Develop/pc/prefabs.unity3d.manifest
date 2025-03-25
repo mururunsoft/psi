@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.23f1
-CRC: 3675120248
+CRC: 371312513
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: df8510855bfd4046a4fd3eb8063bfb22
+    Hash: 6ebaf5dbb7e4fa8efb5216933b195c84
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5be1c9afdeb68a2c8cde508faab02d5a
+    Hash: 419aacc24b6b0c30d688b93be4516ccf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 346c8d4edb0c3de14d5467c9682be471
+    Hash: e88ab9bbc11f435a96c9ab6e82360cfe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -156,6 +156,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fc5785eb780f2c346a46789deff98e2a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 64236b30ce169994cb543367ef02794b, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3fc26ef0f29367b4ea0422e0edf3b488, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b898c2a16326f834bb17011c81188399, type: 3}
@@ -163,6 +165,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 84673c5dc2207df489111fac527f6e02, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e9246f9d100ccf4469e929f1be958f2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da6707a2ea49988468cf0a90c97c5d88, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ddbc51a02d3abda4bbe0767fdcb51483, type: 3}
 - Class: 114
@@ -696,6 +700,7 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_man_1/main_adult_man_1.cdi3.json
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_1/main_child_man_1.model3.json
 - Assets/assetbundle_resources/Prefab/Network/Enemy/ene_fairy_2.prefab
+- Assets/assetbundle_resources/Prefab/Gimmicks/gimmick_start_area.prefab
 - "Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_cat_1/fairy_cat_1_\u30C7\u30D5\u30A9\u30EB\u30C8.anim"
 - Assets/assetbundle_resources/Prefab/Network/Effects/effect_smork.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_adult_woman_2/main_adult_woman_2.model3.json
@@ -794,9 +799,10 @@ Assets:
 - Assets/assetbundle_resources/Prefab/Live2D_Models/fairy_1/fairy_1.asset
 - Assets/assetbundle_resources/Prefab/Live2D_Models/shop_succubus/shop_succubus.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_woman_2/main_child_woman_2.model3.json
-- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_options.prefab
+- Assets/assetbundle_resources/Prefab/Stage/wid_select_friend.prefab
 - Assets/assetbundle_resources/Prefab/Live2D_Models/main_child_man_2/main_child_man_2.controller
 - Assets/assetbundle_resources/Prefab/Effects/effect_knife_slash_2.prefab
+- Assets/assetbundle_resources/Prefab/Widgets/checkbox_fuku_options.prefab
 - Assets/assetbundle_resources/Prefab/Stage/wid_stage_hint.prefab
 - Assets/assetbundle_resources/Prefab/Widgets/wid_score.prefab
 - Assets/assetbundle_resources/Prefab/Title/live2d_title_adult_man_1.prefab
